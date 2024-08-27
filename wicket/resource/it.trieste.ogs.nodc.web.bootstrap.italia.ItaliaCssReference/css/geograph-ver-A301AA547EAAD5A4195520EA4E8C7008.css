@@ -1,0 +1,152 @@
+@font-face {
+  font-family: 'Geograph';
+  src: url('../../../../fonts/Geograph/geograph-web-thin-italic.eot');
+  src: url('../../../../fonts/Geograph/geograph-web-thin-italicd41d.eot?#iefix') format('embedded-opentype'),
+    url('../../../../fonts/Geograph/geograph-web-thin-italic.woff2') format('woff2'),
+    url('../../../../fonts/Geograph/geograph-web-thin-italic.woff') format('woff');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Geograph';
+  src: url('../../../../fonts/Geograph/geograph-web-thin.eot');
+  src: url('../../../../fonts/Geograph/geograph-web-thind41d.eot?#iefix') format('embedded-opentype'),
+    url('../../../../fonts/Geograph/geograph-web-thin.woff2') format('woff2'),
+    url('../../../../fonts/Geograph/geograph-web-thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geograph';
+  src: url('../../../../fonts/Geograph/geograph-web-black.eot');
+  src: url('../../../../fonts/Geograph/geograph-web-blackd41d.eot?#iefix') format('embedded-opentype'),
+    url('../../../../fonts/Geograph/geograph-web-black.woff2') format('woff2'),
+    url('../../../../fonts/Geograph/geograph-web-black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geograph';
+  src: url('../../../../fonts/Geograph/geograph-web-medium.eot');
+  src: url('../../../../fonts/Geograph/geograph-web-mediumd41d.eot?#iefix') format('embedded-opentype'),
+    url('../../../../fonts/Geograph/geograph-web-medium.woff2') format('woff2'),
+    url('../../../../fonts/Geograph/geograph-web-medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geograph';
+  src: url('../../../../fonts/Geograph/geograph-web-light-italic.eot');
+  src: url('../../../../fonts/Geograph/geograph-web-light-italicd41d.eot?#iefix') format('embedded-opentype'),
+    url('../../../../fonts/Geograph/geograph-web-light-italic.woff2') format('woff2'),
+    url('../../../../fonts/Geograph/geograph-web-light-italic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geograph';
+  src: url('../../../../fonts/Geograph/geograph-web-black-italic.eot');
+  src: url('../../../../fonts/Geograph/geograph-web-black-italicd41d.eot?#iefix') format('embedded-opentype'),
+    url('../../../../fonts/Geograph/geograph-web-black-italic.woff2') format('woff2'),
+    url('../../../../fonts/Geograph/geograph-web-black-italic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geograph';
+  src: url('../../../../fonts/Geograph/geograph-web-bold-italic.eot');
+  src: url('../../../../fonts/Geograph/geograph-web-bold-italicd41d.eot?#iefix') format('embedded-opentype'),
+    url('../../../../fonts/Geograph/geograph-web-bold-italic.woff2') format('woff2'),
+    url('../../../../fonts/Geograph/geograph-web-bold-italic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geograph';
+  src: url('../../../../fonts/Geograph/geograph-web-regular.eot');
+  src: url('../../../../fonts/Geograph/geograph-web-regulard41d.eot?#iefix') format('embedded-opentype'),
+    url('../../../../fonts/Geograph/geograph-web-regular.woff2') format('woff2'),
+    url('../../../../fonts/Geograph/geograph-web-regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geograph';
+  src: url('../../../../fonts/Geograph/geograph-web-bold.eot');
+  src: url('../../../../fonts/Geograph/geograph-web-boldd41d.eot?#iefix') format('embedded-opentype'),
+    url('../../../../fonts/Geograph/geograph-web-bold.woff2') format('woff2'),
+    url('../../../../fonts/Geograph/geograph-web-bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geograph';
+  src: url('../../../../fonts/Geograph/geograph-web-light.eot');
+  src: url('../../../../fonts/Geograph/geograph-web-lightd41d.eot?#iefix') format('embedded-opentype'),
+    url('../../../../fonts/Geograph/geograph-web-light.woff2') format('woff2'),
+    url('../../../../fonts/Geograph/geograph-web-light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geograph';
+  src: url('../../../../fonts/Geograph/geograph-web-regular-italic.eot');
+  src: url('../../../../fonts/Geograph/geograph-web-regular-italicd41d.eot?#iefix') format('embedded-opentype'),
+    url('../../../../fonts/Geograph/geograph-web-regular-italic.woff2') format('woff2'),
+    url('../../../../fonts/Geograph/geograph-web-regular-italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geograph';
+  src: url('../../../../fonts/Geograph/geograph-web-bold-italic.eot');
+  src: url('../../../../fonts/Geograph/geograph-web-bold-italicd41d.eot?#iefix') format('embedded-opentype'),
+    url('../../../../fonts/Geograph/geograph-web-bold-italic.woff2') format('woff2'),
+    url('../../../../fonts/Geograph/geograph-web-bold-italic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geograph';
+  src: url('../../../../fonts/Geograph/geograph-web-bold.eot');
+  src: url('../../../../fonts/Geograph/geograph-web-boldd41d.eot?#iefix') format('embedded-opentype'),
+    url('../../../../fonts/Geograph/geograph-web-bold.woff2') format('woff2'),
+    url('../../../../fonts/Geograph/geograph-web-bold.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geograph';
+  src: url('../../../../fonts/Geograph/geograph-web-medium-italic.eot');
+  src: url('../../../../fonts/Geograph/geograph-web-medium-italicd41d.eot?#iefix') format('embedded-opentype'),
+    url('../../../../fonts/Geograph/geograph-web-medium-italic.woff2') format('woff2'),
+    url('../../../../fonts/Geograph/geograph-web-medium-italic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}

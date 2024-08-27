@@ -1,0 +1,1 @@
+(function(a){if(!window.Wicket){window.Wicket={}}if(Wicket.FilterForm){return}Wicket.FilterForm={focused:function(c,b){document.getElementById(b).value=c.id},restore:function(b){var c=document.getElementById(b);if(c!==null){var d=c.value;if(d!==""){document.getElementById(d).focus()}}}}})();
