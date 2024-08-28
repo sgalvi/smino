@@ -230,13 +230,13 @@
         <div class="col-12 col-sm-6 dati-wrapper bq-box">
           <article class="dati dati--realtime bq-bordered">
             <div class="field field--name-field-media-image field--type-image">
-              <img src="../../images/fillme.png" class="img-fluid" width="800" height="600" role="presentation" />
+              <img src="../../images/venetone.png" class="img-fluid" width="800" height="600" role="presentation" />
             </div>
 
 
             <h3>
               <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle"
-                href="./fillme.php">
+                href="./v1.php">
 
                 Rete Accelerometrica Urbana 
 
@@ -249,8 +249,7 @@
               </a>
             </h3>
             <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          </article>
+            La Regione Veneto ha incaricato l'OGS di implementare una rete di 300 accelerometri per monitorare l'attività sismica, stimare rapidamente i danni e migliorare la prevenzione. Il progetto include lo studio degli effetti locali, delle caratteristiche degli edifici e l'approfondimento delle conoscenze sulla deformazione crostale e il ruolo delle acque sotterranee nei terremoti.          </article>
         </div>
 </div>
 </div>

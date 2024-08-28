@@ -287,23 +287,23 @@
                 <div class="row bs-2col node node--type-news node--view-mode-card2col">
                   <div class="col-sm-6 bs-region bs-region--left">
                     <div class="field field--name-field-cover">
-                      <img src="../../images/sismo.png" alt="Festival dell’acqua (Water Festival) against plastic pollution" class="img-fluid"/>
+                      <img src="../../images/venetone.png" alt="Venetone" class="img-fluid"/>
                     </div>
                   </div>
                   <div class="col-sm-6 bs-region bs-region--right">
                     
                     <div class="field field--name-node-title">
                       <h3>
-                        <a href="../../activities/news/Festival_dellacqua_against_plastic_pollution.html">La rete Geodetica</a>
+                        <a href="./v1.php">La rete Acceletometrica Urbana</a>
                       </h3>
                     </div>
 
                     <div class="clearfix text-formatted field field--name-body">
-                      <p>FReDNet è una rete di 22 ricevitori GNSS per monitorare le deformazioni crostali nel Friuli Venezia Giulia, sviluppata dal 2002. Fornisce un servizio di navigazione georeferenziata in tempo reale ed è integrata con altre reti geodetiche nazionali ed europee.</p>
+                      <p>La Regione del Veneto ha affidato all'OGS l'attuazione dell'Azione 5.1 del piano POR-FESR 2014-2020 per "L'integrazione e lo sviluppo di sistemi di prevenzione multirischio anche attraverso reti digitali di sensori per l'organizzazione del soccorso precoce"</p>
                     </div>
 
                     <div class="field field--name-node-link field--type-ds field--label-hidden field__item">
-                      <a href="activities/news/Festival_dellacqua_against_plastic_pollution.html" class="bqicon bqicon-inline read-more bq-processed">read more<svg class="icon">
+                      <a href="./v1.php" class="bqicon bqicon-inline read-more bq-processed">read more<svg class="icon">
                           <use href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use></svg
                       ></a>
                     </div>
