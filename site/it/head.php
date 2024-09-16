@@ -132,12 +132,9 @@
                     <!-- <li class="nav-item">
                       <a class="nav-link" href="./content/team.php"><span> Progetti </span></a>
                     </li> -->
-                    <li class="nav-item">
-                      <a class="nav-link" href=""><span> Contattaci</span></a>
-                    </li>
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
-                        <span>Link utili</span>
+                        <span>Le nostre reti</span>
                         <svg class="icon">
                           <use
                             href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
@@ -148,17 +145,56 @@
                         <div class="link-list-wrapper">
                           <ul class="link-list">
                             <li>
-                              <a class="list-item" href="https://www.ogs.it/" target="_blank"><span>OGS</span></a>
+                              <a class="list-item" href="./sismo.php" target="_blank"><span>Rete Sismometrica</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://frednet.crs.ogs.it/" target="_blank"><span>Frednet</span></a>
+                              <a class="list-item" href="./frednet.php" target="_blank"><span>Rete Geodetica</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://rts.crs.inogs.it/" target="_blank"><span>RTS</span></a>
+                              <a class="list-item" href="https://rts.crs.inogs.it/" target="_blank"><span>La rete Fibra</span></a>
+                            </li>
+                            <li>
+                              <a class="list-item" href="https://rts.crs.inogs.it/" target="_blank"><span>La rete Gravimetrica</span></a>
+                            </li>
+                            <li>
+                              <a class="list-item" href="https://rts.crs.inogs.it/" target="_blank"><span>Rete Accelerometrica</span></a>
+                            </li>
+                            <li>
+                              <a class="list-item" href="https://rts.crs.inogs.it/" target="_blank"><span>Rete Accelerometrica Urbana</span></a>
+                            </li>
+
+                          </ul>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
+                        <span>I nostri progetti</span>
+                        <svg class="icon">
+                          <use
+                            href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
+                          </use>
+                        </svg>
+                      </a>
+                      <div class="dropdown-menu">
+                        <div class="link-list-wrapper">
+                          <ul class="link-list">
+                            <li>
+                              <a class="list-item" href="https://www.ogs.it/" target="_blank"><span>Progetto 1</span></a>
+                            </li>
+                            <li>
+                              <a class="list-item" href="https://frednet.crs.ogs.it/" target="_blank"><span>Progetto 2</span></a>
+                            </li>
+                            <li>
+                              <a class="list-item" href="https://rts.crs.inogs.it/" target="_blank"><span>Progetto 3</span></a>
                             </li>
                           </ul>
                         </div>
                       </div>
+                    </li>
+
+                    <li class="nav-item">
+                      <a class="nav-link" href="contact-us.php"><span>Contattaci</span></a>
                     </li>
 
                   </ul>

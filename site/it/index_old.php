@@ -80,9 +80,9 @@
     <div class="container">
       <div class="row">
         <div class="col-12">
-          
-          <h1 class="pt-4 mb-5">In due parole</h1>
-    
+          <h2 class="section-title">
+            In due parole
+          </h2>
         </div>
         <p>
           SMINO è una infrastruttura nazionale (PNIR 2021-2027).
@@ -103,133 +103,156 @@
 
         </p>
         </br>
-      
-        <div class="container">
-        <div class="row">
-          <div class="col-12 col-sm-12 col-lg-12">
-            <div class="inner-content pb-5">
-            <h2 class="section-title">Le nostre reti</h2>
-              
-      
-        <div class="row">
-          <div class="col-12 col-sm-4 bq-box">
-            <article class="teaser teaser-news bq-bordered">
-              <div class="field field--name-field-media-image field--type-image">
-                <img src="../../images/sismometrica.png" alt="La rete sismometrica" class="img-fluid"/>
-              </div>
-              <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="news/Festival_dellacqua_against_plastic_pollution.html">La rete sismometrica</a>
-              </h3>
-              <p>La Rete sismometrica dell'Italia nord-orientale, gestita dall'OGS, comprende 43 stazioni che monitorano i terremoti in tempo reale. I dati sono condivisi con il sistema sismico nazionale e con reti di paesi vicini, e fanno parte della rete transfrontaliera CE3RN, favorendo la collaborazione internazionale.</p>
-              <a class="read-more" href="./sismo.php">
-                <span class="text">Leggi tutto</span>
-                <svg class="icon">
-                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
-                </svg>
-              </a>
-            </article>
-          </div>
-          
-          <div class="col-12 col-sm-4 bq-box">
-            <article class="teaser teaser-news bq-bordered">
-              <div class="field field--name-field-media-image field--type-image">
-                <img src="../../images/frednet.png" alt="La rete Geodetica" class="img-fluid"/>
-              </div>
-              <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./frednet.php"> La rete Geodetica </a>
-              </h3>
-              <p>FReDNet è una rete di 22 ricevitori GNSS per monitorare le deformazioni crostali nel Friuli Venezia Giulia, sviluppata dal 2002. Fornisce un servizio di navigazione georeferenziata in tempo reale ed è integrata con altre reti geodetiche nazionali ed europee. </p>
-              <a class="read-more" href="./frednet.php">
-                <span class="text">Leggi tutto</span>
-                <svg class="icon">
-                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
-                </svg>
-              </a>
-            </article>
-          </div>
-          
-          <div class="col-12 col-sm-4 bq-box">
-            <article class="teaser teaser-news bq-bordered">
-              <div class="field field--name-field-media-image field--type-image">
-                <img src="../../images/fillme.png" alt="La rete Fibra" class="img-fluid"/>
-          </div>
-              <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href=""> La rete Fibra </a>
-              </h3>
-              <p>Listen to the National Oceanographic Data Centre&#039;s (NODC) interview  for the Italian state-owned public-service broadcasting organization (RAI) about the latest news on tackling marine litter pollution.</p>
-              <a class="read-more" href="news/Marine_litter_the_NODC_talks_about_it_on_RAI.html">
-                <span class="text">Leggi tutto</span>
-                <svg class="icon">
-                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
-                </svg>
-              </a>
-            </article>
-          </div>
-          
-          <div class="col-12 col-sm-4 bq-box">
-            <article class="teaser teaser-news bq-bordered">
-              <div class="field field--name-field-media-image field--type-image">
-                <img src="../../images/fillme.png" alt="La rete Gravimetrica  " class="img-fluid"/>
-              </div>
+        <!-- Rete sismometrica -->
+        <div class="col-12 col-sm-6 dati-wrapper bq-box">
+          <article class="dati dati--realtime bq-bordered">
+            <div class="field field--name-field-media-image field--type-image">
+              <img src="../../images/sismo.png" class="img-fluid" width="800" height="600" role="presentation" />
+            </div>
 
-              <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="news/Trieste_hosted_the_latest_EMODnet_Chemistry_Training_course.html"> La rete Gravimetrica </a>
-              </h3>
-              <p>What marine data and how to make it ready for submission? These and many other questions were answered during the training course of the EMODnet Chemistry project organised by NODC a few days ago.</p>
-              <a class="read-more" href="">
-                <span class="text">Leggi tutto</span>
-                <svg class="icon">
-                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+            <h3>
+              <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle"
+                href="./sismo.php">
+                La rete sismometrica
+                <svg class="icon icon-primary">
+                  <use
+                    href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle">
+                  </use>
                 </svg>
               </a>
-            </article>
-          </div>
-          
-          <div class="col-12 col-sm-4 bq-box">
-            <article class="teaser teaser-news bq-bordered">
-              <div class="field field--name-field-media-image field--type-image">
-                <img src="../../images/fillme.png" alt="La rete Accelerometrica" class="img-fluid"/>
-              </div>
+            </h3>
+            <p>
+              La Rete sismometrica dell'Italia nord-orientale, gestita dall'OGS, comprende 43 stazioni che monitorano i
+              terremoti in tempo reale. I dati sono condivisi con il sistema sismico nazionale e con reti di paesi
+              vicini, e fanno parte della rete transfrontaliera CE3RN, favorendo la collaborazione internazionale.
+            </p>
+        </div>
 
-              <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./strongmotion.php"> La rete Accelerometrica </a>
-              </h3>
-              <p>Per migliorare la registrazione di eventi sismici, 29 stazioni della rete sismometrica sono state dotate di sensori accelerometrici di alta qualità. Nell’ambito dei progetti "Edifici Sentinella", Interreg Armonia e Venet-one, sono stati installati oltre 100 sensori accelerometrici a medio costo. I dati sono acquisiti in tempo reale per una rapida stima dell’impatto sismico.</p>
-              <a class="read-more" href="./strongmotion.php">
-                <span class="text">Leggi tutto</span>
-                <svg class="icon">
-                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
-                </svg>
-              </a>
-            </article>
-          </div>
-          
-          <div class="col-12 col-sm-4 bq-box">
-            <article class="teaser teaser-news bq-bordered">
-              <div class="field field--name-field-media-image field--type-image">
-                <img src="../../images/venetone.png" alt="La rete Accelerometrica Urbana" class="img-fluid"/>
-              </div>
+        <!-- rete fredet start-->
+        <div class="col-12 col-sm-6 dati-wrapper bq-box">
+          <article class="dati dati--realtime bq-bordered">
+            <div class="field field--name-field-media-image field--type-image">
+              <img src="../../images/frednet.png" class="img-fluid" width="800" height="600" role="presentation" />
+            </div>
 
-              <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./v1.php"> La rete Accelerometrica Urbana </a>
-              </h3>
-              <p>La Regione Veneto ha incaricato l'OGS di implementare una rete di 300 accelerometri per monitorare l'attività sismica, stimare rapidamente i danni e migliorare la prevenzione. Il progetto include lo studio degli effetti locali, delle caratteristiche degli edifici e l'approfondimento delle conoscenze sulla deformazione crostale e il ruolo delle acque sotterranee nei terremoti.</p>
-              <a class="read-more" href="./v1.php">
-                <span class="text">Leggi tutto</span>
-                <svg class="icon">
-                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+
+            <h3>
+              <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle"
+                href="./frednet.php">
+
+                La rete Geodetica
+
+                <!-- <em>Stazioni fisse</em> -->
+                <svg class="icon icon-primary">
+                  <use
+                    href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle">
+                  </use>
                 </svg>
               </a>
-            </article>
-          </div>
+            </h3>
+            <p>
+              FReDNet è una rete di 22 ricevitori GNSS per monitorare le deformazioni crostali nel Friuli Venezia Giulia, sviluppata dal 2002. Fornisce un servizio di navigazione georeferenziata in tempo reale ed è integrata con altre reti geodetiche nazionali ed europee. </p>
+
+          </article>
         </div>
+        <!-- fibra -->
+        <div class="col-12 col-sm-6 dati-wrapper bq-box">
+          <article class="dati dati--realtime bq-bordered">
+            <div class="field field--name-field-media-image field--type-image">
+              <img src="../../images/fillme.png" class="img-fluid" width="800" height="600" role="presentation" />
+            </div>
+
+            <h3>
+              <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle"
+                href="./sismo.php">
+                La rete Fibra
+                <svg class="icon icon-primary">
+                  <use
+                    href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle">
+                  </use>
+                </svg>
+              </a>
+            </h3>
+            <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
         </div>
+
+        <!-- rete gravimetrica-->
+        <div class="col-12 col-sm-6 dati-wrapper bq-box">
+          <article class="dati dati--realtime bq-bordered">
+            <div class="field field--name-field-media-image field--type-image">
+              <img src="../../images/fillme.png" class="img-fluid" width="800" height="600" role="presentation" />
+            </div>
+
+
+            <h3>
+              <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle"
+                href="./fillme.php">
+
+                La rete Gravimetrica
+
+                <!-- <em>Stazioni fisse</em> -->
+                <svg class="icon icon-primary">
+                  <use
+                    href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle">
+                  </use>
+                </svg>
+              </a>
+            </h3>
+            <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          </article>
         </div>
+        <div class="col-12 col-sm-6 dati-wrapper bq-box">
+          <article class="dati dati--realtime bq-bordered">
+            <div class="field field--name-field-media-image field--type-image">
+              <img src="../../images/fillme.png" class="img-fluid" width="800" height="600" role="presentation" />
+            </div>
+
+            <h3>
+              <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle"
+                href="./sismo.php">
+                La rete accelerometrica
+                <svg class="icon icon-primary">
+                  <use
+                    href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle">
+                  </use>
+                </svg>
+              </a>
+            </h3>
+            <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
         </div>
+
+        <!-- rete gravimetrica-->
+        <div class="col-12 col-sm-6 dati-wrapper bq-box">
+          <article class="dati dati--realtime bq-bordered">
+            <div class="field field--name-field-media-image field--type-image">
+              <img src="../../images/venetone.png" class="img-fluid" width="800" height="600" role="presentation" />
+            </div>
+
+
+            <h3>
+              <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle"
+                href="./v1.php">
+
+                Rete Accelerometrica Urbana 
+
+                <!-- <em>Stazioni fisse</em> -->
+                <svg class="icon icon-primary">
+                  <use
+                    href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle">
+                  </use>
+                </svg>
+              </a>
+            </h3>
+            <p>
+            La Regione Veneto ha incaricato l'OGS di implementare una rete di 300 accelerometri per monitorare l'attività sismica, stimare rapidamente i danni e migliorare la prevenzione. Il progetto include lo studio degli effetti locali, delle caratteristiche degli edifici e l'approfondimento delle conoscenze sulla deformazione crostale e il ruolo delle acque sotterranee nei terremoti.          </article>
         </div>
-        </div>
-        </div>
-        
+</div>
+</div>
 
       <!-- end row-->
        <div class="home-third-row__wrapper">

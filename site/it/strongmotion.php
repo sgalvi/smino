@@ -76,38 +76,14 @@
 
           
           <p>
-            Per garantire la corretta registrazione anche di forti eventi sismici, 29 stazioni della rete
-sismometrica sono state equipaggiate anche con sensore accelerometrico di alta qualità. Inoltre,
-nell’ambito dei progetti “Edifici Sentinella” finanziato dalla Protezione Civile Regionale della
-Regione autonoma del Friuli Venezia Giulia e del progetto Interreg V-A Italia-Austria Armonia, e
-del Progetto Venet-one sono stati installati altri sensori accelerometrici a medio costo (più di 100) . I
-dati della rete sono acquisiti in tempo reale e la loro elaborazione contribuisce alla stima rapida
-dell’impatto degli eventi sismici.
+          Per garantire una corretta e completa registrazione anche di eventi sismici di forte intensità, 29 stazioni della rete sismometrica sono state equipaggiate con sensori accelerometrici di alta qualità, capaci di rilevare con precisione le accelerazioni generate durante un sisma. Questi sensori avanzati consentono di ottenere dati cruciali per comprendere la dinamica degli eventi sismici e per migliorare le valutazioni relative agli impatti sul territorio.
           </p>
-          <h2 class="pt-4 mb-3">
-            Rete Accelerometrica Urbana
-          </h2>
-          <p>
-            scegliere cosa si addice di piu come titolo. A me personalmente piace questo piu di tutti
-          </p>
-          <h3 class="lead">
-            Rete Accelerometrica Urbana
-          </h3>
-          <p>
-            scegliere cosa si addice di piu come titolo
-          </p>
-          <h2 class="lead">
-            Rete Accelerometrica Urbana
-          </h2>
-          <p>
-            scegliere cosa si addice di piu come titolo
-          </p>
-          <h3 class="pt-4 mb-5">
-            Rete Accelerometrica Urbana
-          </h3>
-          <p>
-            scegliere cosa si addice di piu come titolo
-          </p>
+        <p>
+        In aggiunta a queste dotazioni, nell’ambito di diversi progetti strategici, tra cui il progetto "Edifici Sentinella", finanziato dalla Protezione Civile Regionale della Regione autonoma del Friuli Venezia Giulia, il progetto Interreg V-A Italia-Austria Armonia e il Progetto Venet-one, sono stati installati più di 100 sensori accelerometrici a medio costo. Questi sensori, pur avendo un costo inferiore rispetto a quelli di alta qualità, rappresentano un’importante integrazione per il monitoraggio sismico su larga scala, migliorando la capacità di raccolta dati nelle aree sensibili.
+        </p>
+        <p>
+        I dati raccolti da questa rete di sensori vengono acquisiti in tempo reale grazie a sofisticati sistemi di trasmissione e comunicazione. L’elaborazione immediata di queste informazioni contribuisce significativamente alla stima rapida dell’impatto degli eventi sismici, offrendo strumenti utili per le autorità competenti nella gestione delle emergenze. Questo sistema avanzato di monitoraggio permette una reazione tempestiva in caso di terremoti, migliorando la sicurezza e la protezione delle persone e degli edifici nelle aree a rischio.
+        </p>
         </div>
       </main>
 
