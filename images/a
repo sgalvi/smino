@@ -1,0 +1,120 @@
+lzer0:~> pijuice_cli
+Traceback (most recent call last):
+  File "/usr/bin/pijuice_cli.py", line 2087, in <module>
+    loop.run()
+  File "/usr/lib/python3/dist-packages/urwid/main_loop.py", line 287, in run
+    self._run()
+  File "/usr/lib/python3/dist-packages/urwid/main_loop.py", line 385, in _run
+    self.event_loop.run()
+  File "/usr/lib/python3/dist-packages/urwid/main_loop.py", line 790, in run
+    self._loop()
+  File "/usr/lib/python3/dist-packages/urwid/main_loop.py", line 827, in _loop
+    self._watch_files[fd]()
+  File "/usr/lib/python3/dist-packages/urwid/raw_display.py", line 416, in <lambda>
+    wrapper = lambda: self.parse_input(
+                      ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/raw_display.py", line 515, in parse_input
+    callback(processed, processed_codes)
+  File "/usr/lib/python3/dist-packages/urwid/main_loop.py", line 412, in _update
+    self.process_input(keys)
+  File "/usr/lib/python3/dist-packages/urwid/main_loop.py", line 513, in process_input
+    k = self._topmost_widget.keypress(self.screen_size, k)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/container.py", line 598, in keypress
+    return self.top_w.keypress(self.top_w_size(size,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/container.py", line 1626, in keypress
+    key = self.focus.keypress(tsize, key)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/container.py", line 2316, in keypress
+    key = w.keypress((mc,) + size[1:], key)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/decoration.py", line 622, in keypress
+    return self._original_widget.keypress(maxvals, key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/listbox.py", line 968, in keypress
+    key = focus_widget.keypress((maxcol,),key)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/decoration.py", line 622, in keypress
+    return self._original_widget.keypress(maxvals, key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/wimp.py", line 543, in keypress
+    self._emit('click')
+  File "/usr/lib/python3/dist-packages/urwid/widget.py", line 461, in _emit
+    signals.emit_signal(self, name, self, *args)
+  File "/usr/lib/python3/dist-packages/urwid/signals.py", line 265, in emit
+    result |= self._call_callback(callback, user_arg, user_args, args)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/signals.py", line 295, in _call_callback
+    return bool(callback(*args_to_pass))
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/bin/pijuice_cli.py", line 1994, in item_chosen
+    callback()
+  File "/usr/bin/pijuice_cli.py", line 713, in __init__
+    self.device_config = self._get_device_config()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/bin/pijuice_cli.py", line 797, in _get_device_config
+    for button in self.BUTTONS:
+                  ^^^^^^^^^^^^
+AttributeError: 'ButtonsTab' object has no attribute 'BUTTONS'
+lzer0:~>
+
+
+zer0:~> sudo pijuice_cli
+Traceback (most recent call last):
+  File "/usr/bin/pijuice_cli.py", line 2087, in <module>
+    loop.run()
+  File "/usr/lib/python3/dist-packages/urwid/main_loop.py", line 287, in run
+    self._run()
+  File "/usr/lib/python3/dist-packages/urwid/main_loop.py", line 385, in _run
+    self.event_loop.run()
+  File "/usr/lib/python3/dist-packages/urwid/main_loop.py", line 790, in run
+    self._loop()
+  File "/usr/lib/python3/dist-packages/urwid/main_loop.py", line 827, in _loop
+    self._watch_files[fd]()
+  File "/usr/lib/python3/dist-packages/urwid/raw_display.py", line 416, in <lambda>
+    wrapper = lambda: self.parse_input(
+                      ^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/raw_display.py", line 515, in parse_input
+    callback(processed, processed_codes)
+  File "/usr/lib/python3/dist-packages/urwid/main_loop.py", line 412, in _update
+    self.process_input(keys)
+  File "/usr/lib/python3/dist-packages/urwid/main_loop.py", line 513, in process_input
+    k = self._topmost_widget.keypress(self.screen_size, k)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/container.py", line 598, in keypress
+    return self.top_w.keypress(self.top_w_size(size,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/container.py", line 1626, in keypress
+    key = self.focus.keypress(tsize, key)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/container.py", line 2316, in keypress
+    key = w.keypress((mc,) + size[1:], key)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/decoration.py", line 622, in keypress
+    return self._original_widget.keypress(maxvals, key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/listbox.py", line 968, in keypress
+    key = focus_widget.keypress((maxcol,),key)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/decoration.py", line 622, in keypress
+    return self._original_widget.keypress(maxvals, key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/wimp.py", line 543, in keypress
+    self._emit('click')
+  File "/usr/lib/python3/dist-packages/urwid/widget.py", line 461, in _emit
+    signals.emit_signal(self, name, self, *args)
+  File "/usr/lib/python3/dist-packages/urwid/signals.py", line 265, in emit
+    result |= self._call_callback(callback, user_arg, user_args, args)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urwid/signals.py", line 295, in _call_callback
+    return bool(callback(*args_to_pass))
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/bin/pijuice_cli.py", line 1994, in item_chosen
+    callback()
+  File "/usr/bin/pijuice_cli.py", line 713, in __init__
+    self.device_config = self._get_device_config()
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/bin/pijuice_cli.py", line 797, in _get_device_config
+    for button in self.BUTTONS:
+                  ^^^^^^^^^^^^

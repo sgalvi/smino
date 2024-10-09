@@ -126,7 +126,7 @@
                 <div class="menu-wrapper">
                   <ul class="navbar-nav">
                     <li class="nav-item">
-                      <a class="nav-link active" href="index.php"><span>Home</span></a>
+                      <a class="nav-link" href="index.php"><span>Home</span></a>
                     </li>
                     
                     <!-- <li class="nav-item">
@@ -151,16 +151,16 @@
                               <a class="list-item" href="./frednet.php" target="_blank"><span>Rete Geodetica</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://rts.crs.inogs.it/" target="_blank"><span>La rete Fibra</span></a>
+                              <a class="list-item" href="./strongmotion.php" target="_blank"><span>Rete Accelerometrica</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://rts.crs.inogs.it/" target="_blank"><span>La rete Gravimetrica</span></a>
+                              <a class="list-item" href="./v1.php" target="_blank"><span>Rete Accelerometrica Diffusa</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://rts.crs.inogs.it/" target="_blank"><span>Rete Accelerometrica</span></a>
+                              <a class="list-item" href="" target="_blank"><span>La rete Fibra</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://rts.crs.inogs.it/" target="_blank"><span>Rete Accelerometrica Urbana</span></a>
+                              <a class="list-item" href="./gravimetrica.php" target="_blank"><span>La rete Gravimetrica</span></a>
                             </li>
 
                           </ul>

@@ -68,8 +68,8 @@
   <div class="fascia-blue fascia-branding">
     <div class="container">
       <h1>
-        <span class="homepage-title">SMINO</span>
-        <span class="homepage-subtitle">Benvenuti nel sito del Sistema di Monitoraggio dell'Italia Nord-Orientale</span>
+        <span class="homepage-title" style="text-shadow: 3px 3px 3px #000000;">SMINO</span>
+        <span class="homepage-subtitle" style="text-shadow: 3px 3px 3px #000000;">Benvenuti nel sito del Sistema di Monitoraggio dell'Italia Nord-Orientale</span>
       </h1>
 
     </div>
@@ -151,43 +151,6 @@
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
               <div class="field field--name-field-media-image field--type-image">
-                <img src="../../images/fillme.png" alt="La rete Fibra" class="img-fluid"/>
-          </div>
-              <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href=""> La rete Fibra </a>
-              </h3>
-              <p>Listen to the National Oceanographic Data Centre&#039;s (NODC) interview  for the Italian state-owned public-service broadcasting organization (RAI) about the latest news on tackling marine litter pollution.</p>
-              <a class="read-more" href="news/Marine_litter_the_NODC_talks_about_it_on_RAI.html">
-                <span class="text">Leggi tutto</span>
-                <svg class="icon">
-                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
-                </svg>
-              </a>
-            </article>
-          </div>
-          
-          <div class="col-12 col-sm-4 bq-box">
-            <article class="teaser teaser-news bq-bordered">
-              <div class="field field--name-field-media-image field--type-image">
-                <img src="../../images/fillme.png" alt="La rete Gravimetrica  " class="img-fluid"/>
-              </div>
-
-              <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="news/Trieste_hosted_the_latest_EMODnet_Chemistry_Training_course.html"> La rete Gravimetrica </a>
-              </h3>
-              <p>What marine data and how to make it ready for submission? These and many other questions were answered during the training course of the EMODnet Chemistry project organised by NODC a few days ago.</p>
-              <a class="read-more" href="">
-                <span class="text">Leggi tutto</span>
-                <svg class="icon">
-                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
-                </svg>
-              </a>
-            </article>
-          </div>
-          
-          <div class="col-12 col-sm-4 bq-box">
-            <article class="teaser teaser-news bq-bordered">
-              <div class="field field--name-field-media-image field--type-image">
                 <img src="../../images/fillme.png" alt="La rete Accelerometrica" class="img-fluid"/>
               </div>
 
@@ -222,6 +185,43 @@
               </a>
             </article>
           </div>
+          <div class="col-12 col-sm-4 bq-box">
+            <article class="teaser teaser-news bq-bordered">
+              <div class="field field--name-field-media-image field--type-image">
+                <img src="../../images/fillme.png" alt="La rete Fibra" class="img-fluid"/>
+          </div>
+              <h3>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href=""> La rete Fibra </a>
+              </h3>
+              <p> --- DA AGGIUNGERE TESTO --- </p>
+              <a class="read-more" href="news/Marine_litter_the_NODC_talks_about_it_on_RAI.html">
+                <span class="text">Leggi tutto</span>
+                <svg class="icon">
+                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                </svg>
+              </a>
+            </article>
+          </div>
+          <div class="col-12 col-sm-4 bq-box">
+          <article class="teaser teaser-news bq-bordered">
+            <div class="field field--name-field-media-image field--type-image">
+                <img src="../../images/gravi.jpg" alt="La rete Gravimetrica  " class="img-fluid"/>
+              </div>
+
+              <h3>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./gravimetrica.php"> La rete Gravimetrica </a>
+              </h3>
+              <p>La Rete Gravimetrica Regionale, sviluppata dall'OGS, monitorerà le variazioni della gravità nel Nord-Est Italia con punti di misura relativi e capisaldi assoluti. Contribuirà alla mappatura del geoide locale, all'esplorazione del sottosuolo e al monitoraggio di strutture tettoniche e falde acquifere, integrando i dati con altre reti geofisiche.</p>
+              <a class="read-more" href="./gravimetrica.php">
+                <span class="text">Leggi tutto</span>
+                <svg class="icon">
+                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                </svg>
+              </a>
+            </article>
+          </div>
+          
+          
         </div>
         </div>
         </div>
