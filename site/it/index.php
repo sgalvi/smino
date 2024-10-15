@@ -118,7 +118,7 @@
                 <img src="../../images/sismometrica.png" alt="La rete sismometrica" class="img-fluid"/>
               </div>
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="news/Festival_dellacqua_against_plastic_pollution.html">La rete sismometrica</a>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="news/Festival_dellacqua_against_plastic_pollution.html">La rete Sismometrica</a>
               </h3>
               <p>La Rete sismometrica dell'Italia nord-orientale, gestita dall'OGS, comprende 43 stazioni che monitorano i terremoti in tempo reale. I dati sono condivisi con il sistema sismico nazionale e con reti di paesi vicini, e fanno parte della rete transfrontaliera CE3RN, favorendo la collaborazione internazionale.</p>
               <a class="read-more" href="./sismo.php">
@@ -191,10 +191,10 @@
                 <img src="../../images/fillme.png" alt="La rete Fibra" class="img-fluid"/>
           </div>
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href=""> La rete Fibra </a>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./fibra.php"> La rete Fibra </a>
               </h3>
-              <p> --- DA AGGIUNGERE TESTO --- </p>
-              <a class="read-more" href="news/Marine_litter_the_NODC_talks_about_it_on_RAI.html">
+              <p> Il progetto ITINERIS integra la tecnologia DAS (Distributed Acoustic Sensing) nel sistema di monitoraggio sismico dell'Italia Nord-Orientale. Utilizzando fibre ottiche, questa innovazione migliorerà il rilevamento di terremoti e deformazioni del suolo, potenziando la capacità di risposta della Protezione Civile ai rischi naturali.</p>
+              <a class="read-more" href="./fibra.php">
                 <span class="text">Leggi tutto</span>
                 <svg class="icon">
                   <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
@@ -205,7 +205,7 @@
           <div class="col-12 col-sm-4 bq-box">
           <article class="teaser teaser-news bq-bordered">
             <div class="field field--name-field-media-image field--type-image">
-                <img src="../../images/gravi.jpg" alt="La rete Gravimetrica  " class="img-fluid"/>
+                <img src="../../images/gravi2.png" alt="La rete Gravimetrica  " class="img-fluid"/>
               </div>
 
               <h3>
@@ -245,7 +245,7 @@
                     <div>
                       <div class="card-body">
                         <h3 class="card-title">
-                          <a href="https://www.emodnet-chemistry.eu/" hreflang="en">Progetto 1</a>
+                          <a href="https://www.emodnet-chemistry.eu/" hreflang="en">Convenzione protezione civile - Veneto</a>
                         </h3>
                         <p class="card-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.                        </p>
@@ -270,7 +270,7 @@
                     <div>
                       <div class="card-body">
                         <h3 class="card-title">
-                          <a href="https://www.euroqcharm.eu/" hreflang="en">Progetto 2</a>
+                          <a href="https://www.euroqcharm.eu/" hreflang="en">Convenzione protezione civile - Friuli Venezia Giulia</a>
                         </h3>
                         <p class="card-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.                        </p>
@@ -310,12 +310,12 @@
               </div>
             </div>
           </div>
-          <div class="more-link">
+          <!-- <div class="more-link">
             <a href="activities/projects.html" class="bqicon btn btn-primary btn-sm bq-processed">Vedi tutti i progetti<svg class="icon">
                 <use href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
               </svg>
             </a>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
