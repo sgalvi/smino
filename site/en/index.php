@@ -8,6 +8,8 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
+
+
   <meta charset="UTF-8">
 
   <title>Home</title>
@@ -25,244 +27,49 @@
 
 
   <script type="text/javascript"
-    src="wicket/resource/org.apache.wicket.resource.JQueryResourceReference/jquery/jquery-3.6.0-ver-7B432A70897DCD6A8F6D26413CDF1916.js"></script>
+    src="../../wicket/resource/org.apache.wicket.resource.JQueryResourceReference/jquery/jquery-3.6.0-ver-7B432A70897DCD6A8F6D26413CDF1916.js"></script>
   <script type="text/javascript" id="gtag" defer="defer"
     src="https://www.googletagmanager.com/gtag/js?id=G-PH2B3YQD4B"></script>
   <script type="text/javascript" id="gtag-enable" defer="defer"
-    src="wicket/resource/it.trieste.ogs.nodc.web.GenericSitePage/gtag-enable-ver-B07456713D39584EA8861764143334DF.js"></script>
+    src="../../wicket/resource/it.trieste.ogs.nodc.web.GenericSitePage/gtag-enable-ver-B07456713D39584EA8861764143334DF.js"></script>
   <script type="text/javascript" id="matomo" defer="defer"
-    src="wicket/resource/it.trieste.ogs.nodc.web.GenericSitePage/matomo-ver-E924071AC33CEC7E5E6A3BEF6A709839.js"></script>
+    src="../../wicket/resource/it.trieste.ogs.nodc.web.GenericSitePage/matomo-ver-E924071AC33CEC7E5E6A3BEF6A709839.js"></script>
   <link rel="stylesheet" type="text/css"
-    href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsCssResourceReference/webjars/splide/3.6.12/css/splide-core.min-ver-4D820616285A4896E89828BF5FB8751E.css" />
+    href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsCssResourceReference/webjars/splide/3.6.12/css/splide-core.min-ver-4D820616285A4896E89828BF5FB8751E.css" />
   <link rel="stylesheet" type="text/css"
-    href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsCssResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css"
+    href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsCssResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css"
     id="wb-theme" />
   <link rel="stylesheet" type="text/css"
-    href="wicket/resource/it.trieste.ogs.nodc.web.bootstrap.italia.ItaliaCssReference/css/nodc-ver-326870884590A363FC76B4B2857DA0F2.css" />
+    href="../../wicket/resource/it.trieste.ogs.nodc.web.bootstrap.italia.ItaliaCssReference/css/nodc-ver-326870884590A363FC76B4B2857DA0F2.css" />
   <link rel="stylesheet" type="text/css"
-    href="wicket/resource/it.trieste.ogs.nodc.web.bootstrap.italia.ItaliaCssReference/css/geograph-ver-A301AA547EAAD5A4195520EA4E8C7008.css" />
+    href="../../wicket/resource/it.trieste.ogs.nodc.web.bootstrap.italia.ItaliaCssReference/css/geograph-ver-A301AA547EAAD5A4195520EA4E8C7008.css" />
   <script type="text/javascript"
-    src="wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/popper.js/1.16.1-lts/umd/popper-ver-16D9CB759C074DBC0C5590EE3CC83CEB.js"></script>
+    src="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/popper.js/1.16.1-lts/umd/popper-ver-16D9CB759C074DBC0C5590EE3CC83CEB.js"></script>
   <script type="text/javascript"
-    src="wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/splide/3.6.12/js/splide.min-ver-F00FFEA902A55A1F48473F23B1732880.js"></script>
+    src="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/splide/3.6.12/js/splide.min-ver-F00FFEA902A55A1F48473F23B1732880.js"></script>
   <script type="text/javascript" id="bootstrap-italia-fonts">
     /*<![CDATA[*/
-    window.__PUBLIC_PATH__ = './wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsPackageResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css/../../fonts'
+    window.__PUBLIC_PATH__ = '../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsPackageResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css/../../fonts'
     /*]]>*/
   </script>
   <script type="text/javascript" id="bootstrap-js"
-    src="wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/bootstrap-italia/1.6.2/js/bootstrap-italia.min-ver-8F661DF7D320078D02C0358E0DD439D1.js"></script>
+    src="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/bootstrap-italia/1.6.2/js/bootstrap-italia.min-ver-8F661DF7D320078D02C0358E0DD439D1.js"></script>
   <script type="text/javascript"
-    src="wicket/resource/de.agilecoders.wicket.core.markup.html.references.JQueryMigrateJavaScriptReference/js/jquery-migrate-1.3.0-ver-322AF89581C7A1AD21A8149F51B8CC16.js"></script>
+    src="../../wicket/resource/de.agilecoders.wicket.core.markup.html.references.JQueryMigrateJavaScriptReference/js/jquery-migrate-1.3.0-ver-322AF89581C7A1AD21A8149F51B8CC16.js"></script>
   <meta name="wicket.header.items" />
 </head>
 
 
 <body>
-  <!-- <div class="cookiebar">
-    <p>
-      This website use third-part cookies.
-      <br />
-      Proseguendo nella navigazione accetti l'utilizzo dei cookie.
-    </p>
-    <div class="cookiebar-buttons">
-     
-      <button data-accept="cookiebar" class="cookiebar-btn cookiebar-confirm">
-        Accept<span class="sr-only">
-          cookies
-        </span>
-      </button>
-    </div>
-  </div> -->
-  <div class="it-header-wrapper">
-    <div class="it-header-slim-wrapper">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="it-header-slim-wrapper-content">
-           
-              <div class="header-slim-right-zone">
-            
-                <div class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
-                    <span>ENG</span>
-                    <svg class="icon d-none d-lg-block">
-                      <use
-                        href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
-                      </use>
-                    </svg>
-                  </a>
-                  <div class="dropdown-menu">
-                    <div class="row">
-                      <div class="col-12">
-                        <div class="link-list-wrapper">
-                          <ul class="link-list locale-list">
-                            <li>
-                              <a class="list-item" href="indexit.html"><span>ita</span></a>
-                            </li>
-                          </ul>
-                          <ul class="link-list locale-list">
-                            <li>
-                              <a class="list-item" href="index.html"><span>eng</span></a>
-                            </li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="it-nav-wrapper">
-      <div class="it-header-center-wrapper">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <div class="it-header-center-content-wrapper">
-                <div class="it-brand-wrapper col-md-10">
-                  <div class="w-flex">
-                    <a href="https://www.ogs.it/" target="_blank">
-                      <img class="icon d-block d-sm-block d-md-none" alt="OGS logo" src="images/OGS_logoA_W.png" />
-
-                      <img class="logo-wide icon d-none d-md-block" alt="OGS logo" src="images/OGS_logoW_eng.png" />
-                    </a>
-                    <div class="it-search-wrapper">
-                      <a href="index.html">
-                        <h3 class="d-block d-sm-block d-md-none">SMINO</h3>
-                        <h3 class="d-none d-md-block">System of Monitoring <br />for Italy's North-Oriental</h3>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="it-right-zone col-md-2">
-               
-                  <div class="modal fade" tabindex="-1" role="dialog" id="search-modal">
-                    <div class="modal-dialog modal-lg" role="document">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                      
-                            <button class="close" type="button" data-dismiss="modal" aria-label="chiudi">
-                              <svg class="icon">
-                                <use
-                                  href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-close">
-                                </use>
-                              </svg>
-                            </button>
-                        </div>
-                        <div class="modal-body">
-
-
-                          <div class="form-group">
-                          </div>
-
-
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="it-header-navbar-wrapper">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-
-            <nav id="navbar" class="navbar navbar-expand-lg has-megamenu">
-              <button class="custom-navbar-toggler" type="button" aria-controls="nav10" aria-expanded="false"
-                aria-label="Toggle navigation" data-target="#nav10">
-                <svg class="icon">
-                  <use
-                    href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-burger">
-                  </use>
-                </svg>
-              </button>
-              <div class="navbar-collapsable" id="nav10">
-                <div class="overlay"></div>
-                <div class="close-div sr-only">
-                  <button class="btn close-menu" type="button">
-                    <span class="it-close"></span>close
-                  </button>
-                </div>
-                <div class="menu-wrapper">
-                  <ul class="navbar-nav">
-                    <li class="nav-item">
-                      <a class="nav-link active" href="index.html"><span>Home</span></a>
-                    </li>
-                    
-                    <li class="nav-item">
-                      <a class="nav-link" href="team.html"><span> Team </span></a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="contact-us.html"><span> Contact us</span></a>
-                    </li>
-
-                    <li class="nav-item dropdown">
-                      <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
-                        <span>Useful links</span>
-                        <svg class="icon">
-                          <use
-                            href="./wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
-                          </use>
-                        </svg>
-                      </a>
-                      <div class="dropdown-menu">
-                        <div class="link-list-wrapper">
-                          <ul class="link-list">
-                            <li>
-                              <a class="list-item" href="https://www.ogs.it/"><svg class="icon icon-white icon-sm left" aria-hidden="true">
-                                <use href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-external-link"></use></svg
-                              ><span
-                                >OGS</span
-                              ></a>
-                              
-                            </li>
-                            <li>
-                              <a class="list-item" href="https://frednet.crs.ogs.it/"><svg class="icon icon-white icon-sm left" aria-hidden="true">
-                                <use href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-external-link"></use></svg
-                              ><span
-                                >FReDNet</span
-                              ></a>
-                            </li>
-                            <li>
-                              <a class="list-item" href="https://rts.crs.inogs.it/"><svg class="icon icon-white icon-sm left" aria-hidden="true">
-                                <use href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-external-link"></use></svg
-                              ><span
-                                >RTS</span
-                              ></a>
-                            
-                            </li>
-                          </ul>
-                        </div>
-                      </div>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </nav>
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  </div>
-
-
+<?php
+  include 'cookiebar.php';
+  include 'head.php';
+?>
   <div class="fascia-blue fascia-branding">
     <div class="container">
       <h1>
-        <span class="homepage-title">SMINO</span>
-        <span class="homepage-subtitle">Welcome to the site of the System of Monitoring for Italy's
-          North-Oriental</span>
+        <span class="homepage-title" style="text-shadow: 3px 3px 3px #000000;">SMINO</span>
+        <span class="homepage-subtitle" style="text-shadow: 3px 3px 3px #000000;">Benvenuti nel sito del Sistema di Monitoraggio dell'Italia Nord-Orientale</span>
       </h1>
 
     </div>
@@ -273,273 +80,279 @@
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <h2 class="section-title">
-            in a nutshell
-          </h2>
+          
+          <h1 class="pt-4 mb-5">In due parole</h1>
+    
         </div>
         <p>
-          SMINO is an Italian National infrastructure (PNIR 2021-2027).
+          SMINO è una infrastruttura nazionale (PNIR 2021-2027).
         </p>
         <p>
-          SMINO contributes to fulfilling the CRS institutional tasks, which, as provided by law 399/1989,
-          has the task of surveillance and research on seismic activity in North-eastern Italy, also for Civil
-          Protection purposes.
+          SMINO contribuisce alla realizzazione del compito istituzionale del CRS che come previsto dalla
+          legge 399/1989 ha compiti di sorveglianza e ricerca sull’attività sismica dell’Italia nord-orientale,
+          anche a fini di Protezione Civile
+          SMINO è costituita da una rete sismometrica, una rete accelerometrica e una rete di monitoraggio
+          geodetico (FReDNet).
         </p>
         <p>
-          SMINO consists of a seismic network, a strong motion network, and a geodetic monitoring network
-          (FReDNet).
-        </p>
-        <p>
-          SMINO operates in close cooperation with national and international networks in neighbouring
-          countries under framework agreements for real-time data exchange. Information on seismic events
-          is disseminated to the public through a dedicated web portal.
-        </p>
-        <p>
-          Seismic bulletins containing information on earthquakes recorded in North-eastern Italy are
-          published regularly.
+          Opera in stretta cooperazione con le reti nazionali e internazionali dei paesi limitrofi, nell&#39;ambito di
+          accordi quadro per lo scambio di dati in tempo reale. Le informazioni relative agli eventi sismici
+          sono diffuse al pubblico attraverso un portale web dedicato. I bollettini sismici  riportanti
+          informazioni relative ai terremoti registrati in Italia Nord-orientale vengono pubblicati
+          regolarmente.
+
         </p>
         </br>
-
-        <!-- Rete sismometrica start -->
-        <div class="col-12 col-sm-6 dati-wrapper bq-box">
-          <article class="dati dati--realtime bq-bordered">
-            <div class="field field--name-field-media-image field--type-image">
-              <img src="images/sismo.png" class="img-fluid" width="800" height="600" role="presentation" />
-            </div>
-
-            <h3>
-              <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle"
-                href="./sismo.html">
-                Seismometer Network
-                <svg class="icon icon-primary">
-                  <use
-                    href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle">
-                  </use>
-                </svg>
-              </a>
-            </h3>
-            <!-- <p>
-                  The North-eastern Italy Seismic Network consists of 43 stations, of which 24 broadband, 15 short-
-period and 4 intermediate-period. The Network is managed by OGS also on behalf of the Friuli
-Venezia Giulia and Veneto Regions. The stations are installed in Friuli Venezia Giulia, Veneto (in
-most cases), Emilia Romagna and Lombardy. The data recorded by all the stations are acquired in
-real time at the OGS Centre for Seismological Research in Udine.
-The Network also provides data to the national seismic surveillance system, with real-time data
-exchange with the Civil Protection Department and the National Institute of Geophysics and
-Volcanology (INGV). Moreover, in order to improve the quality of localizations and magnitude
-estimation in border regions, the Network exchanges real-time data with the seismic networks of
-Austria, Slovenia, Switzerland, and the Autonomous Provinces of Trento and Bolzano, and the
-University of Genoa.
-The North-eastern Italy Seismic Network is part of the CE3RN cross-border network in which also
-the seismic networks of Croatia, Slovakia, Hungary, Romania, Albania and Bulgaria participate. 
-CE3RN is an example of excellence in transnational collaboration and sharing of infrastructure,
-data and resources. Network data are made available through OASIS, EIDA and the RTS system.
-                                </p> -->
-        </div>
-
-        <!-- rete fredet start-->
-        <div class="col-12 col-sm-6 dati-wrapper bq-box">
-          <article class="dati dati--realtime bq-bordered">
-            <div class="field field--name-field-media-image field--type-image">
-              <img src="images/frednet.png" class="img-fluid" width="800" height="600" role="presentation" />
-            </div>
-
-
-            <h3>
-              <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle"
-                href="./frednet.html">
-
-                Friuli Regional Deformation Network (FReDNet)
-
-                <!-- <em>Stazioni fisse</em> -->
-                <svg class="icon icon-primary">
-                  <use
-                    href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle">
-                  </use>
-                </svg>
-              </a>
-            </h3>
-            <!-- <p>
-                  FReDNet (Friuli Regional Deformation Network) is the crustal deformation monitoring system in
-Friuli Venezia Giulia that the Centre for Seismological Research began developing in 2002, with the
-installation of the first station. In most cases, the receivers have been installed in sites that already
-host the sensors of the OGS seismic network. FReDNet is also part of a wider geodetic survey
-program of the Adriatic microplate that includes the repetition of episodic measurements of
-geodetic points. 
-FReDNet currently comprises 22 permanent GNSS receivers (GPS+GLONASS+Galileo) for
-geodetic monitoring of crustal deformations in northeastern Italy. It also provides a service for high-
-precision georeferenced navigation in real-time according to differential correction modes (RTK -
-Real Time Kinematic, MRS - Multi Reference Station, and VRS - Virtual Reference Station). The
-service is freely accessible to public, private, and scientific users. The Network is integrated with
-the GPS network of the Friuli Venezia Giulia Region, with the National Dynamic Network of the
-Military Geographic Institute, and with the European EUREF Permanent Network.
-FReDNet is included in EPOS RIDE.               </p> -->
-            <!-- <a
-                  class="bqicon bq-processed"
-                  data-classes="icon-primary"
-                  data-bqicon="it-arrow-right-circle"
-                  href="http://argo.ogs.it/"
-                  target="_blank"
-                >
-                  <em>Piattaforme mobili</em>
-                  <svg class="icon icon-primary">
-                    <use href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
-                  </svg>
-                </a>
-                <p>
-                  Il Sito web EuroARGO Italy gestito da OGS  dà accesso ai dati raccolti tramite drifter, float e glider nel Mar Mediterraneo, nel Mar Nero, nell'Oceano Australe e nell'Oceano Atlantico.
-                </p> -->
-          </article>
-        </div>
-
-        <!-- Rete accelerometrica start -->
-        <div class="col-12 col-sm-6 dati-wrapper bq-box">
-          <article class="dati dati--realtime bq-bordered">
-            <div class="field field--name-field-media-image field--type-image">
-              <img src="images/" class="img-fluid" width="800" height="600" role="presentation" />
-            </div>
-
-
-            <h3>
-              <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle"
-                href="./strongmotion.html">
-
-                Strong Motion Network
-
-                <!-- <em>Stazioni fisse</em> -->
-                <svg class="icon icon-primary">
-                  <use
-                    href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle">
-                  </use>
-                </svg>
-              </a>
-
-          </article>
-        </div>
-
-        <!-- end col dati-warapper-->
-      </div>
-      <!-- <div class="row justify-content-center">
-            <div class="col-12 col-lg-8 col-xl-6">
-              <a href="https://www.youtube.com/watch?v=GSqcrU-7gbQ" target="_blank">
-                <img class="img-fluid" src="images/player_youtube.jpg" alt="Youtube video">
-              </a>
-            </div -->
-    </div>
-    <!-- end row-->
-  </div>
-
-  <!--       <div class="footer-loghi">
+      
         <div class="container">
-          <div class="row justify-content-md-center">
-            <div class="col-12 col-sm-2">
-              <a class="loghi" href="https://ioc.unesco.org/" target="_blank">
-                <img class="img-fluid" src="icons/home_page/ioc.png" alt="IOC logo" />
+        <div class="row">
+          <div class="col-12 col-sm-12 col-lg-12">
+            <div class="inner-content pb-5">
+            <h2 class="section-title">Le nostre reti</h2>
+              
+      
+        <div class="row">
+          <div class="col-12 col-sm-4 bq-box">
+            <article class="teaser teaser-news bq-bordered">
+              <div class="field field--name-field-media-image field--type-image">
+                <img src="../../images/sismometrica.png" alt="La rete sismometrica" class="img-fluid"/>
+              </div>
+              <h3>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="news/Festival_dellacqua_against_plastic_pollution.html">La rete Sismometrica</a>
+              </h3>
+              <p>La Rete sismometrica dell'Italia nord-orientale, gestita dall'OGS, comprende 43 stazioni che monitorano i terremoti in tempo reale. I dati sono condivisi con il sistema sismico nazionale e con reti di paesi vicini, e fanno parte della rete transfrontaliera CE3RN, favorendo la collaborazione internazionale.</p>
+              <a class="read-more" href="./sismo.php">
+                <span class="text">Leggi tutto</span>
+                <svg class="icon">
+                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                </svg>
               </a>
-            </div>
-            <div class="col-12 col-sm-2">
-              <a class="loghi" href="https://www.iode.org/" target="_blank">
-                <img class="img-fluid" src="icons/home_page/iode.png" alt="IODE logo" />
-              </a>
-            </div>
-            <div class="col-12 col-sm-2">
-              <a class="loghi" href="https://dta.cnr.it/coi-commissione-oceanografica-italiana/" target="_blank">
-                <img class="img-fluid" src="icons/home_page/coi.png" alt="COI logo" />
-              </a>
-            </div>
-            <div class="col-12 col-sm-2">
-              <a class="loghi" href="https://emodnet.ec.europa.eu/" target="_blank">
-                <img class="img-fluid" src="icons/home_page/emodnet.png" alt="EMODnet logo" />
-              </a>
-            </div>
-            <div class="col-12 col-sm-2">
-              <a class="loghi" href="https://www.seadatanet.org/" target="_blank">
-                <img class="img-fluid img-bw" src="icons/home_page/sdn.png" alt="SeaDataNet logo" />
-              </a>
-            </div>
+            </article>
           </div>
+          
+          <div class="col-12 col-sm-4 bq-box">
+            <article class="teaser teaser-news bq-bordered">
+              <div class="field field--name-field-media-image field--type-image">
+                <img src="../../images/frednet.png" alt="La rete Geodetica" class="img-fluid"/>
+              </div>
+              <h3>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./frednet.php"> La rete Geodetica </a>
+              </h3>
+              <p>FReDNet è una rete di 22 ricevitori GNSS per monitorare le deformazioni crostali nel Friuli Venezia Giulia, sviluppata dal 2002. Fornisce un servizio di navigazione georeferenziata in tempo reale ed è integrata con altre reti geodetiche nazionali ed europee. </p>
+              <a class="read-more" href="./frednet.php">
+                <span class="text">Leggi tutto</span>
+                <svg class="icon">
+                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                </svg>
+              </a>
+            </article>
+          </div>
+          
+          <div class="col-12 col-sm-4 bq-box">
+            <article class="teaser teaser-news bq-bordered">
+              <div class="field field--name-field-media-image field--type-image">
+                <img src="../../images/fillme.png" alt="La rete Accelerometrica" class="img-fluid"/>
+              </div>
+
+              <h3>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./strongmotion.php"> La rete Accelerometrica </a>
+              </h3>
+              <p>Per migliorare la registrazione di eventi sismici, 29 stazioni della rete sismometrica sono state dotate di sensori accelerometrici di alta qualità. Nell’ambito dei progetti "Edifici Sentinella", Interreg Armonia e Venet-one, sono stati installati oltre 100 sensori accelerometrici a medio costo. I dati sono acquisiti in tempo reale per una rapida stima dell’impatto sismico.</p>
+              <a class="read-more" href="./strongmotion.php">
+                <span class="text">Leggi tutto</span>
+                <svg class="icon">
+                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                </svg>
+              </a>
+            </article>
+          </div>
+          
+          <div class="col-12 col-sm-4 bq-box">
+            <article class="teaser teaser-news bq-bordered">
+              <div class="field field--name-field-media-image field--type-image">
+                <img src="../../images/venetone.png" alt="La rete Accelerometrica Diffusa" class="img-fluid"/>
+              </div>
+
+              <h3>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./v1.php"> La rete Accelerometrica Diffusa </a>
+              </h3>
+              <p>La Regione Veneto ha incaricato l'OGS di implementare una rete di 300 accelerometri per monitorare l'attività sismica, stimare rapidamente i danni e migliorare la prevenzione. Il progetto include lo studio degli effetti locali, delle caratteristiche degli edifici e l'approfondimento delle conoscenze sulla deformazione crostale e il ruolo delle acque sotterranee nei terremoti.</p>
+              <a class="read-more" href="./v1.php">
+                <span class="text">Leggi tutto</span>
+                <svg class="icon">
+                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                </svg>
+              </a>
+            </article>
+          </div>
+          <div class="col-12 col-sm-4 bq-box">
+            <article class="teaser teaser-news bq-bordered">
+              <div class="field field--name-field-media-image field--type-image">
+                <img src="../../images/fillme.png" alt="La rete Fibra" class="img-fluid"/>
+          </div>
+              <h3>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./fibra.php"> La rete Fibra </a>
+              </h3>
+              <p> Il progetto ITINERIS integra la tecnologia DAS (Distributed Acoustic Sensing) nel sistema di monitoraggio sismico dell'Italia Nord-Orientale. Utilizzando fibre ottiche, questa innovazione migliorerà il rilevamento di terremoti e deformazioni del suolo, potenziando la capacità di risposta della Protezione Civile ai rischi naturali.</p>
+              <a class="read-more" href="./fibra.php">
+                <span class="text">Leggi tutto</span>
+                <svg class="icon">
+                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                </svg>
+              </a>
+            </article>
+          </div>
+          <div class="col-12 col-sm-4 bq-box">
+          <article class="teaser teaser-news bq-bordered">
+            <div class="field field--name-field-media-image field--type-image">
+                <img src="../../images/gravi2.png" alt="La rete Gravimetrica  " class="img-fluid"/>
+              </div>
+
+              <h3>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./gravimetrica.php"> La rete Gravimetrica </a>
+              </h3>
+              <p>La Rete Gravimetrica Regionale, sviluppata dall'OGS, monitorerà le variazioni della gravità nel Nord-Est Italia con punti di misura relativi e capisaldi assoluti. Contribuirà alla mappatura del geoide locale, all'esplorazione del sottosuolo e al monitoraggio di strutture tettoniche e falde acquifere, integrando i dati con altre reti geofisiche.</p>
+              <a class="read-more" href="./gravimetrica.php">
+                <span class="text">Leggi tutto</span>
+                <svg class="icon">
+                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                </svg>
+              </a>
+            </article>
+          </div>
+          
+          
         </div>
-      </div> -->
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        
 
+      <!-- end row-->
+       <div class="home-third-row__wrapper">
+        <div class="container">
+          <h2 class="section-title">
+            Progretti
+          </h2>
+          <div class="progetti">
+            <div class="row">
+              <div class="col-12 col-md-4">
+                <div class="card-wrapper card-space">
+                  <div class="card card-bg">
+                    <div>
+                      <div class="card-body">
+                        <h3 class="card-title">
+                          <a href="https://www.emodnet-chemistry.eu/" hreflang="en">Convenzione protezione civile - Veneto</a>
+                        </h3>
+                        <p class="card-text">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.                        </p>
+                        <a
+                          class="read-more"
+                          href="https://www.ogs.it/it/content/european-marine-observation-and-data-network-emodnet-chemistry"
+                        >
+                          <span class="text">Read more</span>
 
-  <footer class="it-footer">
-    <div class="it-footer-main">
-      <div class="container">
-        <section class="py-4">
-          <div class="row">
-            <div class="col-lg-8 col-md-8 pb-2">
-              <img class="logo-wide icon" alt="OGS logo" src="images/OGS_logoW.png" />
-              <p>
-                Nationa Institute of Oeanography and Applied Geophysics
-                - OGS<br />
-                <strong> Seismological Research Centre </strong><br /> Via Treviso 55 - 34100<br />Udine - Italy<br /><a
-                  href="mailto:gnss@ogs.it">gnss@ogs.it</a>
-              </p>
-            </div>
-            <div class="col-lg-4 col-md-4 pb-2">
-              <div class="pb-2">
-                <h4>
-                  <a>
-                    Follow on
-                  </a>
-                </h4>
-                <ul class="list-inline text-left social">
-                  <li class="list-inline-item">
-                    <a class="p-2 text-white" href="https://www.facebook.com/ogscrs/" target="_blank"><svg
-                        class="icon icon-sm icon-white align-top">
-                        <use
-                          href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-facebook">
-                        </use>
-                      </svg><span class="sr-only">Facebook</span></a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a class="p-2 text-white" href="https://twitter.com/crs_rts" target="_blank"><svg
-                        class="icon icon-sm icon-white align-top">
-                        <use
-                          href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-twitter">
-                        </use>
-                      </svg><span class="sr-only">Twitter</span></a>
-                  </li>
+                          <svg class="icon">
+                            <use href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                          </svg>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-4">
+                <div class="card-wrapper card-space">
+                  <div class="card card-bg">
+                    <div>
+                      <div class="card-body">
+                        <h3 class="card-title">
+                          <a href="https://www.euroqcharm.eu/The site was created using a combination of standard web technologies and custom solutions:
 
-                </ul>
+Hosting: The site is currently hosted on an internal server of OGS (National Institute of Oceanography and Experimental Geophysics). This approach offers greater control over the site's security and performance.
+
+Technologies used:
+
+PHP: For server-side logic and dynamic content generation.
+HTML: To structure the content of web pages.
+Bootstrap Italia: A front-end framework specific to Italian public administrations, which provides predefined components and styles compliant with the design guidelines for PA websites, ensuring visual consistency and accessibility.
+Future development:
+A WordPress-based version of the site is under development, with the following objectives:
+
+Simplify page maintenance
+Allow non-technical users to manage content through a user-friendly interface
+Leverage the WordPress ecosystem of plugins and themes to extend the site's functionality
+Potentially improve SEO performance and content management
+The migration to WordPress will allow for more efficient site management in the long term, reducing dependence on specific technical skills for routine content updates.
+
+Copy
+" hreflang="en">Convenzione protezione civile - Friuli Venezia Giulia</a>
+                        </h3>
+                        <p class="card-text">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.                        </p>
+                        <a class="read-more" href="https://www.ogs.it/en/content/euroqcharm">
+                          <span class="text">Read more</span>
+
+                          <svg class="icon">
+                            <use href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                          </svg>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-4">
+                <div class="card-wrapper card-space">
+                  <div class="card card-bg">
+                    <div>
+                      <div class="card-body">
+                        <h3 class="card-title">
+                          <a href="https://envri.eu/home-envri-fair/">Progetto 3</a>
+                        </h3>
+                        <p class="card-text">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.                        </p>
+                        <a class="read-more" href="https://www.ogs.it/it/node/1627">
+                          <span class="text">Read more</span>
+
+                          <svg class="icon">
+                            <use href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                          </svg>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
-        </section>
+          <!-- <div class="more-link">
+            <a href="activities/projects.html" class="bqicon btn btn-primary btn-sm bq-processed">Vedi tutti i progetti<svg class="icon">
+                <use href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+              </svg>
+            </a>
+          </div> -->
+        </div>
       </div>
     </div>
-    <!-- <div class="it-footer-small-prints clearfix">
-          <div class="container">
-            <h3 class="sr-only">
-              Sezione Link Utili
-            </h3>
-            <ul class="it-footer-small-prints-list list-inline mb-0 d-flex flex-column flex-md-row">
-              <li class="list-inline-item">
-                <a href="sitemap.html" title="Mappa del sito">
-                  Mappa del sito
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="data/datapolicy.html" title="Politica sui dati">
-                  Politica sui dati
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="https://www.ogs.it/it/content/privacy" target="_blank" title="Privacy">Privacy</a>
-              </li>
-              <li class="list-inline-item">
-                <a href="https://www.ogs.it/it/content/note-legali" target="_blank" title="Note legali">
-                  Note legali
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div> -->
-  </footer>
+
+  <!-- partners -->
+   <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2 class="section-title">
+            I nostri partners:
+          </h2>
+      </div>
+    </div>
+  </div>
+  <?php
+    include 'footer.php';
+  ?>
+
 </body>
-
-
-
-<!-- Mirrored from nodc.ogs.it/?-1.-locale~list-0-locale~link by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 31 Jul 2024 10:02:22 GMT -->
 
 </html>

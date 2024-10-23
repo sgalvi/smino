@@ -3,16 +3,15 @@
   xmlns:wicket="https://raw.githubusercontent.com/apache/wicket/wicket-9.x/wicket-core/src/main/resources/META-INF/wicket.xsd"
   lang="en">
 
-<!-- Mirrored from nodc.ogs.it/about/contact-us by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Aug 2024 08:10:14 GMT -->
-<!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
   <meta charset="UTF-8">
 
-  <title>Contact us</title>
+  <title>Rete Gravimetrica</title>
 
-  <meta name="description" content="contactPage" />
+  <meta name="description" content="The Data Centre" />
   <meta name="keywords" content="oceanography,marine data,data management,data products" />
   <meta name="author" content="NODC" />
   <meta name="generator" content="Apache Wicket Application - http://wicket.apache.org" />
@@ -20,8 +19,8 @@
 
 
 
-  <link rel="icon" href="../../icons/favicon.png" type="image/png" />
-  <link rel="shortcut icon" href="../../icons/favicon.png" type="image/png" />
+  <link rel="icon" href="./icons/favicon.png" type="image/png" />
+  <link rel="shortcut icon" href="./icons/favicon.png" type="image/png" />
 
 
   <script type="text/javascript"
@@ -47,7 +46,7 @@
     src="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/splide/3.6.12/js/splide.min-ver-F00FFEA902A55A1F48473F23B1732880.js"></script>
   <script type="text/javascript" id="bootstrap-italia-fonts">
     /*<![CDATA[*/
-    window.__PUBLIC_PATH__ = '.../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsPackageResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css/.../../.../../fonts'
+    window.__PUBLIC_PATH__ = '../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsPackageResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css/../../fonts'
     /*]]>*/
   </script>
   <script type="text/javascript" id="bootstrap-js"
@@ -59,54 +58,48 @@
 
 
 <body>
-<body>
 <?php
   include 'cookiebar.php';
   include 'head.php';
 ?>
 
-  <div class="container my-4">
+  <nav class="breadcrumb-container" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+    </ol>
+  </nav>
 
-    <nav class="breadcrumb-container" aria-label="breadcrumb">
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item">
-        </li>
-      </ol>
-    </nav>
-
-  </div>
   <div class="container">
     <div class="row">
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
-          <h1 class="pt-4 mb-5">Contattaci</h1>
+          <h1 class="pt-4 mb-5">La Rete Gravimetrica</h1>
 
-          <div class="it-list-wrapper">
-            <ul class="it-list">
-              <li>
-                <a href="mailto:smino@ogs.it" targhet="_blank">
-                  <div class="it-right-zone">
-                    <span class="text">Email (smino@ogs.it)</span>
-                  </div>
-                </a>
-              </li>
-            </ul>
-                    </br></br></br>
-                  </br></br></br>
-                </br></br></br>
-              </br></br></br>
-            </br></br></br>
-
-          </div>
+          <!-- <p class="lead">
+     - possibile sottotitolo -
+  </p> -->
+          <p>
+            La Rete Gravimetrica Regionale è un progetto in fase di realizzazione che prevede l'istituzione di una serie di punti di riferimento distribuiti nel Nord-Est Italia, dove verranno effettuate misurazioni precise dell'accelerazione di gravità terrestre. Questo progetto continua la storica attività di monitoraggio gravimetrico condotta dall'Istituto Nazionale di Oceanografia e di Geofisica Sperimentale (OGS).
+          </p>
+          <p>
+            La rete sarà composta da punti di misura relativi, nei quali si misurerà la differenza di gravità tra un punto e l'altro. Le misure relative saranno collegate a due nuovi capisaldi assoluti della rete Gravimetrica Nazionale, nei quali verranno invece rilevati i valori assoluti di gravità. Le misure assolute saranno effettuate nei laboratori delle sedi OGS di Udine e Trieste.
+          </p>
+          <p>
+            Questa nuova rete permetterà di ottenere una mappatura dettagliata delle variazioni di gravità terrestre nella regione. Dal punto di vista geodetico, sarà utile per determinare con alta precisione la forma del geoide locale, la superficie fisica di riferimento per le altitudini. In ambito geofisico, invece, la rete verrà impiegata per l'esplorazione del sottosuolo, costituendo un riferimento primario per nuovi rilievi di dettaglio. Queste misurazioni aiuteranno soprattutto nell'individuazione e modellazione di strutture tettoniche attive (come faglie) e di strutture idrogeologiche legate al deflusso delle acque sotterranee (falde acquifere).          
+          </p>
+          <p>
+          Inoltre, il mantenimento costante della rete consentirà di monitorare nel tempo eventuali variazioni dell'accelerazione di gravità. L'integrazione di questi dati con quelli provenienti dalla rete sismometrica, accelerometrica e geodetica SMINO permetterà una ricostruzione più precisa dell'evoluzione tettonica e idrogeologica del Nord-Est Italia.
+          </p>
 
         </div>
       </main>
- 
+      
     </div>
   </div>
 
+
   <?php
   include 'footer.php';
-?>
+  ?>
 </body>
+
 </html>

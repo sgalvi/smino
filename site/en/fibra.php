@@ -3,12 +3,13 @@
   xmlns:wicket="https://raw.githubusercontent.com/apache/wicket/wicket-9.x/wicket-core/src/main/resources/META-INF/wicket.xsd"
   lang="en">
 
+
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
   <meta charset="UTF-8">
 
-  <title>Rete sismometrica</title>
+  <title>Rete di monitoraggio su Fibre Ottiche</title>
 
   <meta name="description" content="The Data Centre" />
   <meta name="keywords" content="oceanography,marine data,data management,data products" />
@@ -45,7 +46,7 @@
     src="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/splide/3.6.12/js/splide.min-ver-F00FFEA902A55A1F48473F23B1732880.js"></script>
   <script type="text/javascript" id="bootstrap-italia-fonts">
     /*<![CDATA[*/
-    window.__PUBLIC_PATH__ = '../../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsPackageResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css/../../fonts'
+    window.__PUBLIC_PATH__ = '../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsPackageResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css/../../fonts'
     /*]]>*/
   </script>
   <script type="text/javascript" id="bootstrap-js"
@@ -57,13 +58,11 @@
 
 
 <body>
-
 <?php
   include 'cookiebar.php';
   include 'head.php';
 ?>
 
-  <!-- FINE HEADER -->
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
     </ol>
@@ -73,64 +72,35 @@
     <div class="row">
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
-          <h1 class="pt-4 mb-5">Rete sismometrica dell’Italia nord-orientale</h1>
+          <h1 class="pt-4 mb-5">Rete di monitoraggio sismico e geodetico su fibre ottiche</h1>
 
           <!-- <p class="lead">
      - possibile sottotitolo -
   </p> -->
-          <p>
-            La Rete sismometrica dell’Italia nord-orientale consta di 43 stazioni, di cui 24 a banda larga, 15 a
-            corto periodo e 4 di periodo intermedio. La Rete è gestita da OGS anche per conto delle Regioni
-            Friuli Venezia Giulia e del Veneto. Le stazioni sono installate in Friuli Venezia Giulia,   Veneto
-             (nella maggior parte dei casi) in  Emilia Romagna e Lombardia. I dati registrati da tutte le stazioni
-            sono acquisiti in tempo reale presso la sede del Centro di Ricerche Sismologiche di OGS a Udine.
-          </p>
-          <p>
-            La rete fornisce dati anche al sistema di sorveglianza sismica nazionale, con scambio dati in tempo
-            reale con il  Dipartimento di Protezione Civile e con l’Istituto Nazionale di Geofisica e Vulcanologia
-            (INGV). Inol tre, al fine di migliorare la qualità delle localizzazioni e della stima della magnitudo in
-            regioni fron taliere, la rete scambia dati in tempo reale con le reti sismometriche di Austria,
-            Slovenia, Sv izzera, e delle Province Autonome di Trento e di Bolzano, e dell’Università degli Stud           i
-            di Genova. 
-          </p>
-          <p>
-            La  Rete sismometrica dell’Italia nord-orientale è parte della rete transfrontaliera CE3RN a cui
-            partecipano anche le reti sismiche di  Croazia, Slovacchia, Ungheria, Romania, Albania e Bulgari.
-             CE3RN  è un esempio di eccellenza di collaborazione transnazionale e di condivisione di
-            infrastrutture, dati e risorse. I dati della rete vengono resi disponibili attraverso OASIS, EIDA e il
-            sistema RTS.
-          </p>
-
-
+            <p>
+                Il Distributed Acoustic Sensing (DAS) è una tecnologia innovativa che sfrutta le linee di fibra ottica esistenti per eseguire misure di deformazione dinamica del suolo (spostamento relativo o strain), utilizzando strumenti di interrogazione specifici. Questa tecnica consente la raccolta di dati dinamici (serie temporali continue) con una sensibilità paragonabile ai sensori sismici tradizionali, ma su distanze più ampie, fino a 50 km per interrogatore, con un'elevata risoluzione spaziale a livello metrico.          
+            </p>
+            <p>
+            Nell'ambito del Piano Nazionale di Ripresa e Resilienza (PNRR), Missione 4 "Istruzione e Ricerca" - Componente 2 "Dalla ricerca all'impresa", l'Unione Europea ha finanziato la proposta progettuale ITINERIS (Italian Integrated Environmental Research Infrastructures System), che mettendo a sistema le principali Infrastrutture di Ricerca di rilevanza nazionale a tema ambientale (tra cui SMINO),mira a sviluppare un'infrastruttura integrata per la ricerca ambientale in Italia, promuovendo l'eccellenza scientifica e la cooperazione internazionale.
+            </p>
+            <p>
+                Per raggiungere gli obiettivi di ITINERIS, il Centro di Ricerche Sismologiche (CRS) dell'OGS ha acquistato sei unità di interrogazione ottica modello iDAS (intelligent Distributed Acoustic Sensor). Questi dispositivi saranno integrati alle infrastrutture di comunicazione esistenti a scala regionale. L’uso di fibre ottiche lineari standard pre-esistenti  di vari chilometri di lunghezza permetterà sia una riduzione dei costi, sia la possibilità di monitorare in moto continuo e dettagliato il moto del suolo associato ai fenomeni sismici.
+            </p>
+            <p>
+                L'integrazione dei sistemi DAS nel Sistema di Monitoraggio dell'Italia Nord-Orientale (SMINO), gestito dal CRS, potenzierà l'infrastruttura di monitoraggio. Ciò migliorerà significativamente le capacità di rilevazione e allerta precoce dei fenomeni sismici, oltre a garantire un monitoraggio più efficace di deformazioni a medio e lungo termine, come la subsidenza. Questo rappresenta un progresso fondamentale per la Protezione Civile, aumentando la capacità di risposta e mitigazione dei rischi naturali 
+            </p>
+            <p>
+                L'applicazione su vasta scala della tecnologia DAS su aree urbane e regionali rappresenta il primo esperimento di questo genere in Italia e uno dei primi in Europa, con un impatto positivo sulla gestione del rischio sismico e sulla sicurezza del territorio. È in fase di definizione un accordo di collaborazione tra OGS e altri enti locali e regionali per supportare la Protezione Civile nelle attività di prevenzione e risposta alle emergenze, promuovendo una maggiore sicurezza per la popolazione.
+            </p>
         </div>
       </main>
-      <div class="d-none d-md-block col-sm-4 offset-lg-1 col-lg-4 bd-toc">
-
-        <div class="sidebar-wrapper it-line-left-side">
-          <div class="sidebar-linklist-wrapper">
-            <div class="link-list-wrapper">
-              <ul class="link-list">
-                <li>
-                  <h3 class="no_toc">Links</h3>
-                </li>
-                <li><a class="list-item medium" href="https://rts.crs.inogs.it/" target="_blank"><span>Real-time
-                      Seismology</span></a>
-
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 
-<?php
+
+  <?php
   include 'footer.php';
-?>
+  ?>
 </body>
-
-
-
 
 </html>

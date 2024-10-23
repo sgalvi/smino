@@ -59,33 +59,33 @@
 
 
 <body>
-  <!-- <div class="cookiebar">
+  <div class="cookiebar">
     <p>
-      This website use third-part cookies.
+      Questo sito utilizza cookie tecnici, analytics e di terze parti.
       <br />
       Proseguendo nella navigazione accetti l'utilizzo dei cookie.
     </p>
     <div class="cookiebar-buttons">
-     
+
       <button data-accept="cookiebar" class="cookiebar-btn cookiebar-confirm">
-        Accept<span class="sr-only">
-          cookies
+        Accetto<span class="sr-only">
+          i cookies
         </span>
       </button>
     </div>
-  </div> -->
+  </div>
   <div class="it-header-wrapper">
     <div class="it-header-slim-wrapper">
       <div class="container">
         <div class="row">
           <div class="col-12">
             <div class="it-header-slim-wrapper-content">
-           
+
               <div class="header-slim-right-zone">
-            
+
                 <div class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
-                    <span>ENG</span>
+                    <span>ITA</span>
                     <svg class="icon d-none d-lg-block">
                       <use
                         href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
@@ -128,35 +128,35 @@
                     <a href="https://www.ogs.it/" target="_blank">
                       <img class="icon d-block d-sm-block d-md-none" alt="OGS logo" src="images/OGS_logoA_W.png" />
 
-                      <img class="logo-wide icon d-none d-md-block" alt="OGS logo" src="images/OGS_logoW_eng.png" />
+                      <img class="logo-wide icon d-none d-md-block" alt="OGS logo" src="images/OGS_logoW_ita.png" />
                     </a>
                     <div class="it-search-wrapper">
-                      <a href="index.html">
+                      <a href="indexit.html">
                         <h3 class="d-block d-sm-block d-md-none">SMINO</h3>
-                        <h3 class="d-none d-md-block">System of Monitoring <br />for Italy's North-Oriental</h3>
+                        <h3 class="d-none d-md-block">Sistema di Monitoraggio<br />dell'Italia Nord-Orientale</h3>
                       </a>
                     </div>
                   </div>
                 </div>
                 <div class="it-right-zone col-md-2">
-               
+
                   <div class="modal fade" tabindex="-1" role="dialog" id="search-modal">
                     <div class="modal-dialog modal-lg" role="document">
                       <div class="modal-content">
                         <div class="modal-header">
-                      
-                            <button class="close" type="button" data-dismiss="modal" aria-label="chiudi">
-                              <svg class="icon">
-                                <use
-                                  href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-close">
-                                </use>
-                              </svg>
-                            </button>
+                          <button class="close" type="button" data-dismiss="modal" aria-label="chiudi">
+                            <svg class="icon">
+                              <use
+                                href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-close">
+                              </use>
+                            </svg>
+                          </button>
                         </div>
                         <div class="modal-body">
 
 
                           <div class="form-group">
+
                           </div>
 
 
@@ -189,25 +189,24 @@
                 <div class="overlay"></div>
                 <div class="close-div sr-only">
                   <button class="btn close-menu" type="button">
-                    <span class="it-close"></span>close
+                    <span class="it-close"></span>chiudi
                   </button>
                 </div>
                 <div class="menu-wrapper">
                   <ul class="navbar-nav">
                     <li class="nav-item">
-                      <a class="nav-link " href="index.html"><span>Home</span></a>
+                      <a class="nav-link " href="indexit.html"><span>Home</span></a>
                     </li>
                     
                     <li class="nav-item">
-                      <a class="nav-link active" href="team.html"><span> Team </span></a>
+                      <a class="nav-link active" href="teamit.html"><span> Chi siamo </span></a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link " href="contact-us.html"><span> Contact us</span></a>
+                      <a class="nav-link" href="contattaci.html"><span> Contattaci</span></a>
                     </li>
-
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
-                        <span>Useful links</span>
+                        <span>Link utili</span>
                         <svg class="icon">
                           <use
                             href="./wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
@@ -230,6 +229,7 @@
                         </div>
                       </div>
                     </li>
+
                   </ul>
                 </div>
               </div>
@@ -241,6 +241,7 @@
     </div>
   </div>
   </div>
+
 
   <div class="container">
     <div class="row">
@@ -311,17 +312,17 @@
             <div class="col-lg-8 col-md-8 pb-2">
               <img class="logo-wide icon" alt="OGS logo" src="images/OGS_logoW.png" />
               <p>
-                National Institute of Oeanography and Applied Geophysics
+                Istituto Nazionale di Oceanografia e di Geofisica Sperimentale
                 - OGS<br />
-                <strong> Seismological Research Centre </strong><br /> Via Treviso 55 - 34100<br />Udine - Italy<br /><a
-                  href="mailto:gnss@ogs.it">gnss@ogs.it</a>
+                <strong> Centro di Ricerche Sismologiche </strong><br /> Via Treviso 55 - 34100<br />Udine -
+                Italy<br /><a href="mailto:gnss@ogs.it">gnss@ogs.it</a>
               </p>
             </div>
             <div class="col-lg-4 col-md-4 pb-2">
               <div class="pb-2">
                 <h4>
                   <a>
-                    Follow on
+                    Seguiteci su
                   </a>
                 </h4>
                 <ul class="list-inline text-left social">
@@ -349,7 +350,6 @@
         </section>
       </div>
     </div>
-
   </footer>
 </body>
 

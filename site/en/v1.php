@@ -3,16 +3,15 @@
   xmlns:wicket="https://raw.githubusercontent.com/apache/wicket/wicket-9.x/wicket-core/src/main/resources/META-INF/wicket.xsd"
   lang="en">
 
-<!-- Mirrored from nodc.ogs.it/about/contact-us by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Aug 2024 08:10:14 GMT -->
-<!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
   <meta charset="UTF-8">
 
-  <title>Contact us</title>
+  <title>Rete Accelerometrica Urbana</title>
 
-  <meta name="description" content="contactPage" />
+  <meta name="description" content="The Data Centre" />
   <meta name="keywords" content="oceanography,marine data,data management,data products" />
   <meta name="author" content="NODC" />
   <meta name="generator" content="Apache Wicket Application - http://wicket.apache.org" />
@@ -20,8 +19,8 @@
 
 
 
-  <link rel="icon" href="../../icons/favicon.png" type="image/png" />
-  <link rel="shortcut icon" href="../../icons/favicon.png" type="image/png" />
+  <link rel="icon" href="./icons/favicon.png" type="image/png" />
+  <link rel="shortcut icon" href="./icons/favicon.png" type="image/png" />
 
 
   <script type="text/javascript"
@@ -47,7 +46,7 @@
     src="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/splide/3.6.12/js/splide.min-ver-F00FFEA902A55A1F48473F23B1732880.js"></script>
   <script type="text/javascript" id="bootstrap-italia-fonts">
     /*<![CDATA[*/
-    window.__PUBLIC_PATH__ = '.../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsPackageResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css/.../../.../../fonts'
+    window.__PUBLIC_PATH__ = '../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsPackageResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css/../../fonts'
     /*]]>*/
   </script>
   <script type="text/javascript" id="bootstrap-js"
@@ -59,54 +58,61 @@
 
 
 <body>
-<body>
 <?php
   include 'cookiebar.php';
   include 'head.php';
 ?>
 
-  <div class="container my-4">
+  <nav class="breadcrumb-container" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+    </ol>
+  </nav>
 
-    <nav class="breadcrumb-container" aria-label="breadcrumb">
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item">
-        </li>
-      </ol>
-    </nav>
-
-  </div>
   <div class="container">
     <div class="row">
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
-          <h1 class="pt-4 mb-5">Contattaci</h1>
+          <h1 class="pt-4 mb-5">La Rete accelerometica Urbana</h1>
 
-          <div class="it-list-wrapper">
-            <ul class="it-list">
-              <li>
-                <a href="mailto:smino@ogs.it" targhet="_blank">
-                  <div class="it-right-zone">
-                    <span class="text">Email (smino@ogs.it)</span>
-                  </div>
-                </a>
-              </li>
-            </ul>
-                    </br></br></br>
-                  </br></br></br>
-                </br></br></br>
-              </br></br></br>
-            </br></br></br>
-
-          </div>
+          <!-- <p class="lead">
+     - possibile sottotitolo -
+  </p> -->
+          <p>
+          La Regione del Veneto ha incaricato l’OGS di attuare l’Azione 5.1 del POR-FESR 2014-2020 “Integrazione e sviluppo di sistemi di prevenzione multirischio, anche attraverso reti digitali interoperabili di coordinamento operativo precoce”.
+          </p>
+          <p>
+          L’obiettivo principale è quello di realizzare una rete di 300 accelerometri per fornire in tempi rapidi misure sullo scuotimento indotto da un terremoto e stime del danneggiamento utili alla Protezione Civile. Tali stime richiedono conoscenze sugli effetti di sito e sulle caratteristiche degli edifici, elementi che sono stati raccolti dal Dipartimento di Geoscienze dell’Università degli Studi di Padova.
+          </p>
+          <p>
+          Il progetto punta inoltre a incrementare le conoscenze sull’evoluzione del ciclo sismico, potenziando le misure di deformazione crostale e studiando il ruolo dell’acqua sotterranea nell’innesco dei terremoti.
+          </p>
 
         </div>
       </main>
- 
+      <div class="d-none d-md-block col-sm-4 offset-lg-1 col-lg-4 bd-toc">
+
+        <div class="sidebar-wrapper it-line-left-side">
+          <div class="sidebar-linklist-wrapper">
+            <div class="link-list-wrapper">
+              <ul class="link-list">
+                <li>
+                  <h3 class="no_toc">Links</h3>
+                </li>
+                <li><a class="list-item medium" href="https://v1.ogs.it/"
+                    target="_blank"><span>Rete accelerometrica diffusa per il monitoraggio del Veneto</span></a></li>
+                
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 
+
   <?php
   include 'footer.php';
-?>
+  ?>
 </body>
+
 </html>
