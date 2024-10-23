@@ -14,9 +14,9 @@
                 <div class="col-lg-8 col-md-8 pb-2">
                   <img class="logo-wide icon" alt="OGS logo" src="../../images/OGS_logoW.png" />
                   <p>
-                    Istituto Nazionale di Oceanografia e di Geofisica Sperimentale
+                    National Institute of Oceanography and Applied Geophysics
                     - OGS<br />
-                    <strong> Centro di Ricerche Sismologiche </strong><br /> Via Treviso 55 - 34100<br />Udine -
+                    <strong> Seismological Research Center </strong><br /> Via Treviso 55 - 34100<br />Udine -
                     Italy<br />
                   </p>
                 </div>
@@ -52,7 +52,7 @@
                   <div class="pb-2">
                     <h4>
                       <a>
-                        Contattaci
+                        Contact-us
                       </a>
                     </h4>
                     <ul class="list-inline text-left social">

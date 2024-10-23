@@ -59,7 +59,7 @@
                     <a href="https://www.ogs.it/" target="_blank">
                       <img class="icon d-block d-sm-block d-md-none" alt="OGS logo" src="../../images/OGS_logoA_W.png" />
 
-                      <img class="logo-wide icon d-none d-md-block" alt="OGS logo" src="../../images/OGS_logoW_ita.png" />
+                      <img class="logo-wide icon d-none d-md-block" alt="OGS logo" src="../../images/OGS_logoW_eng.png" />
                     </a>
                     <div class="it-search-wrapper">
                       <a href="index.php">
