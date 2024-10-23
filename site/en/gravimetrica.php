@@ -9,7 +9,7 @@
 <head>
   <meta charset="UTF-8">
 
-  <title>Rete Gravimetrica</title>
+  <title>Gravimetric Network</title>
 
   <meta name="description" content="The Data Centre" />
   <meta name="keywords" content="oceanography,marine data,data management,data products" />
@@ -72,23 +72,24 @@
     <div class="row">
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
-          <h1 class="pt-4 mb-5">La Rete Gravimetrica</h1>
+          <h1 class="pt-4 mb-5">Gravimetric network</h1>
 
           <!-- <p class="lead">
      - possibile sottotitolo -
   </p> -->
-          <p>
-            La Rete Gravimetrica Regionale è un progetto in fase di realizzazione che prevede l'istituzione di una serie di punti di riferimento distribuiti nel Nord-Est Italia, dove verranno effettuate misurazioni precise dell'accelerazione di gravità terrestre. Questo progetto continua la storica attività di monitoraggio gravimetrico condotta dall'Istituto Nazionale di Oceanografia e di Geofisica Sperimentale (OGS).
-          </p>
-          <p>
-            La rete sarà composta da punti di misura relativi, nei quali si misurerà la differenza di gravità tra un punto e l'altro. Le misure relative saranno collegate a due nuovi capisaldi assoluti della rete Gravimetrica Nazionale, nei quali verranno invece rilevati i valori assoluti di gravità. Le misure assolute saranno effettuate nei laboratori delle sedi OGS di Udine e Trieste.
-          </p>
-          <p>
-            Questa nuova rete permetterà di ottenere una mappatura dettagliata delle variazioni di gravità terrestre nella regione. Dal punto di vista geodetico, sarà utile per determinare con alta precisione la forma del geoide locale, la superficie fisica di riferimento per le altitudini. In ambito geofisico, invece, la rete verrà impiegata per l'esplorazione del sottosuolo, costituendo un riferimento primario per nuovi rilievi di dettaglio. Queste misurazioni aiuteranno soprattutto nell'individuazione e modellazione di strutture tettoniche attive (come faglie) e di strutture idrogeologiche legate al deflusso delle acque sotterranee (falde acquifere).          
-          </p>
-          <p>
-          Inoltre, il mantenimento costante della rete consentirà di monitorare nel tempo eventuali variazioni dell'accelerazione di gravità. L'integrazione di questi dati con quelli provenienti dalla rete sismometrica, accelerometrica e geodetica SMINO permetterà una ricostruzione più precisa dell'evoluzione tettonica e idrogeologica del Nord-Est Italia.
-          </p>
+  <p>
+    The Regional Gravimetric Network is an ongoing project that involves establishing a series of reference points distributed throughout North-Eastern Italy, where precise measurements of the Earth's gravitational acceleration will be conducted. This project continues the historical gravimetric monitoring activity carried out by the National Institute of Oceanography and Experimental Geophysics (OGS).
+</p>
+<p>
+    The network will consist of relative measurement points, where the difference in gravity between one point and another will be measured. The relative measurements will be connected to two new absolute benchmarks of the National Gravimetric Network, where absolute gravity values will be recorded. Absolute measurements will be conducted in the OGS laboratories in Udine and Trieste.
+</p>
+<p>
+    This new network will provide a detailed mapping of variations in Earth's gravity in the region. From a geodetic perspective, it will be useful for accurately determining the shape of the local geoid, the physical reference surface for elevations. In the geophysical field, the network will be used for subsurface exploration, serving as a primary reference for new detailed surveys. These measurements will especially aid in identifying and modeling active tectonic structures (such as faults) and hydrogeological structures related to groundwater flow (aquifers).
+</p>
+<p>
+    Furthermore, the constant maintenance of the network will allow for the monitoring of any changes in gravitational acceleration over time. The integration of these data with those from the SMINO seismometric, accelerometric, and geodetic networks will enable a more precise reconstruction of the tectonic and hydrogeological evolution of North-Eastern Italy.
+</p>
+
 
         </div>
       </main>

@@ -72,20 +72,18 @@
     <div class="row">
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
-          <h1 class="pt-4 mb-5">La Rete accelerometica Urbana</h1>
+        <h1 class="pt-4 mb-5">Widespread Accelerometric Network</h1>
 
-          <!-- <p class="lead">
-     - possibile sottotitolo -
-  </p> -->
-          <p>
-          La Regione del Veneto ha incaricato l’OGS di attuare l’Azione 5.1 del POR-FESR 2014-2020 “Integrazione e sviluppo di sistemi di prevenzione multirischio, anche attraverso reti digitali interoperabili di coordinamento operativo precoce”.
-          </p>
-          <p>
-          L’obiettivo principale è quello di realizzare una rete di 300 accelerometri per fornire in tempi rapidi misure sullo scuotimento indotto da un terremoto e stime del danneggiamento utili alla Protezione Civile. Tali stime richiedono conoscenze sugli effetti di sito e sulle caratteristiche degli edifici, elementi che sono stati raccolti dal Dipartimento di Geoscienze dell’Università degli Studi di Padova.
-          </p>
-          <p>
-          Il progetto punta inoltre a incrementare le conoscenze sull’evoluzione del ciclo sismico, potenziando le misure di deformazione crostale e studiando il ruolo dell’acqua sotterranea nell’innesco dei terremoti.
-          </p>
+<p>
+The Veneto Region has tasked OGS with implementing Action 5.1 of the POR-FESR 2014-2020 "Integration and development of multi-risk prevention systems, including through interoperable digital networks for early operational coordination."
+</p>
+<p>
+The main objective is to create a network of 300 accelerometers to quickly provide measurements of shaking induced by an earthquake and damage estimates useful for Civil Protection. These estimates require knowledge of site effects and building characteristics, information collected by the Department of Geosciences at the University of Padova.
+</p>
+<p>
+The project also aims to enhance understanding of the evolution of the seismic cycle, strengthening measurements of crustal deformation and studying the role of groundwater in triggering earthquakes.
+</p>
+
 
         </div>
       </main>
@@ -99,7 +97,7 @@
                   <h3 class="no_toc">Links</h3>
                 </li>
                 <li><a class="list-item medium" href="https://v1.ogs.it/"
-                    target="_blank"><span>Rete accelerometrica diffusa per il monitoraggio del Veneto</span></a></li>
+                    target="_blank"><span>Distributed Accelerometric Network for Monitoring the Veneto.</span></a></li>
                 
               </ul>
             </div>

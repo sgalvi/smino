@@ -9,7 +9,7 @@
 <head>
   <meta charset="UTF-8">
 
-  <title>Rete di monitoraggio su Fibre Ottiche</title>
+  <title>Monitoring Network on Optical Fibers</title>
 
   <meta name="description" content="The Data Centre" />
   <meta name="keywords" content="oceanography,marine data,data management,data products" />
@@ -72,26 +72,27 @@
     <div class="row">
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
-          <h1 class="pt-4 mb-5">Rete di monitoraggio sismico e geodetico su fibre ottiche</h1>
+        <h1 class="pt-4 mb-5">Seismic and Geodetic Monitoring Network on Optical Fibers</h1>
 
           <!-- <p class="lead">
      - possibile sottotitolo -
   </p> -->
-            <p>
-                Il Distributed Acoustic Sensing (DAS) è una tecnologia innovativa che sfrutta le linee di fibra ottica esistenti per eseguire misure di deformazione dinamica del suolo (spostamento relativo o strain), utilizzando strumenti di interrogazione specifici. Questa tecnica consente la raccolta di dati dinamici (serie temporali continue) con una sensibilità paragonabile ai sensori sismici tradizionali, ma su distanze più ampie, fino a 50 km per interrogatore, con un'elevata risoluzione spaziale a livello metrico.          
-            </p>
-            <p>
-            Nell'ambito del Piano Nazionale di Ripresa e Resilienza (PNRR), Missione 4 "Istruzione e Ricerca" - Componente 2 "Dalla ricerca all'impresa", l'Unione Europea ha finanziato la proposta progettuale ITINERIS (Italian Integrated Environmental Research Infrastructures System), che mettendo a sistema le principali Infrastrutture di Ricerca di rilevanza nazionale a tema ambientale (tra cui SMINO),mira a sviluppare un'infrastruttura integrata per la ricerca ambientale in Italia, promuovendo l'eccellenza scientifica e la cooperazione internazionale.
-            </p>
-            <p>
-                Per raggiungere gli obiettivi di ITINERIS, il Centro di Ricerche Sismologiche (CRS) dell'OGS ha acquistato sei unità di interrogazione ottica modello iDAS (intelligent Distributed Acoustic Sensor). Questi dispositivi saranno integrati alle infrastrutture di comunicazione esistenti a scala regionale. L’uso di fibre ottiche lineari standard pre-esistenti  di vari chilometri di lunghezza permetterà sia una riduzione dei costi, sia la possibilità di monitorare in moto continuo e dettagliato il moto del suolo associato ai fenomeni sismici.
-            </p>
-            <p>
-                L'integrazione dei sistemi DAS nel Sistema di Monitoraggio dell'Italia Nord-Orientale (SMINO), gestito dal CRS, potenzierà l'infrastruttura di monitoraggio. Ciò migliorerà significativamente le capacità di rilevazione e allerta precoce dei fenomeni sismici, oltre a garantire un monitoraggio più efficace di deformazioni a medio e lungo termine, come la subsidenza. Questo rappresenta un progresso fondamentale per la Protezione Civile, aumentando la capacità di risposta e mitigazione dei rischi naturali 
-            </p>
-            <p>
-                L'applicazione su vasta scala della tecnologia DAS su aree urbane e regionali rappresenta il primo esperimento di questo genere in Italia e uno dei primi in Europa, con un impatto positivo sulla gestione del rischio sismico e sulla sicurezza del territorio. È in fase di definizione un accordo di collaborazione tra OGS e altri enti locali e regionali per supportare la Protezione Civile nelle attività di prevenzione e risposta alle emergenze, promuovendo una maggiore sicurezza per la popolazione.
-            </p>
+  <p>
+    Distributed Acoustic Sensing (DAS) is an innovative technology that utilizes existing optical fiber lines to perform dynamic soil deformation measurements (relative displacement or strain), using specific interrogation instruments. This technique allows for the collection of dynamic data (continuous time series) with sensitivity comparable to traditional seismic sensors, but over wider distances, up to 50 km per interrogator, with high spatial resolution at the meter level.
+</p>
+<p>
+    As part of the National Recovery and Resilience Plan (PNRR), Mission 4 "Education and Research" - Component 2 "From Research to Enterprise," the European Union has funded the ITINERIS project proposal (Italian Integrated Environmental Research Infrastructures System), which aims to develop an integrated infrastructure for environmental research in Italy by systematizing the main national research infrastructures of environmental relevance (including SMINO), promoting scientific excellence and international cooperation.
+</p>
+<p>
+    To achieve the objectives of ITINERIS, the Seismological Research Center (CRS) of OGS has purchased six units of the iDAS optical interrogation model (intelligent Distributed Acoustic Sensor). These devices will be integrated into the existing regional communication infrastructures. The use of existing standard linear optical fibers of various kilometers in length will allow for both cost reduction and the possibility of continuously and thoroughly monitoring the ground motion associated with seismic phenomena.
+</p>
+<p>
+    The integration of DAS systems into the Monitoring System of North-Eastern Italy (SMINO), managed by CRS, will enhance the monitoring infrastructure. This will significantly improve the detection and early warning capabilities of seismic phenomena, as well as ensure more effective monitoring of medium- and long-term deformations, such as subsidence. This represents a fundamental advancement for Civil Protection, increasing the capacity for response and mitigation of natural risks.
+</p>
+<p>
+    The large-scale application of DAS technology in urban and regional areas represents the first experiment of its kind in Italy and one of the first in Europe, with a positive impact on seismic risk management and territorial safety. A collaboration agreement is being defined between OGS and other local and regional entities to support Civil Protection in prevention and emergency response activities, promoting greater safety for the population.
+</p>
+
         </div>
       </main>
     </div>

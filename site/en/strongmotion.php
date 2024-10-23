@@ -8,7 +8,7 @@
 <head>
   <meta charset="UTF-8">
 
-  <title>Rete accelerometrica</title>
+  <title>Accelerometric Network</title>
 
   <meta name="description" content="The Data Centre" />
   <meta name="keywords" content="oceanography,marine data,data management,data products" />
@@ -72,18 +72,18 @@
     <div class="row">
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
-          <h1 class="pt-4 mb-5">Rete Accelerometrica dell’Italia Nord-Orientale</h1>
+        <h1 class="pt-4 mb-5">Accelerometric Network of Northeastern Italy</h1>
 
-          
-          <p>
-          Per garantire una corretta e completa registrazione anche di eventi sismici di forte intensità, 29 stazioni della rete sismometrica sono state equipaggiate con sensori accelerometrici di alta qualità, capaci di rilevare con precisione le accelerazioni generate durante un sisma. Questi sensori avanzati consentono di ottenere dati cruciali per comprendere la dinamica degli eventi sismici e per migliorare le valutazioni relative agli impatti sul territorio.
-          </p>
-        <p>
-        In aggiunta a queste dotazioni, nell’ambito di diversi progetti strategici, tra cui il progetto "Edifici Sentinella", finanziato dalla Protezione Civile Regionale della Regione autonoma del Friuli Venezia Giulia, il progetto Interreg V-A Italia-Austria Armonia e il Progetto Venet-one, sono stati installati più di 100 sensori accelerometrici a medio costo. Questi sensori, pur avendo un costo inferiore rispetto a quelli di alta qualità, rappresentano un’importante integrazione per il monitoraggio sismico su larga scala, migliorando la capacità di raccolta dati nelle aree sensibili.
-        </p>
-        <p>
-        I dati raccolti da questa rete di sensori vengono acquisiti in tempo reale grazie a sofisticati sistemi di trasmissione e comunicazione. L’elaborazione immediata di queste informazioni contribuisce significativamente alla stima rapida dell’impatto degli eventi sismici, offrendo strumenti utili per le autorità competenti nella gestione delle emergenze. Questo sistema avanzato di monitoraggio permette una reazione tempestiva in caso di terremoti, migliorando la sicurezza e la protezione delle persone e degli edifici nelle aree a rischio.
-        </p>
+<p>
+To ensure a correct and complete recording of even high-intensity seismic events, 29 stations of the seismic network have been equipped with high-quality accelerometric sensors, capable of accurately detecting the accelerations generated during an earthquake. These advanced sensors provide crucial data to understand the dynamics of seismic events and to improve assessments of impacts on the territory.
+</p>
+<p>
+In addition to these installations, as part of several strategic projects, including the "Sentinel Buildings" project funded by the Regional Civil Protection of the Autonomous Region of Friuli Venezia Giulia, the Interreg V-A Italy-Austria Armonia project, and the Venet-one project, more than 100 medium-cost accelerometric sensors have been installed. These sensors, while lower in cost compared to high-quality ones, represent an important addition to large-scale seismic monitoring, enhancing data collection capabilities in sensitive areas.
+</p>
+<p>
+The data collected by this network of sensors is acquired in real-time thanks to sophisticated transmission and communication systems. The immediate processing of this information significantly contributes to the rapid estimation of the impacts of seismic events, providing useful tools for authorities in emergency management. This advanced monitoring system allows for timely responses in the event of earthquakes, improving the safety and protection of people and buildings in at-risk areas.
+</p>
+
         </div>
       </main>
 

@@ -69,7 +69,7 @@
     <div class="container">
       <h1>
         <span class="homepage-title" style="text-shadow: 3px 3px 3px #000000;">SMINO</span>
-        <span class="homepage-subtitle" style="text-shadow: 3px 3px 3px #000000;">Benvenuti nel sito del Sistema di Monitoraggio dell'Italia Nord-Orientale</span>
+        <span class="homepage-subtitle" style="text-shadow: 3px 3px 3px #000000;">Welcome to the website of the Monitoring System of North-Eastern Italy</span>
       </h1>
 
     </div>
@@ -81,34 +81,31 @@
       <div class="row">
         <div class="col-12">
           
-          <h1 class="pt-4 mb-5">In due parole</h1>
+          <h1 class="pt-4 mb-5">In a nutshell</h1>
     
         </div>
         <p>
-          SMINO è una infrastruttura nazionale (PNIR 2021-2027).
-        </p>
-        <p>
-          SMINO contribuisce alla realizzazione del compito istituzionale del CRS che come previsto dalla
-          legge 399/1989 ha compiti di sorveglianza e ricerca sull’attività sismica dell’Italia nord-orientale,
-          anche a fini di Protezione Civile
-          SMINO è costituita da una rete sismometrica, una rete accelerometrica e una rete di monitoraggio
-          geodetico (FReDNet).
-        </p>
-        <p>
-          Opera in stretta cooperazione con le reti nazionali e internazionali dei paesi limitrofi, nell&#39;ambito di
-          accordi quadro per lo scambio di dati in tempo reale. Le informazioni relative agli eventi sismici
-          sono diffuse al pubblico attraverso un portale web dedicato. I bollettini sismici  riportanti
-          informazioni relative ai terremoti registrati in Italia Nord-orientale vengono pubblicati
-          regolarmente.
-
-        </p>
+    SMINO is a national infrastructure (PNIR 2021-2027).
+</p>
+<p>
+    SMINO contributes to the fulfillment of the institutional task of the CRS, which, as provided by 
+    law 399/1989, has responsibilities for monitoring and researching seismic activity in North-Eastern 
+    Italy, also for Civil Protection purposes. SMINO consists of a seismometric network, an 
+    accelerometric network, and a geodetic monitoring network (FReDNet).
+</p>
+<p>
+    It operates in close cooperation with national and international networks of neighboring countries 
+    under framework agreements for real-time data exchange. Information regarding seismic events is 
+    disseminated to the public through a dedicated web portal. Seismic bulletins reporting information 
+    about earthquakes recorded in North-Eastern Italy are published regularly.
+</p>
         </br>
       
         <div class="container">
         <div class="row">
           <div class="col-12 col-sm-12 col-lg-12">
             <div class="inner-content pb-5">
-            <h2 class="section-title">Le nostre reti</h2>
+            <h2 class="section-title">Our Networks</h2>
               
       
         <div class="row">
@@ -118,11 +115,11 @@
                 <img src="../../images/sismometrica.png" alt="La rete sismometrica" class="img-fluid"/>
               </div>
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="news/Festival_dellacqua_against_plastic_pollution.html">La rete Sismometrica</a>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./sismo.php">Seismometric Network</a>
               </h3>
-              <p>La Rete sismometrica dell'Italia nord-orientale, gestita dall'OGS, comprende 43 stazioni che monitorano i terremoti in tempo reale. I dati sono condivisi con il sistema sismico nazionale e con reti di paesi vicini, e fanno parte della rete transfrontaliera CE3RN, favorendo la collaborazione internazionale.</p>
+              <p>The seismometric network of North-Eastern Italy, managed by OGS, includes 43 stations that monitor earthquakes in real time. The data is shared with the national seismic system and with networks from neighboring countries, and it is part of the cross-border CE3RN network, fostering international collaboration.</p>
               <a class="read-more" href="./sismo.php">
-                <span class="text">Leggi tutto</span>
+                <span class="text">Read more</span>
                 <svg class="icon">
                   <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
                 </svg>
@@ -136,11 +133,13 @@
                 <img src="../../images/frednet.png" alt="La rete Geodetica" class="img-fluid"/>
               </div>
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./frednet.php"> La rete Geodetica </a>
-              </h3>
-              <p>FReDNet è una rete di 22 ricevitori GNSS per monitorare le deformazioni crostali nel Friuli Venezia Giulia, sviluppata dal 2002. Fornisce un servizio di navigazione georeferenziata in tempo reale ed è integrata con altre reti geodetiche nazionali ed europee. </p>
+    <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./frednet.php"> The Geodetic Network </a>
+</h3>
+<p>FReDNet is a network of 22 GNSS receivers to monitor crustal deformations in Friuli Venezia Giulia, developed since 2002. It provides a real-time georeferenced navigation service and is integrated with other national and European geodetic networks.</p>
+
+              
               <a class="read-more" href="./frednet.php">
-                <span class="text">Leggi tutto</span>
+                <span class="text">read more</span>
                 <svg class="icon">
                   <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
                 </svg>
@@ -155,11 +154,11 @@
               </div>
 
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./strongmotion.php"> La rete Accelerometrica </a>
-              </h3>
-              <p>Per migliorare la registrazione di eventi sismici, 29 stazioni della rete sismometrica sono state dotate di sensori accelerometrici di alta qualità. Nell’ambito dei progetti "Edifici Sentinella", Interreg Armonia e Venet-one, sono stati installati oltre 100 sensori accelerometrici a medio costo. I dati sono acquisiti in tempo reale per una rapida stima dell’impatto sismico.</p>
+    <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./strongmotion.php"> The Accelerometric Network </a>
+</h3>
+<p>To improve the recording of seismic events, 29 stations of the seismometric network have been equipped with high-quality accelerometric sensors. As part of the "Sentinel Buildings," Interreg Armonia, and Venet-one projects, over 100 medium-cost accelerometric sensors have been installed. The data is acquired in real time for a rapid assessment of seismic impact.</p>
               <a class="read-more" href="./strongmotion.php">
-                <span class="text">Leggi tutto</span>
+                <span class="text">Read more</span>
                 <svg class="icon">
                   <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
                 </svg>
@@ -174,11 +173,11 @@
               </div>
 
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./v1.php"> La rete Accelerometrica Diffusa </a>
-              </h3>
-              <p>La Regione Veneto ha incaricato l'OGS di implementare una rete di 300 accelerometri per monitorare l'attività sismica, stimare rapidamente i danni e migliorare la prevenzione. Il progetto include lo studio degli effetti locali, delle caratteristiche degli edifici e l'approfondimento delle conoscenze sulla deformazione crostale e il ruolo delle acque sotterranee nei terremoti.</p>
+    <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./v1.php"> The Widespread Accelerometric Network </a>
+</h3>
+<p>The Veneto Region has tasked OGS with implementing a network of 300 accelerometers to monitor seismic activity, quickly assess damage, and enhance prevention efforts. The project includes the study of local effects, building characteristics, and deepening knowledge about crustal deformation and the role of groundwater in earthquakes.</p>
               <a class="read-more" href="./v1.php">
-                <span class="text">Leggi tutto</span>
+                <span class="text">Read more</span>
                 <svg class="icon">
                   <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
                 </svg>
@@ -188,14 +187,14 @@
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
               <div class="field field--name-field-media-image field--type-image">
-                <img src="../../images/fillme.png" alt="La rete Fibra" class="img-fluid"/>
+                <img src="../../images/fibra.png" alt="La rete Fibra" class="img-fluid"/>
           </div>
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./fibra.php"> La rete Fibra </a>
-              </h3>
-              <p> Il progetto ITINERIS integra la tecnologia DAS (Distributed Acoustic Sensing) nel sistema di monitoraggio sismico dell'Italia Nord-Orientale. Utilizzando fibre ottiche, questa innovazione migliorerà il rilevamento di terremoti e deformazioni del suolo, potenziando la capacità di risposta della Protezione Civile ai rischi naturali.</p>
+              <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./fibra.php"> The Fiber Network </a>
+</h3>
+<p>The ITINERIS project integrates DAS (Distributed Acoustic Sensing) technology into the seismic monitoring system of North-Eastern Italy. By using optical fibers, this innovation will enhance the detection of earthquakes and ground deformations, improving the Civil Protection's capacity to respond to natural hazards.</p>
               <a class="read-more" href="./fibra.php">
-                <span class="text">Leggi tutto</span>
+                <span class="text">Read more</span>
                 <svg class="icon">
                   <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
                 </svg>
@@ -209,11 +208,11 @@
               </div>
 
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./gravimetrica.php"> La rete Gravimetrica </a>
-              </h3>
-              <p>La Rete Gravimetrica Regionale, sviluppata dall'OGS, monitorerà le variazioni della gravità nel Nord-Est Italia con punti di misura relativi e capisaldi assoluti. Contribuirà alla mappatura del geoide locale, all'esplorazione del sottosuolo e al monitoraggio di strutture tettoniche e falde acquifere, integrando i dati con altre reti geofisiche.</p>
+    <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./gravimetrica.php"> The Gravimetric Network </a>
+</h3>
+<p>The Regional Gravimetric Network, developed by OGS, will monitor variations in gravity in North-Eastern Italy with relative measurement points and absolute benchmarks. It will contribute to local geoid mapping, subsurface exploration, and the monitoring of tectonic structures and aquifers, integrating data with other geophysical networks.</p>
               <a class="read-more" href="./gravimetrica.php">
-                <span class="text">Leggi tutto</span>
+                <span class="text">Read more</span>
                 <svg class="icon">
                   <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
                 </svg>
@@ -235,7 +234,7 @@
        <div class="home-third-row__wrapper">
         <div class="container">
           <h2 class="section-title">
-            Progretti
+            Projects
           </h2>
           <div class="progetti">
             <div class="row">
@@ -311,7 +310,7 @@ Copy
                     <div>
                       <div class="card-body">
                         <h3 class="card-title">
-                          <a href="https://envri.eu/home-envri-fair/">Progetto 3</a>
+                          <a href="https://envri.eu/home-envri-fair/">Project 3</a>
                         </h3>
                         <p class="card-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.                        </p>
@@ -344,7 +343,7 @@ Copy
       <div class="row">
         <div class="col-12">
           <h2 class="section-title">
-            I nostri partners:
+            Our partners:
           </h2>
       </div>
     </div>

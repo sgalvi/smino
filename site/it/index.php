@@ -118,7 +118,7 @@
                 <img src="../../images/sismometrica.png" alt="La rete sismometrica" class="img-fluid"/>
               </div>
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="news/Festival_dellacqua_against_plastic_pollution.html">La rete Sismometrica</a>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./sismo.php">La rete Sismometrica</a>
               </h3>
               <p>La Rete sismometrica dell'Italia nord-orientale, gestita dall'OGS, comprende 43 stazioni che monitorano i terremoti in tempo reale. I dati sono condivisi con il sistema sismico nazionale e con reti di paesi vicini, e fanno parte della rete transfrontaliera CE3RN, favorendo la collaborazione internazionale.</p>
               <a class="read-more" href="./sismo.php">
