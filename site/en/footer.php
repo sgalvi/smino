@@ -20,7 +20,7 @@
                     Italy<br />
                   </p>
                 </div>
-                <!-- <div class="col-lg-4 col-md-4 pb-2">
+                 <!-- <div class="col-lg-4 col-md-4 pb-2">
                   <div class="pb-2">
                     <h4>
                       <a>
@@ -73,6 +73,23 @@
             </section>
           </div>
         </div>
-
+        <div class="it-footer-small-prints clearfix">
+          <div class="container">
+            <h3 class="sr-only">
+              Useful Links Section
+            </h3>
+            <ul class="it-footer-small-prints-list list-inline mb-0 d-flex flex-column flex-md-row">
+              <li class="list-inline-item">
+                <a href="https://www.ogs.it/en/privacy-and-cookie-policy" target="_blank" title="CookiePolicy">
+                  Privacy and cookie policy
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.ogs.it/en/legal-notes" target="_blank" title="Data policy">
+                  Legal notes
+                </a>
+              </li>
+            </ul>
+          </div>
   </footer>
 </body>

@@ -73,6 +73,23 @@
             </section>
           </div>
         </div>
-
+        <div class="it-footer-small-prints clearfix">
+          <div class="container">
+            <h3 class="sr-only">
+              Link utili
+            </h3>
+            <ul class="it-footer-small-prints-list list-inline mb-0 d-flex flex-column flex-md-row">
+              <li class="list-inline-item">
+                <a href="https://www.ogs.it/it/privacy-e-cookie-policy" target="_blank" title="CookiePolicy">
+                  Privacy e cookie policy
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.ogs.it/it/note-legali" target="_blank" title="Data policy">
+                  Note legali
+                </a>
+              </li>
+            </ul>
+          </div>
   </footer>
 </body>

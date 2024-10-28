@@ -79,7 +79,7 @@
     <div class="row">
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
-          <h1 class="pt-4 mb-5">Contattaci</h1>
+          <h1 class="pt-4 mb-5">Contact us</h1>
 
           <div class="it-list-wrapper">
             <ul class="it-list">

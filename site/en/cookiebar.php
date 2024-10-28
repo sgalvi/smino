@@ -2,20 +2,21 @@
 // cookiebar.php
 ?>
 <!DOCTYPE html>
-<html lang="it">
+<html lang="en">
 
 <body>
     <div class="cookiebar">
-        <p>
-        Questo sito utilizza cookie tecnici, analytics e di terze parti.
+    <p>
+        This site uses technical, analytics, and third-party cookies.
         <br />
-        Proseguendo nella navigazione accetti l'utilizzo dei cookie.
-        </p>
+        By continuing to browse, you accept the use of cookies.
+</p>
+
     <div class="cookiebar-buttons">
 
       <button data-accept="cookiebar" class="cookiebar-btn cookiebar-confirm">
-        Accetto<span class="sr-only">
-          i cookies
+        Accept<span class="sr-only">
+          all cookies
         </span>
       </button>
     </div>

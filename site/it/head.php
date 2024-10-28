@@ -145,22 +145,22 @@
                         <div class="link-list-wrapper">
                           <ul class="link-list">
                             <li>
-                              <a class="list-item" href="./sismo.php" target="_blank"><span>Rete Sismometrica</span></a>
+                              <a class="list-item" href="./sismo.php" ><span>Rete Sismometrica</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="./frednet.php" target="_blank"><span>Rete Geodetica</span></a>
+                              <a class="list-item" href="./frednet.php"><span>Rete Geodetica</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="./strongmotion.php" target="_blank"><span>Rete Accelerometrica</span></a>
+                              <a class="list-item" href="./strongmotion.php" ><span>Rete Accelerometrica</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="./v1.php" target="_blank"><span>Rete Accelerometrica Diffusa</span></a>
+                              <a class="list-item" href="./v1.php" ><span>Rete Accelerometrica Diffusa</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="" target="_blank"><span>La rete Fibra</span></a>
+                              <a class="list-item" href="./fibra.php" ><span>La rete Fibra</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="./gravimetrica.php" target="_blank"><span>La rete Gravimetrica</span></a>
+                              <a class="list-item" href="./gravimetrica.php"><span>La rete Gravimetrica</span></a>
                             </li>
 
                           </ul>
@@ -180,13 +180,13 @@
                         <div class="link-list-wrapper">
                           <ul class="link-list">
                             <li>
-                              <a class="list-item" href="https://www.ogs.it/" target="_blank"><span>Progetto 1</span></a>
+                              <a class="list-item" href="" target="_blank"><span>Progetto 1</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://frednet.crs.ogs.it/" target="_blank"><span>Progetto 2</span></a>
+                              <a class="list-item" href="" target="_blank"><span>Progetto 2</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://rts.crs.inogs.it/" target="_blank"><span>Progetto 3</span></a>
+                              <a class="list-item" href="" target="_blank"><span>Progetto 3</span></a>
                             </li>
                           </ul>
                         </div>
