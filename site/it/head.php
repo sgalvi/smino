@@ -180,10 +180,10 @@
                         <div class="link-list-wrapper">
                           <ul class="link-list">
                             <li>
-                              <a class="list-item" href="" target="_blank"><span>Progetto 1</span></a>
+                              <a class="list-item" href="./conv_fvg" target="_blank"><span>Convenzione FVG - Prot. Civile</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="" target="_blank"><span>Progetto 2</span></a>
+                              <a class="list-item" href="./conv_ven" target="_blank"><span>Convenzione Veneto - Prot. Civile</span></a>
                             </li>
                             <li>
                               <a class="list-item" href="" target="_blank"><span>Progetto 3</span></a>

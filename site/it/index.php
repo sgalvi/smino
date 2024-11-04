@@ -245,14 +245,11 @@
                     <div>
                       <div class="card-body">
                         <h3 class="card-title">
-                          <a href="https://www.emodnet-chemistry.eu/" hreflang="en">Convenzione protezione civile - Veneto</a>
+                          <a href="./conv_fvg.php" hreflang="it">Convenzione Protezione Civile - Friuli Venezia Giulia</a>
                         </h3>
                         <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.                        </p>
-                        <a
-                          class="read-more"
-                          href="https://www.ogs.it/it/content/european-marine-observation-and-data-network-emodnet-chemistry"
-                        >
+                        Due leggi fondamentali regolano la collaborazione tra OGS, in particolare il CRS, e la Protezione Civile del Friuli Venezia Giulia, definendo il ruolo di monitoraggio sismico a fini di protezione civile. Le convenzioni hanno sviluppato un protocollo per la comunicazione tempestiva durante i sismi e garantiscono il miglioramento della rete sismometrica e accelerometrica, oltre alla formazione dei volontari. OGS e Protezione Civile FVG hanno anche collaborato a progetti europei come Hareia e Armonia per estendere la rete accelerometrica e monitorare l’impatto dei terremoti sugli edifici.                        
+                        <a class="read-more" href="./conv_fvg.php">
                           <span class="text">Read more</span>
 
                           <svg class="icon">
@@ -270,30 +267,11 @@
                     <div>
                       <div class="card-body">
                         <h3 class="card-title">
-                          <a href="https://www.euroqcharm.eu/The site was created using a combination of standard web technologies and custom solutions:
-
-Hosting: The site is currently hosted on an internal server of OGS (National Institute of Oceanography and Experimental Geophysics). This approach offers greater control over the site's security and performance.
-
-Technologies used:
-
-PHP: For server-side logic and dynamic content generation.
-HTML: To structure the content of web pages.
-Bootstrap Italia: A front-end framework specific to Italian public administrations, which provides predefined components and styles compliant with the design guidelines for PA websites, ensuring visual consistency and accessibility.
-Future development:
-A WordPress-based version of the site is under development, with the following objectives:
-
-Simplify page maintenance
-Allow non-technical users to manage content through a user-friendly interface
-Leverage the WordPress ecosystem of plugins and themes to extend the site's functionality
-Potentially improve SEO performance and content management
-The migration to WordPress will allow for more efficient site management in the long term, reducing dependence on specific technical skills for routine content updates.
-
-Copy
-" hreflang="en">Convenzione protezione civile - Friuli Venezia Giulia</a>
+                          <a href="./conv_ven.php" hreflang="it">Convenzione Protezione Civile - Veneto</a>
                         </h3>
                         <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.                        </p>
-                        <a class="read-more" href="https://www.ogs.it/en/content/euroqcharm">
+                        Dagli anni Novanta, le convenzioni tra CRS e Protezione Civile del Veneto garantiscono il coordinamento rapido in caso di terremoti, migliorano la rete sismometrica e accelerometrica e favoriscono la ricerca sugli effetti sismici. OGS e Protezione Civile hanno anche collaborato a progetti come Armonia e Venet-ONE per monitorare l’impatto dei terremoti sugli edifici.                        
+                        <a class="read-more" href="./conv_ven.php">
                           <span class="text">Read more</span>
 
                           <svg class="icon">
@@ -311,11 +289,11 @@ Copy
                     <div>
                       <div class="card-body">
                         <h3 class="card-title">
-                          <a href="https://envri.eu/home-envri-fair/">Progetto 3</a>
+                          <a href="">Progetto 3</a>
                         </h3>
                         <p class="card-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.                        </p>
-                        <a class="read-more" href="https://www.ogs.it/it/node/1627">
+                        <a class="read-more" href="">
                           <span class="text">Read more</span>
 
                           <svg class="icon">

@@ -244,14 +244,11 @@
                     <div>
                       <div class="card-body">
                         <h3 class="card-title">
-                          <a href="https://www.emodnet-chemistry.eu/" hreflang="en">Convenzione protezione civile - Veneto</a>
+                          <a href="./conv_fvg.php" hreflang="it">Agreement with the Friuli Venezia Giulia Civil Protection Agency</a>
                         </h3>
                         <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.                        </p>
-                        <a
-                          class="read-more"
-                          href="https://www.ogs.it/it/content/european-marine-observation-and-data-network-emodnet-chemistry"
-                        >
+                        Two fundamental laws govern the collaboration between OGS, particularly the CRS, and the Friuli Venezia Giulia Civil Protection Agency, defining their role in seismic monitoring for civil protection purposes. The agreements have developed a protocol for timely communication during earthquakes, ensuring continuous improvement of the seismometric and accelerometric network, as well as training for Civil Protection volunteers. OGS and the Civil Protection Agency have also collaborated on European projects like Hareia and Armonia to extend the accelerometric network and monitor earthquake impacts on structures.
+                        <a class="read-more" href="./conv_fvg.php">
                           <span class="text">Read more</span>
 
                           <svg class="icon">
@@ -269,30 +266,10 @@
                     <div>
                       <div class="card-body">
                         <h3 class="card-title">
-                          <a href="https://www.euroqcharm.eu/The site was created using a combination of standard web technologies and custom solutions:
-
-Hosting: The site is currently hosted on an internal server of OGS (National Institute of Oceanography and Experimental Geophysics). This approach offers greater control over the site's security and performance.
-
-Technologies used:
-
-PHP: For server-side logic and dynamic content generation.
-HTML: To structure the content of web pages.
-Bootstrap Italia: A front-end framework specific to Italian public administrations, which provides predefined components and styles compliant with the design guidelines for PA websites, ensuring visual consistency and accessibility.
-Future development:
-A WordPress-based version of the site is under development, with the following objectives:
-
-Simplify page maintenance
-Allow non-technical users to manage content through a user-friendly interface
-Leverage the WordPress ecosystem of plugins and themes to extend the site's functionality
-Potentially improve SEO performance and content management
-The migration to WordPress will allow for more efficient site management in the long term, reducing dependence on specific technical skills for routine content updates.
-
-Copy
-" hreflang="en">Convenzione protezione civile - Friuli Venezia Giulia</a>
+                          <a href="./conv_ven.php" hreflang="it">Agreement with the Veneto Civil Protection Agency</a>
                         </h3>
                         <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.                        </p>
-                        <a class="read-more" href="https://www.ogs.it/en/content/euroqcharm">
+                        Agreements with the Veneto Civil Protection Agency began in the 1990s, leading to the development of a protocol that regulates the timing and methods by which CRS communicates essential information to the Civil Protection during seismic events above a certain threshold, enabling swift intervention coordination. These agreements ensure the proper functioning and continuous improvement of the seismometric and accelerometric network, as well as ongoing research to better understand seismic events and their impact on the territory. In addition to regular activities, OGS and the Regional Civil Protection Agency have collaborated on European projects such as Armonia and Venet-ONE to monitor the effects of earthquakes on buildings.                        <a class="read-more" href="./conv_ven.php">
                           <span class="text">Read more</span>
 
                           <svg class="icon">
@@ -310,7 +287,7 @@ Copy
                     <div>
                       <div class="card-body">
                         <h3 class="card-title">
-                          <a href="https://envri.eu/home-envri-fair/">Project 3</a>
+                          <a href="">Project 3</a>
                         </h3>
                         <p class="card-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.                        </p>
