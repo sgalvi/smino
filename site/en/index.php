@@ -150,7 +150,7 @@
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
               <div class="field field--name-field-media-image field--type-image">
-                <img src="../../images/fillme.png" alt="La rete Accelerometrica" class="img-fluid"/>
+                <img src="../../images/accel.png" alt="La rete Accelerometrica" class="img-fluid"/>
               </div>
 
               <h3>
