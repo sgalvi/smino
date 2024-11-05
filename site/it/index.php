@@ -13,7 +13,24 @@
   <meta charset="UTF-8">
 
   <title>Home</title>
-
+  <style>
+       .image-container {
+        width: 100%; /* Larghezza dinamica */
+        max-width: 350px; /* Massima larghezza per limitare la dimensione */
+        height: 200px; /* Altezza fissa */
+        overflow: hidden;
+        position: relative;
+        border: 1px solid #000; /* Per visualizzare il contenitore */
+    }
+    .image-container img {
+        width: 100%; /* Larghezza dell'immagine */
+        height: auto; /* Mantiene le proporzioni */
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    </style>
   <meta name="description" content="National Oceanographic Data Centre for Italy" />
   <meta name="keywords" content="oceanography,marine data,data management,data products" />
   <meta name="author" content="NODC" />
@@ -114,7 +131,7 @@
         <div class="row">
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
-              <div class="field field--name-field-media-image field--type-image">
+              <div class="image-container">
                 <img src="../../images/sismometrica.png" alt="La rete sismometrica" class="img-fluid"/>
               </div>
               <h3>
@@ -132,7 +149,7 @@
           
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
-              <div class="field field--name-field-media-image field--type-image">
+              <div class="image-container">
                 <img src="../../images/frednet.png" alt="La rete Geodetica" class="img-fluid"/>
               </div>
               <h3>
@@ -150,7 +167,7 @@
           
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
-              <div class="field field--name-field-media-image field--type-image">
+              <div class="image-container">
                 <img src="../../images/accel.png" alt="La rete Accelerometrica" class="img-fluid"/>
               </div>
 
@@ -169,7 +186,7 @@
           
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
-              <div class="field field--name-field-media-image field--type-image">
+              <div class="image-container">
                 <img src="../../images/venetone.png" alt="La rete Accelerometrica Diffusa" class="img-fluid"/>
               </div>
 
@@ -187,7 +204,7 @@
           </div>
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
-              <div class="field field--name-field-media-image field--type-image">
+              <div class="image-container">
                 <img src="../../images/fibra.png" alt="La rete Fibra" class="img-fluid"/>
           </div>
               <h3>
@@ -204,7 +221,7 @@
           </div>
           <div class="col-12 col-sm-4 bq-box">
           <article class="teaser teaser-news bq-bordered">
-            <div class="field field--name-field-media-image field--type-image">
+            <div class="image-container">
                 <img src="../../images/gravi2.png" alt="La rete Gravimetrica  " class="img-fluid"/>
               </div>
 
