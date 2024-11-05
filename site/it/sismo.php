@@ -18,8 +18,8 @@
 
 
 
-  <link rel="icon" href="./icons/favicon.png" type="image/png" />
-  <link rel="shortcut icon" href="./icons/favicon.png" type="image/png" />
+  <link rel="icon" href="../../icons/favicon.png" type="image/png" />
+  <link rel="shortcut icon" href="../../icons/favicon.png" type="image/png" />
 
 
   <script type="text/javascript"
