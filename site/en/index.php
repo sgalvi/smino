@@ -325,6 +325,100 @@
       </div>
     </div>
   </div>
+
+  <div class="container">
+  <div class="row">
+    <div class="col-12">
+      <h2 class="section-title">
+        Our partners:
+      </h2>
+      
+      <div class="splide partners-slider mb-5" role="group" aria-label="Partner logos slider">
+        <div class="splide__track">
+          <ul class="splide__list">
+            <li class="splide__slide">
+              <img src="../../images/logos/logo-veneto.jpg" alt="Partner 1" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/logo_units_esteso.png" alt="Partner 2" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/unilj.png" alt="Partner 3" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/unizagreb.png" alt="Partner 4" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/harpasea.jpeg" alt="Partner 5" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/austria.png" alt="Partner 6" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/" alt="Partner 7" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/" alt="Partner 8" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/Logo_INGV.png" alt="Partner 9" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/logo-fvg.png" alt="Partner 10" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <script>
+        document.addEventListener('DOMContentLoaded', function() {
+          new Splide('.partners-slider', {
+            type: 'loop',
+            drag: 'free',
+            focus: 'center',
+            perPage: 5,
+            autoScroll: {
+              speed: 1,
+            },
+            autoplay: true,
+            interval: 2000,
+            arrows: false,
+            pagination: false,
+            gap: '2rem',
+            breakpoints: {
+              768: {
+                perPage: 3,
+              },
+              576: {
+                perPage: 2,
+              }
+            }
+          }).mount();
+        });
+      </script>
+
+      <style>
+        .partners-slider {
+          padding: 2rem 0;
+        }
+        .splide__slide {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          padding: 1rem;
+        }
+        .splide__slide img {
+          transition: transform 0.3s ease;
+          filter: grayscale(100%);
+        }
+        .splide__slide img:hover {
+          transform: scale(1.1);
+          filter: grayscale(0%);
+        }
+      </style>
+    </div>
+  </div>
+</div>
   <?php
     include 'footer.php';
   ?>

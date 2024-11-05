@@ -317,16 +317,100 @@
       </div>
     </div>
 
-  <!-- partners -->
-   <div class="container">
-      <div class="row">
-        <div class="col-12">
-          <h2 class="section-title">
-            I nostri partners:
-          </h2>
+ 
+    <div class="container">
+  <div class="row">
+    <div class="col-12">
+      <h2 class="section-title">
+        I nostri partners:
+      </h2>
+      
+      <div class="splide partners-slider mb-5" role="group" aria-label="Partner logos slider">
+        <div class="splide__track">
+          <ul class="splide__list">
+            <li class="splide__slide">
+              <img src="../../images/logos/logo-veneto.jpg" alt="Protezione Civile Veneto" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/logo_units_esteso.png" alt="UniTS" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/unilj.png" alt="UniLJ" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/unizagreb.png" alt="UniZB" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/harpasea.jpeg" alt="Harphasea" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/austria.png" alt="Austria" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/" alt="Arso" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/" alt="ETH" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/Logo_INGV.png" alt="INGV" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+            <li class="splide__slide">
+              <img src="../../images/logos/logo-fvg.png" alt="Protezione civile fvg" class="img-fluid" style="max-height: 100px; width: auto;"/>
+            </li>
+          </ul>
+        </div>
       </div>
+
+      <script>
+        document.addEventListener('DOMContentLoaded', function() {
+          new Splide('.partners-slider', {
+            type: 'loop',
+            drag: 'free',
+            focus: 'center',
+            perPage: 5,
+            autoScroll: {
+              speed: 1,
+            },
+            autoplay: true,
+            interval: 2000,
+            arrows: false,
+            pagination: false,
+            gap: '2rem',
+            breakpoints: {
+              768: {
+                perPage: 3,
+              },
+              576: {
+                perPage: 2,
+              }
+            }
+          }).mount();
+        });
+      </script>
+
+      <style>
+        .partners-slider {
+          padding: 2rem 0;
+        }
+        .splide__slide {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          padding: 1rem;
+        }
+        .splide__slide img {
+          transition: transform 0.3s ease;
+          filter: grayscale(100%);
+        }
+        .splide__slide img:hover {
+          transform: scale(1.1);
+          filter: grayscale(0%);
+        }
+      </style>
     </div>
   </div>
+</div>
   <?php
     include 'footer.php';
   ?>
