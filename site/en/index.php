@@ -105,7 +105,7 @@
         <div class="row">
           <div class="col-12 col-sm-12 col-lg-12">
             <div class="inner-content pb-5">
-            <h2 class="section-title">Our Networks</h2>
+            <h2 class="section-title">SMINO Networks</h2>
               
       
         <div class="row">
@@ -133,7 +133,7 @@
                 <img src="../../images/frednet.png" alt="La rete Geodetica" class="img-fluid"/>
               </div>
               <h3>
-    <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./frednet.php"> The Geodetic Network </a>
+    <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./frednet.php"> Geodetic Network </a>
 </h3>
 <p>FReDNet is a network of 22 GNSS receivers to monitor crustal deformations in Friuli Venezia Giulia, developed since 2002. It provides a real-time georeferenced navigation service and is integrated with other national and European geodetic networks.</p>
 
@@ -154,7 +154,7 @@
               </div>
 
               <h3>
-    <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./strongmotion.php"> The Accelerometric Network </a>
+    <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./strongmotion.php"> Accelerometric Network </a>
 </h3>
 <p>To improve the recording of seismic events, 29 stations of the seismometric network have been equipped with high-quality accelerometric sensors. As part of the "Sentinel Buildings," Interreg Armonia, and Venet-one projects, over 100 medium-cost accelerometric sensors have been installed. The data is acquired in real time for a rapid assessment of seismic impact.</p>
               <a class="read-more" href="./strongmotion.php">
@@ -173,7 +173,7 @@
               </div>
 
               <h3>
-    <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./v1.php"> The Widespread Accelerometric Network </a>
+    <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./v1.php"> Widespread Accelerometric Network </a>
 </h3>
 <p>The Veneto Region has tasked OGS with implementing a network of 300 accelerometers to monitor seismic activity, quickly assess damage, and enhance prevention efforts. The project includes the study of local effects, building characteristics, and deepening knowledge about crustal deformation and the role of groundwater in earthquakes.</p>
               <a class="read-more" href="./v1.php">
@@ -190,7 +190,7 @@
                 <img src="../../images/fibra.png" alt="La rete Fibra" class="img-fluid"/>
           </div>
               <h3>
-              <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./fibra.php"> The Fiber Network </a>
+              <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./fibra.php"> Fiber Network </a>
 </h3>
 <p>The ITINERIS project integrates DAS (Distributed Acoustic Sensing) technology into the seismic monitoring system of North-Eastern Italy. By using optical fibers, this innovation will enhance the detection of earthquakes and ground deformations, improving the Civil Protection's capacity to respond to natural hazards.</p>
               <a class="read-more" href="./fibra.php">
@@ -208,7 +208,7 @@
               </div>
 
               <h3>
-    <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./gravimetrica.php"> The Gravimetric Network </a>
+    <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./gravimetrica.php"> Gravimetric Network </a>
 </h3>
 <p>The Regional Gravimetric Network, developed by OGS, will monitor variations in gravity in North-Eastern Italy with relative measurement points and absolute benchmarks. It will contribute to local geoid mapping, subsurface exploration, and the monitoring of tectonic structures and aquifers, integrating data with other geophysical networks.</p>
               <a class="read-more" href="./gravimetrica.php">
@@ -287,11 +287,10 @@
                     <div>
                       <div class="card-body">
                         <h3 class="card-title">
-                          <a href="">Project 3</a>
+                          <a href="./pnrr.php">PNRR Projects and SMINO</a>
                         </h3>
                         <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.                        </p>
-                        <a class="read-more" href="https://www.ogs.it/it/node/1627">
+                        SMINO, part of the National Recovery and Resilience Plan (PNRR) ITINERIS, is a national research infrastructure aimed at developing interdisciplinary research in environmental sciences. It coordinates 22 infrastructure nodes to address scientific and social issues by utilizing existing data and new observations. The project also includes the modernization of the fiber optic network, the calibration center, and the extension of the seismic network. Other PNRR projects, such as GeoSciences IR, MEET, and RETURN, contribute to improving geological research, monitoring natural hazards, and enhancing community resilience.                        <a class="read-more" href="./pnrr.php">
                           <span class="text">Read more</span>
 
                           <svg class="icon">
@@ -315,16 +314,6 @@
       </div>
     </div>
 
-  <!-- partners -->
-   <div class="container">
-      <div class="row">
-        <div class="col-12">
-          <h2 class="section-title">
-            Our partners:
-          </h2>
-      </div>
-    </div>
-  </div>
 
   <div class="container">
   <div class="row">
@@ -333,38 +322,39 @@
         Our partners:
       </h2>
       
+      
       <div class="splide partners-slider mb-5" role="group" aria-label="Partner logos slider">
         <div class="splide__track">
           <ul class="splide__list">
             <li class="splide__slide">
-              <img src="../../images/logos/logo-veneto.jpg" alt="Partner 1" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../../images/logos/logo-veneto.jpg" alt="Protezione Civile Veneto" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/logo_units_esteso.png" alt="Partner 2" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../../images/logos/logo_units_esteso.png" alt="UniTS" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/unilj.png" alt="Partner 3" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../../images/logos/unilj.png" alt="UniLJ" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/unizagreb.png" alt="Partner 4" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../../images/logos/unizagreb.png" alt="UniZB" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/harpasea.jpeg" alt="Partner 5" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../../images/logos/harpasea.jpeg" alt="Harphasea" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/austria.png" alt="Partner 6" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../../images/logos/austria.png" alt="Austria" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/" alt="Partner 7" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../../images/logos/" alt="Arso" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/" alt="Partner 8" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../../images/logos/eth_zurich.png" alt="ETH" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/Logo_INGV.png" alt="Partner 9" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../../images/logos/Logo_INGV.png" alt="INGV" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/logo-fvg.png" alt="Partner 10" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../../images/logos/logo-fvg.png" alt="Protezione civile fvg" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
           </ul>
         </div>

@@ -157,10 +157,10 @@
                               <a class="list-item" href="./v1.php" ><span>Rete Accelerometrica Diffusa</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="./fibra.php" ><span>La rete Fibra</span></a>
+                              <a class="list-item" href="./fibra.php" ><span>Rete Fibra</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="./gravimetrica.php"><span>La rete Gravimetrica</span></a>
+                              <a class="list-item" href="./gravimetrica.php"><span>Rete Gravimetrica</span></a>
                             </li>
 
                           </ul>
@@ -186,7 +186,7 @@
                               <a class="list-item" href="./conv_ven.php" target="_blank"><span>Convenzione Veneto - Prot. Civile</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="" target="_blank"><span>Progetto 3</span></a>
+                              <a class="list-item" href="./pnrr.php" target="_blank"><span>Progetti PNRR e SMINO</span></a>
                             </li>
                           </ul>
                         </div>
@@ -205,13 +205,13 @@
                         <div class="link-list-wrapper">
                           <ul class="link-list">
                             <li>
-                              <a class="list-item" href="https://frednet.crs.ogs.it/" target="_blank"><span>FREDNET</span></a>
+                              <a class="list-item" href="https://terremoti.ogs.it" target="_blank"><span>Terremoti in Tempo Reale - RTS</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://gnssdata-epos.oca.eu/" target="_blank"><span>EPOS</span></a>
+                              <a class="list-item" href="https://gnssdata-epos.oca.eu/" target="_blank"><span>Dati GNSS - EPOS</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://terremoti.ogs.it" target="_blank"><span>RTS</span></a>
+                              <a class="list-item" href="https://frednet.crs.ogs.it/" target="_blank"><span>Dati GNSS - FREDNET</span></a>
                             </li>
                           </ul>
                         </div>

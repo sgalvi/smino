@@ -77,11 +77,13 @@
           <!-- <p class="lead">
      - possibile sottotitolo -
   </p> -->
-  <p>Le convenzioni con la Protezione Civile del Veneto sono nate negli anni Novanta. Con il tempo, queste hanno portato alla stesura di un protocollo che regola le modalità e i tempi con cui il CRS, in caso di eventi sismici sopra una certa soglia, comunica alla Protezione Civile le informazioni necessarie per un rapido coordinamento degli interventi.</p>
+            <p>Le convenzioni con la Protezione civile del Veneto nascono negli anni Novanta del secolo scorso. Nel loro succedersi, hanno portato all’implementazione della rete sismometrica regionale e alla stesura di un protocollo che regola le modalità ed i tempi con cui il CRS, in caso di eventi sismici sopra una determinata soglia, comunica alla Protezione Civile le informazioni necessarie al rapido coordinamento di eventuali interventi.</p>
 
-<p>Grazie a queste convenzioni, è assicurato non solo il buon funzionamento e il miglioramento continuo della rete sismometrica e accelerometrica, ma anche una ricerca volta a una comprensione sempre più approfondita degli eventi sismici e del loro impatto sul territorio.</p>
+            <p>Grazie alle convenzioni sono garantiti non soltanto il buon funzionamento ed il costante aggiornamento della rete sismometrica ed accelerometrica, ma anche la ricerca che porta a una sempre miglior comprensione delle modalità di accadimento degli eventi sismici e del loro risentimento sul territorio.</p>
 
-<p>Oltre alle attività ordinarie, OGS e Protezione Civile Regionale hanno collaborato a progetti europei come Armonia, che ha portato all’installazione di accelerometri in edifici “sentinella” in vari comuni, per monitorare l’effetto dei terremoti sugli edifici. A questo è seguito il progetto Venet-ONE.</p>
+            <p>Oltre alle normali attività, OGS e Protezione Civile Regionale hanno partecipato insieme a progetti europei per il potenziamento del monitoraggio sismico in ambito urbano, utile per la stima rapida degli effetti di un terremoto.</p>
+
+            <p>Con un progetto pilota avviato nel 2018 (progetto INTERREG V-A Italia-Austria denominato ARMONIA) ed uno su più ampia scala completato nel 2022 (finanziato con fondi del programma POR-FESR Regione del Veneto 2014-2020) la Regione si è dotata di una rete capillare di sensori sismici installati alla base di 317 edifici in 306 comuni del Veneto (54% del totale).</p>
 
 
 

@@ -108,7 +108,7 @@
         <div class="row">
           <div class="col-12 col-sm-12 col-lg-12">
             <div class="inner-content pb-5">
-            <h2 class="section-title">Le nostre reti</h2>
+            <h2 class="section-title">Reti di SMINO</h2>
               
       
         <div class="row">
@@ -118,7 +118,7 @@
                 <img src="../../images/sismometrica.png" alt="La rete sismometrica" class="img-fluid"/>
               </div>
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./sismo.php">La rete Sismometrica</a>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./sismo.php">Rete Sismometrica</a>
               </h3>
               <p>La Rete sismometrica dell'Italia nord-orientale, gestita dall'OGS, comprende 43 stazioni che monitorano i terremoti in tempo reale. I dati sono condivisi con il sistema sismico nazionale e con reti di paesi vicini, e fanno parte della rete transfrontaliera CE3RN, favorendo la collaborazione internazionale.</p>
               <a class="read-more" href="./sismo.php">
@@ -136,7 +136,7 @@
                 <img src="../../images/frednet.png" alt="La rete Geodetica" class="img-fluid"/>
               </div>
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./frednet.php"> La rete Geodetica </a>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./frednet.php"> Rete Geodetica </a>
               </h3>
               <p>FReDNet è una rete di 22 ricevitori GNSS per monitorare le deformazioni crostali nel Friuli Venezia Giulia, sviluppata dal 2002. Fornisce un servizio di navigazione georeferenziata in tempo reale ed è integrata con altre reti geodetiche nazionali ed europee. </p>
               <a class="read-more" href="./frednet.php">
@@ -155,7 +155,7 @@
               </div>
 
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./strongmotion.php"> La rete Accelerometrica </a>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./strongmotion.php"> Rete Accelerometrica </a>
               </h3>
               <p>Per migliorare la registrazione di eventi sismici, 29 stazioni della rete sismometrica sono state dotate di sensori accelerometrici di alta qualità. Nell’ambito dei progetti "Edifici Sentinella", Interreg Armonia e Venet-one, sono stati installati oltre 100 sensori accelerometrici a medio costo. I dati sono acquisiti in tempo reale per una rapida stima dell’impatto sismico.</p>
               <a class="read-more" href="./strongmotion.php">
@@ -174,7 +174,7 @@
               </div>
 
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./v1.php"> La rete Accelerometrica Diffusa </a>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./v1.php"> Rete Accelerometrica Diffusa </a>
               </h3>
               <p>La Regione Veneto ha incaricato l'OGS di implementare una rete di 300 accelerometri per monitorare l'attività sismica, stimare rapidamente i danni e migliorare la prevenzione. Il progetto include lo studio degli effetti locali, delle caratteristiche degli edifici e l'approfondimento delle conoscenze sulla deformazione crostale e il ruolo delle acque sotterranee nei terremoti.</p>
               <a class="read-more" href="./v1.php">
@@ -191,7 +191,7 @@
                 <img src="../../images/fibra.png" alt="La rete Fibra" class="img-fluid"/>
           </div>
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./fibra.php"> La rete Fibra </a>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./fibra.php"> Rete Fibra </a>
               </h3>
               <p> Il progetto ITINERIS integra la tecnologia DAS (Distributed Acoustic Sensing) nel sistema di monitoraggio sismico dell'Italia Nord-Orientale. Utilizzando fibre ottiche, questa innovazione migliorerà il rilevamento di terremoti e deformazioni del suolo, potenziando la capacità di risposta della Protezione Civile ai rischi naturali.</p>
               <a class="read-more" href="./fibra.php">
@@ -209,7 +209,7 @@
               </div>
 
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./gravimetrica.php"> La rete Gravimetrica </a>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./gravimetrica.php"> Rete Gravimetrica </a>
               </h3>
               <p>La Rete Gravimetrica Regionale, sviluppata dall'OGS, monitorerà le variazioni della gravità nel Nord-Est Italia con punti di misura relativi e capisaldi assoluti. Contribuirà alla mappatura del geoide locale, all'esplorazione del sottosuolo e al monitoraggio di strutture tettoniche e falde acquifere, integrando i dati con altre reti geofisiche.</p>
               <a class="read-more" href="./gravimetrica.php">
@@ -250,7 +250,7 @@
                         <p class="card-text">
                         Due leggi fondamentali regolano la collaborazione tra OGS, in particolare il CRS, e la Protezione Civile del Friuli Venezia Giulia, definendo il ruolo di monitoraggio sismico a fini di protezione civile. Le convenzioni hanno sviluppato un protocollo per la comunicazione tempestiva durante i sismi e garantiscono il miglioramento della rete sismometrica e accelerometrica, oltre alla formazione dei volontari. OGS e Protezione Civile FVG hanno anche collaborato a progetti europei come Hareia e Armonia per estendere la rete accelerometrica e monitorare l’impatto dei terremoti sugli edifici.                        
                         <a class="read-more" href="./conv_fvg.php">
-                          <span class="text">Read more</span>
+                          <span class="text">Leggi tutto</span>
 
                           <svg class="icon">
                             <use href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
@@ -272,7 +272,7 @@
                         <p class="card-text">
                         Dagli anni Novanta, le convenzioni tra CRS e Protezione Civile del Veneto garantiscono il coordinamento rapido in caso di terremoti, migliorano la rete sismometrica e accelerometrica e favoriscono la ricerca sugli effetti sismici. OGS e Protezione Civile hanno anche collaborato a progetti come Armonia e Venet-ONE per monitorare l’impatto dei terremoti sugli edifici.                        
                         <a class="read-more" href="./conv_ven.php">
-                          <span class="text">Read more</span>
+                          <span class="text">Leggi tutto</span>
 
                           <svg class="icon">
                             <use href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
@@ -289,12 +289,12 @@
                     <div>
                       <div class="card-body">
                         <h3 class="card-title">
-                          <a href="">Progetto 3</a>
+                          <a href="./pnrr.php">Progetti PNRR e SMINO</a>
                         </h3>
                         <p class="card-text">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.                        </p>
-                        <a class="read-more" href="">
-                          <span class="text">Read more</span>
+                        SMINO, parte del Piano Nazionale di Ripresa e Resilienza (PNRR) ITINERIS, è un'infrastruttura di ricerca nazionale che mira a sviluppare la ricerca interdisciplinare nelle scienze ambientali. Coordina 22 nodi di infrastrutture per affrontare questioni scientifiche e sociali utilizzando dati esistenti e nuove osservazioni. Il progetto prevede anche l'ammodernamento della rete di fibre ottiche, del centro di taratura e l'estensione della rete sismica. Altri progetti del PNRR, come GeoSciences IR, MEET e RETURN, contribuiscono a migliorare la ricerca geologica, il monitoraggio dei rischi naturali e la resilienza delle comunità.                       
+                         <a class="read-more" href="./pnrr.php">
+                          <span class="text">Leggi tutto</span>
 
                           <svg class="icon">
                             <use href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
@@ -322,7 +322,7 @@
   <div class="row">
     <div class="col-12">
       <h2 class="section-title">
-        I nostri partners:
+        I Nostri Partners:
       </h2>
       
       <div class="splide partners-slider mb-5" role="group" aria-label="Partner logos slider">
@@ -350,7 +350,7 @@
               <img src="../../images/logos/" alt="Arso" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/" alt="ETH" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../../images/logos/eth_zurich.png" alt="ETH" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
               <img src="../../images/logos/Logo_INGV.png" alt="INGV" class="img-fluid" style="max-height: 100px; width: auto;"/>

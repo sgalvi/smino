@@ -157,10 +157,10 @@
                               <a class="list-item" href="./v1.php"><span>Widespread Accelerometric Network</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="./fibra.php"><span>The Fiber Network</span></a>
+                              <a class="list-item" href="./fibra.php"><span>Fiber Network</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="./gravimetrica.php"><span>The Gravimetric Network</span></a>
+                              <a class="list-item" href="./gravimetrica.php"><span>Gravimetric Network</span></a>
                             </li>
 
                           </ul>
@@ -186,7 +186,7 @@
                               <a class="list-item" href="./conv_ven.php" ><span>Veneto Civil Protection Agency Agreement</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href=""><span>Project 3</span></a>
+                              <a class="list-item" href="./pnrr.php"><span>PNRR and SMINO</span></a>
                             </li>
                           </ul>
                         </div>
@@ -205,13 +205,13 @@
                         <div class="link-list-wrapper">
                           <ul class="link-list">
                             <li>
-                              <a class="list-item" href="https://frednet.crs.ogs.it/" target="_blank"><span>FREDNET</span></a>
+                              <a class="list-item" href="https://terremoti.ogs.it" target="_blank"><span>RealTime Seismology - RTS</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://gnssdata-epos.oca.eu/" target="_blank"><span>EPOS</span></a>
+                              <a class="list-item" href="https://frednet.crs.ogs.it/" target="_blank"><span>GNSS Data - FREDNET</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://terremoti.ogs.it" target="_blank"><span>Real-Time Seismology</span></a>
+                              <a class="list-item" href="https://gnssdata-epos.oca.eu/" target="_blank"><span>GNSS Data - EPOS</span></a>
                             </li>
                           </ul>
                         </div>
