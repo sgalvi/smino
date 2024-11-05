@@ -63,6 +63,8 @@
   include 'head.php';
 ?>
 
+  
+
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
     </ol>
@@ -72,8 +74,14 @@
     <div class="row">
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
+          
           <h1 class="pt-4 mb-5">Friuli Regional Deformation Network (FReDNet)</h1>
-
+          <div class="landscape-image mb-4">
+            <img src="../../images/frednet.png" 
+                class="img-fluid w-100" 
+                alt="Landscape view of Friuli region" 
+                style="max-height: 700px; object-fit: cover;">
+          </div>
           <!-- <p class="lead">
      - possibile sottotitolo -
   </p> -->

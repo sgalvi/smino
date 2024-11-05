@@ -134,7 +134,7 @@
                     </li> -->
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
-                        <span>Our Networks</span>
+                        <span>Networks</span>
                         <svg class="icon">
                           <use
                             href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
@@ -169,7 +169,7 @@
                     </li>
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
-                        <span>Our Projects</span>
+                        <span>Projects</span>
                         <svg class="icon">
                           <use
                             href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
@@ -192,7 +192,31 @@
                         </div>
                       </div>
                     </li>
-
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
+                        <span>SMINO Data</span>
+                        <svg class="icon">
+                          <use
+                            href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
+                          </use>
+                        </svg>
+                      </a>
+                      <div class="dropdown-menu">
+                        <div class="link-list-wrapper">
+                          <ul class="link-list">
+                            <li>
+                              <a class="list-item" href="https://frednet.crs.ogs.it/" target="_blank"><span>FREDNET</span></a>
+                            </li>
+                            <li>
+                              <a class="list-item" href="https://gnssdata-epos.oca.eu/" target="_blank"><span>EPOS</span></a>
+                            </li>
+                            <li>
+                              <a class="list-item" href="https://terremoti.ogs.it" target="_blank"><span>Real-Time Seismology</span></a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </li>
                     <li class="nav-item">
                       <a class="nav-link" href="contact-us.php"><span>Contact-us</span></a>
                     </li>

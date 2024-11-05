@@ -73,7 +73,12 @@
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
         <h1 class="pt-4 mb-5">Accelerometric Network of Northeastern Italy</h1>
-
+        <div class="landscape-image mb-4">
+            <img src="../../images/accel.png" 
+                class="img-fluid w-100" 
+                alt="Landscape view of Friuli region" 
+                style="max-height: 700px; object-fit: cover;">
+          </div>
 <p>
 To ensure a correct and complete recording of even high-intensity seismic events, 29 stations of the seismic network have been equipped with high-quality accelerometric sensors, capable of accurately detecting the accelerations generated during an earthquake. These advanced sensors provide crucial data to understand the dynamics of seismic events and to improve assessments of impacts on the territory.
 </p>

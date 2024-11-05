@@ -73,7 +73,12 @@
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
         <h1 class="pt-4 mb-5">Widespread Accelerometric Network</h1>
-
+        <div class="landscape-image mb-4">
+            <img src="../../images/venetone.png" 
+                class="img-fluid w-100" 
+                alt="Landscape view of Friuli region" 
+                style="max-height: 700px; object-fit: cover;">
+          </div>
 <p>
 The Veneto Region has tasked OGS with implementing Action 5.1 of the POR-FESR 2014-2020 "Integration and development of multi-risk prevention systems, including through interoperable digital networks for early operational coordination."
 </p>

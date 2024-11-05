@@ -73,7 +73,12 @@
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
           <h1 class="pt-4 mb-5">Rete Accelerometrica dell’Italia Nord-Orientale</h1>
-
+          <div class="landscape-image mb-4">
+            <img src="../../images/accel.png" 
+                class="img-fluid w-100" 
+                alt="Landscape view of Friuli region" 
+                style="max-height: 700px; object-fit: cover;">
+          </div>
           
           <p>
           Per garantire una corretta e completa registrazione anche di eventi sismici di forte intensità, 29 stazioni della rete sismometrica sono state equipaggiate con sensori accelerometrici di alta qualità, capaci di rilevare con precisione le accelerazioni generate durante un sisma. Questi sensori avanzati consentono di ottenere dati cruciali per comprendere la dinamica degli eventi sismici e per migliorare le valutazioni relative agli impatti sul territorio.

@@ -75,7 +75,12 @@
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
         <h1 class="pt-4 mb-5">Seismometric Network of North-Eastern Italy</h1>
-
+        <div class="landscape-image mb-4">
+        <img src="../../images/sismometrica.png" 
+                class="img-fluid w-100" 
+                alt="Landscape view of Friuli region" 
+                style="max-height: 700px; object-fit: cover;">
+          </div>
 <!-- <p class="lead">
      - possible subtitle -
 </p> -->
