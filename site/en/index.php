@@ -356,13 +356,13 @@
               <img src="../../images/logos/unizagreb.png" alt="UniZB" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/harpasea.jpeg" alt="Harphasea" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../../images/logos/harphasea.png" alt="Harphasea" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
               <img src="../../images/logos/austria.png" alt="Austria" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/" alt="Arso" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../../images/logos/arso.jpeg" alt="Arso" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
               <img src="../../images/logos/eth_zurich.png" alt="ETH" class="img-fluid" style="max-height: 100px; width: auto;"/>
