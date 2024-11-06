@@ -89,6 +89,7 @@ a {
 h1 .homepage-subtitle,
 h1 .homepage-title {
   color: #fff !important;
+  text-shadow: 3px 3px 3px #000000;
 }
 
 .it-header-wrapper .navbar .navbar-collapsable .menu-wrapper .nav-item.megamenu .dropdown-menu {
@@ -330,7 +331,9 @@ a.read-more .icon {
 }
 
 .it-header-wrapper {
-  background: linear-gradient(180deg, #00b0e1, #14387f);
+/*   background: linear-gradient(180deg, #00b0e1, #14387f); */
+  background: linear-gradient(180deg, #14387f, #14387f);
+
 }
 
 .it-header-wrapper .it-header-slim-wrapper-content .it-socials {

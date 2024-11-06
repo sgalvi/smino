@@ -85,8 +85,8 @@
   <div class="fascia-blue fascia-branding">
     <div class="container">
       <h1>
-        <span class="homepage-title" style="text-shadow: 3px 3px 3px #000000;">SMINO</span>
-        <span class="homepage-subtitle" style="text-shadow: 3px 3px 3px #000000;">Welcome to the website of the Monitoring System of North-Eastern Italy</span>
+        <span class="homepage-title">SMINO</span>
+        <!-- <span class="homepage-subtitle" style="text-shadow: 3px 3px 3px #000000;">Welcome to the website of the Monitoring System of North-Eastern Italy</span> -->
       </h1>
 
     </div>
@@ -98,7 +98,7 @@
       <div class="row">
         <div class="col-12">
           
-          <h1 class="pt-4 mb-5">In a nutshell</h1>
+          <h1 class="pt-4 mb-5">Welcome to the website of the Monitoring System of North-Eastern Italy</h1>
     
         </div>
         <p>
