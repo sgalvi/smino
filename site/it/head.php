@@ -154,7 +154,7 @@
                               <a class="list-item" href="./strongmotion.php" ><span>Rete Accelerometrica</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="./v1.php" ><span>Rete Accelerometrica Diffusa</span></a>
+                              <a class="list-item" href="./diffusa.php" ><span>Rete Accelerometrica Diffusa</span></a>
                             </li>
                             <li>
                               <a class="list-item" href="./fibra.php" ><span>Rete Fibra</span></a>

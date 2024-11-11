@@ -3,8 +3,6 @@
   xmlns:wicket="https://raw.githubusercontent.com/apache/wicket/wicket-9.x/wicket-core/src/main/resources/META-INF/wicket.xsd"
   lang="en">
 
-<!-- Mirrored from nodc.ogs.it/?-1.-locale~list-0-locale~link by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 31 Jul 2024 10:02:21 GMT -->
-<!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
@@ -13,7 +11,7 @@
   <meta charset="UTF-8">
 
   <title>Home</title>
-  <style>
+  <!-- <style>
        .image-container {
         width: 100%; /* Larghezza dinamica */
         max-width: 350px; /* Massima larghezza per limitare la dimensione */
@@ -30,10 +28,10 @@
         left: 50%;
         transform: translate(-50%, -50%);
     }
-    </style>
+    </style> -->
   <meta name="description" content="National Oceanographic Data Centre for Italy" />
   <meta name="keywords" content="oceanography,marine data,data management,data products" />
-  <meta name="author" content="NODC" />
+  <meta name="author" content="S" />
   <meta name="generator" content="Apache Wicket Application - http://wicket.apache.org" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -164,7 +162,7 @@
             </article>
           </div>
           
-          <div class="col-12 col-sm-4 bq-box">
+          <!-- <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
               <div class="image-container">
                 <img src="../../images/accel.png" alt="La rete Accelerometrica" class="img-fluid" width="500" height="300" style="object-fit: cover;"/>
@@ -181,7 +179,7 @@
                 </svg>
               </a>
             </article>
-          </div>
+          </div> -->
           
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
@@ -190,10 +188,10 @@
               </div>
 
               <h3>
-    <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./v1.php"> Widespread Accelerometric Network </a>
+    <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./diffused.php"> Widespread Accelerometric Network </a>
 </h3>
 <p>The Veneto Region has tasked OGS with implementing a network of 300 accelerometers to monitor seismic activity, quickly assess damage, and enhance prevention efforts. The project includes the study of local effects, building characteristics, and deepening knowledge about crustal deformation and the role of groundwater in earthquakes.</p>
-              <a class="read-more" href="./v1.php">
+              <a class="read-more" href="./diffused.php">
                 <span class="text">Read more</span>
                 <svg class="icon">
                   <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
@@ -201,6 +199,8 @@
               </a>
             </article>
           </div>
+
+          <div class="row justify-content-center mt-4">
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
               <div class="image-container">
@@ -218,6 +218,7 @@
               </a>
             </article>
           </div>
+          
           <div class="col-12 col-sm-4 bq-box">
           <article class="teaser teaser-news bq-bordered">
             <div class="image-container">
@@ -236,7 +237,7 @@
               </a>
             </article>
           </div>
-          
+          </div>
           
         </div>
         </div>

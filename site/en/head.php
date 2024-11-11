@@ -154,7 +154,7 @@
                               <a class="list-item" href="./strongmotion.php"><span>Rete Accelerometrica</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="./v1.php"><span>Widespread Accelerometric Network</span></a>
+                              <a class="list-item" href="./diffused.php"><span>Widespread Accelerometric Network</span></a>
                             </li>
                             <li>
                               <a class="list-item" href="./fibra.php"><span>Fiber Network</span></a>

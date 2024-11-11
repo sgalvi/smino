@@ -83,28 +83,17 @@
           <!-- <p class="lead">
      - possibile sottotitolo -
   </p> -->
-          <p>
-            La Rete sismometrica dell’Italia nord-orientale consta di 43 stazioni, di cui 24 a banda larga, 15 a
-            corto periodo e 4 di periodo intermedio. La Rete è gestita da OGS anche per conto delle Regioni
-            Friuli Venezia Giulia e del Veneto. Le stazioni sono installate in Friuli Venezia Giulia,   Veneto
-             (nella maggior parte dei casi) in  Emilia Romagna e Lombardia. I dati registrati da tutte le stazioni
-            sono acquisiti in tempo reale presso la sede del Centro di Ricerche Sismologiche di OGS a Udine.
-          </p>
-          <p>
-            La rete fornisce dati anche al sistema di sorveglianza sismica nazionale, con scambio dati in tempo
-            reale con il  Dipartimento di Protezione Civile e con l’Istituto Nazionale di Geofisica e Vulcanologia
-            (INGV). Inol tre, al fine di migliorare la qualità delle localizzazioni e della stima della magnitudo in
-            regioni fron taliere, la rete scambia dati in tempo reale con le reti sismometriche di Austria,
-            Slovenia, Sv izzera, e delle Province Autonome di Trento e di Bolzano, e dell’Università degli Stud           i
-            di Genova. 
-          </p>
-          <p>
-            La  Rete sismometrica dell’Italia nord-orientale è parte della rete transfrontaliera CE3RN a cui
-            partecipano anche le reti sismiche di  Croazia, Slovacchia, Ungheria, Romania, Albania e Bulgari.
-             CE3RN  è un esempio di eccellenza di collaborazione transnazionale e di condivisione di
-            infrastrutture, dati e risorse. I dati della rete vengono resi disponibili attraverso OASIS, EIDA e il
-            sistema RTS.
-          </p>
+  <p>
+        La Rete sismometrica dell'Italia nord-orientale consta di 43 stazioni ad alta sensibilità, di cui 24 a banda larga, 15 a corto periodo e 4 di periodo intermedio. Inoltre, per garantire una ampia dinamica nella registrazione di eventi sismici di forte intensità, 29 stazioni della rete sismometrica sono state equipaggiate con sensori accelerometrici di alta qualità, capaci di rilevare con precisione le accelerazioni generate durante un sisma. La Rete è gestita da OGS anche per conto delle Regioni Friuli Venezia Giulia e del Veneto. Le stazioni sono perlopiù installate in Friuli Venezia Giulia e Veneto, mentre un numero limitato di strumenti è installato in Emilia Romagna e Lombardia. I dati registrati da tutte le stazioni sono acquisiti in tempo reale presso la sede del Centro di Ricerche Sismologiche di OGS a Udine.
+    </p>
+
+    <p>
+        La rete supporta anche al sistema di sorveglianza sismica nazionale attraverso, lo scambio di dati in tempo reale con il Dipartimento di Protezione Civile e con l'Istituto Nazionale di Geofisica e Vulcanologia (INGV). Inoltre, al fine di migliorare la qualità delle localizzazioni e della stima della magnitudo in regioni frontaliere, la rete scambia dati in tempo reale con le reti sismometriche di Austria, Slovenia, Svizzera, e delle Province Autonome di Trento e di Bolzano, e dell'Università degli studi di Genova.
+    </p>
+
+    <p>
+        La Rete sismometrica dell'Italia nord-orientale è parte della rete transfrontaliera CE3RN a cui partecipano anche le reti sismiche di Croazia, Slovacchia, Ungheria, Romania, Albania e Bulgaria. CE3RN è un esempio di eccellenza di collaborazione transnazionale e di condivisione di infrastrutture, dati e risorse. I dati della rete vengono resi disponibili attraverso OASIS, EIDA e il sistema RTS.
+    </p>
 
 
         </div>

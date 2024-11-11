@@ -85,14 +85,16 @@
      - possible subtitle -
 </p> -->
 <p>
-    The Seismometric Network of North-Eastern Italy consists of 43 stations, including 24 broadband, 15 short-period, and 4 intermediate-period stations. The Network is managed by OGS on behalf of the Friuli Venezia Giulia and Veneto Regions. The stations are installed in Friuli Venezia Giulia, Veneto (in most cases), as well as in Emilia Romagna and Lombardy. The data recorded by all the stations are acquired in real-time at the headquarters of the OGS Seismological Research Center in Udine.
-</p>
-<p>
-    The network also provides data to the national seismic monitoring system, exchanging data in real-time with the Department of Civil Protection and the National Institute of Geophysics and Volcanology (INGV). Furthermore, to improve the quality of location and magnitude estimation in border regions, the network exchanges data in real-time with the seismometric networks of Austria, Slovenia, Switzerland, and the Autonomous Provinces of Trento and Bolzano, as well as the University of Genoa.
-</p>
-<p>
-    The Seismometric Network of North-Eastern Italy is part of the CE3RN cross-border network, which also includes seismic networks from Croatia, Slovakia, Hungary, Romania, Albania, and Bulgaria. CE3RN is an example of excellence in transnational collaboration and sharing of infrastructures, data, and resources. The data from the network are made available through OASIS, EIDA, and the RTS system.
-</p>
+        The Seismic Network of North-Eastern Italy consists of 43 high-sensitivity stations, including 24 broadband, 15 short-period, and 4 intermediate-period stations. Furthermore, to ensure a wide dynamic range in recording high-intensity seismic events, 29 stations of the seismic network have been equipped with high-quality accelerometric sensors, capable of accurately detecting accelerations generated during an earthquake. The Network is managed by OGS also on behalf of the Friuli Venezia Giulia and Veneto Regions. The stations are mostly installed in Friuli Venezia Giulia and Veneto, while a limited number of instruments are installed in Emilia Romagna and Lombardy. Data recorded from all stations are acquired in real-time at the OGS Seismological Research Center headquarters in Udine.
+    </p>
+
+    <p>
+        The network also supports the national seismic surveillance system through real-time data exchange with the Civil Protection Department and the National Institute of Geophysics and Volcanology (INGV). Additionally, to improve the quality of locations and magnitude estimation in border regions, the network exchanges real-time data with the seismic networks of Austria, Slovenia, Switzerland, the Autonomous Provinces of Trento and Bolzano, and the University of Genoa.
+    </p>
+
+    <p>
+        The Seismic Network of North-Eastern Italy is part of the cross-border network CE3RN, which also includes the seismic networks of Croatia, Slovakia, Hungary, Romania, Albania, and Bulgaria. CE3RN is an example of excellence in transnational collaboration and sharing of infrastructure, data, and resources. The network's data are made available through OASIS, EIDA, and the RTS system.
+    </p>
 
 
 

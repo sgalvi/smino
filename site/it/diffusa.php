@@ -9,7 +9,7 @@
 <head>
   <meta charset="UTF-8">
 
-  <title>Rete Accelerometrica Urbana</title>
+  <title>Rete Accelerometrica Diffusa</title>
 
   <meta name="description" content="The Data Centre" />
   <meta name="keywords" content="oceanography,marine data,data management,data products" />
@@ -72,23 +72,27 @@
     <div class="row">
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
-        <h1 class="pt-4 mb-5">Widespread Accelerometric Network</h1>
-        <div class="landscape-image mb-4">
+          <h1 class="pt-4 mb-5">La Rete accelerometica Diffusa</h1>
+          <div class="landscape-image mb-4">
             <img src="../../images/venetone.png" 
                 class="img-fluid w-100" 
                 alt="Landscape view of Friuli region" 
                 style="max-height: 700px; object-fit: cover;">
           </div>
-<p>
-The Veneto Region has tasked OGS with implementing Action 5.1 of the POR-FESR 2014-2020 "Integration and development of multi-risk prevention systems, including through interoperable digital networks for early operational coordination."
-</p>
-<p>
-The main objective is to create a network of 300 accelerometers to quickly provide measurements of shaking induced by an earthquake and damage estimates useful for Civil Protection. These estimates require knowledge of site effects and building characteristics, information collected by the Department of Geosciences at the University of Padova.
-</p>
-<p>
-The project also aims to enhance understanding of the evolution of the seismic cycle, strengthening measurements of crustal deformation and studying the role of groundwater in triggering earthquakes.
-</p>
+          <!-- <p class="lead">
+     - possibile sottotitolo -
+  </p> -->
+  <p>
+       In aggiunta agli accelerometri della rete sismometrica, nell'ambito di diversi progetti strategici, tra cui il progetto "Edifici Sentinella", finanziato dalla Protezione Civile Regionale della Regione autonoma del Friuli Venezia Giulia, il progetto Interreg V-A Italia-Austria Armonia, è stata installata una densa rete di sensori accelerometrici tra Friuli Venezia Giulia e Veneto. I sensori della rete accelerometrica urbana sono stati sviluppati nell'ambito dei suddetti progetti dalla sinergia tra OGS e ADEL (direi qualcosa qua prendendo spunto dal lavoro sottomesso sul fatto che gli strumenti combinano le alte prestazioni nella registrazione delle accelerazioni del suolo per eventi moderati e forti ma hanno un costo ridotto). La disponibilità di tali sensori ha permesso di realizzare un'importante integrazione al monitoraggio sismico su larga scala, migliorando la capacità di raccolta dati nelle aree sensibili.
+   </p>
 
+   <p>
+       Inoltre la Regione del Veneto ha incaricato l'OGS di attuare l'Azione 5.1 del POR-FESR 2014-2020 "Integrazione e sviluppo di sistemi di prevenzione multirischio, anche attraverso reti digitali interoperabili di coordinamento operativo precoce". L'obiettivo principale è stato quello di realizzare una rete capillare di ulteriori circa 300 sensori accelerometrici a medio costo installati alla base di 317 edifici in 306 comuni del Veneto.
+   </p>
+
+   <p>
+       I dati raccolti da questa rete di sensori vengono acquisiti in tempo reale grazie a sofisticati sistemi di trasmissione e comunicazione. L'elaborazione immediata di queste informazioni contribuisce significativamente alla stima rapida dell'impatto degli eventi sismici, offrendo strumenti utili per le autorità competenti nella gestione delle emergenze. Questo sistema avanzato di monitoraggio permette una reazione tempestiva in caso di terremoti, migliorando la sicurezza e la protezione delle persone e degli edifici nelle aree a rischio. Nell'ambito del progetto inoltre, sono state acquisiti dal Dipartimento di Geoscienze dell'Università degli Studi di Padova sugli effetti di sito e sulle caratteristiche degli edifici.
+   </p>
 
         </div>
       </main>
@@ -102,7 +106,7 @@ The project also aims to enhance understanding of the evolution of the seismic c
                   <h3 class="no_toc">Links</h3>
                 </li>
                 <li><a class="list-item medium" href="https://v1.ogs.it/"
-                    target="_blank"><span>Distributed Accelerometric Network for Monitoring the Veneto.</span></a></li>
+                    target="_blank"><span>Rete accelerometrica diffusa per il monitoraggio del Veneto</span></a></li>
                 
               </ul>
             </div>

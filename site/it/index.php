@@ -122,10 +122,10 @@
         </br>
       
         <div class="container">
-        <div class="row">
-          <div class="col-12 col-sm-12 col-lg-12">
-            <div class="inner-content pb-5">
-            <h2 class="section-title">Reti di SMINO</h2>
+          <div class="row">
+            <div class="col-12 col-sm-12 col-lg-12">
+              <div class="inner-content pb-5">
+                <h2 class="section-title">Reti di SMINO</h2>
               
       
         <div class="row">
@@ -191,10 +191,10 @@
               </div>
 
               <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./v1.php"> Rete Accelerometrica Diffusa </a>
+                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./diffusa.php"> Rete Accelerometrica Diffusa </a>
               </h3>
               <p>La Regione Veneto ha incaricato l'OGS di implementare una rete di 300 accelerometri per monitorare l'attività sismica, stimare rapidamente i danni e migliorare la prevenzione. Il progetto include lo studio degli effetti locali, delle caratteristiche degli edifici e l'approfondimento delle conoscenze sulla deformazione crostale e il ruolo delle acque sotterranee nei terremoti.</p>
-              <a class="read-more" href="./v1.php">
+              <a class="read-more" href="./diffusa.php">
                 <span class="text">Leggi tutto</span>
                 <svg class="icon">
                   <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
@@ -202,6 +202,8 @@
               </a>
             </article>
           </div>
+          
+          <div class="row justify-content-center mt-4">
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
               <div class="image-container">
@@ -239,6 +241,7 @@
           </div>
           
           
+        </div>
         </div>
         </div>
         </div>
