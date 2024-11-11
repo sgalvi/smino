@@ -340,7 +340,9 @@
       </h2>
       
       
-      <div class="splide partners-slider mb-5" role="group" aria-label="Partner logos slider">
+      <!-- <div class="splide partners-slider mb-5" role="group" aria-label="Partner logos slider"> -->
+      <div class="splide partners-slider mb-5" role="group">
+      
         <div class="splide__track">
           <ul class="splide__list">
             <li class="splide__slide">

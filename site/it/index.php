@@ -13,7 +13,7 @@
   <meta charset="UTF-8">
 
   <title>Home</title>
-  <style>
+  <!-- <style>
        .image-container {
         width: 100%; /* Larghezza dinamica */
         max-width: 350px; /* Massima larghezza per limitare la dimensione */
@@ -30,7 +30,7 @@
         left: 50%;
         transform: translate(-50%, -50%);
     }
-  </style>
+  </style> -->
   <meta name="description" content="National Oceanographic Data Centre for Italy" />
   <meta name="keywords" content="oceanography,marine data,data management,data products" />
   <meta name="author" content="NODC" />
@@ -165,7 +165,7 @@
             </article>
           </div>
           
-          <div class="col-12 col-sm-4 bq-box">
+          <!-- <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
               <div class="image-container">
                 <img src="../../images/accel.png" alt="La rete Accelerometrica" class="img-fluid"/>
@@ -182,7 +182,7 @@
                 </svg>
               </a>
             </article>
-          </div>
+          </div> -->
           
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
@@ -342,7 +342,9 @@
         I Nostri Partners:
       </h2>
       
-      <div class="splide partners-slider mb-5" role="group" aria-label="Partner logos slider">
+      <!-- <div class="splide partners-slider mb-5" role="group" aria-label="Partner logos slider"> -->
+      <div class="splide partners-slider mb-5" role="group" aria-label="Slideshow of partner organization logos">
+
         <div class="splide__track">
           <ul class="splide__list">
             <li class="splide__slide">

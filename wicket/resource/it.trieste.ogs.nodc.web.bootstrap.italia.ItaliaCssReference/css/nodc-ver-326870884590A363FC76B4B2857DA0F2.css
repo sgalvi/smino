@@ -886,3 +886,19 @@ blockquote.blockquote {
   padding-top: 15px;
   margin-left: auto;
 }
+.image-container {
+  width: 100%; /* Larghezza dinamica */
+  max-width: 350px; /* Massima larghezza per limitare la dimensione */
+  height: 200px; /* Altezza fissa */
+  overflow: hidden;
+  position: relative;
+  border: 1px solid #000; /* Per visualizzare il contenitore */
+}
+.image-container img {
+  width: 100%; /* Larghezza dell'immagine */
+  height: auto; /* Mantiene le proporzioni */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
