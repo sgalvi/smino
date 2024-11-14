@@ -74,11 +74,17 @@
         <div class="inner-content pb-5">
         <h1 class="pt-4 mb-5">PNRR and SMINO Projects</h1>
 
-<p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-    <strong>SMINO</strong>, as a national research infrastructure (PNIR 2021-2027), is part of the National Recovery and Resilience Plan (PNRR) project <strong>ITINERIS</strong> (Italian Integrated Environmental Research Infrastructures System)
-    <a href="https://www.ogs.it/it/progetti/itineris" target="_blank" style="color: #0056b3; text-decoration: none;">[link]</a>, whose main objective is to develop interdisciplinary research in environmental sciences, coordinating a network of national nodes of 22 research infrastructures, through the use and reuse of existing (or pre-operational) data and services and new observations, to address issues that are relevant from both a scientific and social perspective.
-    The project contributes to the development of the SMINO fiber optic network, as well as the modernization of the instrument calibration center and the extension of the network offshore with a seabed seismograph.
-</p>
+        <ul style="list-style-type: none; padding-left: 0;">
+    <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+        <img src="../../images/pnrr/itineris.png" href="https://www.ogs.it/it/progetti/itineris" alt="Itineris Logo" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
+        
+        <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+            <strong>SMINO</strong>, as a research infrastructure of national relevance (PNIR 2021-2027), is part of the National Recovery and Resilience Plan (PNRR) project <strong>ITINERIS</strong> (Italian Integrated Environmental Research Infrastructures System)
+            <a href="https://www.ogs.it/it/progetti/itineris" target="_blank" style="color: #0056b3; text-decoration: none;">[link]</a>, whose main objective is to develop interdisciplinary research in environmental sciences by coordinating a network of national nodes of 22 research infrastructures. This involves the use and reuse of existing (or pre-operational) data and services as well as new observations to address scientifically and socially relevant issues.
+            The project contributes to the development of the SMINO fiber optic network, the modernization of the instrument calibration center, and the extension of the network to the sea with a seafloor seismograph.
+        </p>
+    </li>
+</ul>
 
 <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">Additionally, other projects within the PNRR are contributing to the modernization of the infrastructure:</p>
 
