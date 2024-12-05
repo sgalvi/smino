@@ -2,10 +2,26 @@
 <html lang="it">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=./it/">
     <title>Redirect</title>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Ottieni la lingua preferita dal browser
+            const userLang = navigator.language || navigator.userLanguage;
+
+            // Controlla se la lingua è italiana, altrimenti reindirizza alla versione inglese
+            if (userLang.startsWith('it')) {
+                window.location.href = './it/';
+            } else {
+                window.location.href = './en/';
+            }
+        });
+    </script>
 </head>
 <body>
-    <p>Se non vieni reindirizzato automaticamente, <a href="./it/">clicca qui</a>.</p>
+    <p>Reindirizzamento in corso... Se non vieni reindirizzato automaticamente, scegli la tua lingua:</p>
+    <ul>
+        <li><a href="./it/">Italiano</a></li>
+        <li><a href="./en/">English</a></li>
+    </ul>
 </body>
 </html>
