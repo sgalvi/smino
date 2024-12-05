@@ -83,11 +83,23 @@
      - possibile sottotitolo -
   </p> -->
   <p>
-    FReDNet (Friuli Regional Deformation Network) is the monitoring system for crustal deformations in Friuli Venezia Giulia that the Seismological Research Center began developing in 2002, with the installation of the first station. In most cases, the receivers have been installed at sites already hosting sensors from the OGS seismometric network. FReDNet is also part of a broader geodetic detection program for the Adriatic microplate, which includes the repetition of episodic measurements of geodetic points.
-</p>
+  FReDNet (Friuli Regional Deformation Network) is the crustal deformation monitoring system in
+Friuli Venezia Giulia that the Centre for Seismological Research began developing in 2002, with
+the installation of the first station (Zuliani et al., 2018; Tunini et al., 2024). In most cases, the
+
+Deliverable title here Pag. 7
+receivers have been installed in sites that already host the sensors of the OGS seismic network.
+FReDNet is also part of a broader geodetic survey program of the Adriatic microplate that includes
+repeating episodic measurements of geodetic points.</p>
 <p>
-    Currently, FReDNet comprises 22 permanent GNSS receivers (GPS+GLONASS+Galileo) for the geodetic monitoring of crustal deformations in North-Eastern Italy. It also provides a high-precision real-time georeferenced navigation service according to differential correction methods (RTK - Real Time Kinematic, MRS - Multi Reference Station, and VRS - Virtual Reference Station). The service is freely accessible to the public, private, and scientific users. The network is integrated with the GPS network of the Friuli Venezia Giulia Region, the National Dynamic Network of the Military Geographic Institute, and the European EUREF Permanent Network. FReDNet is included in EPOS RIDE.
-</p>
+FReDNet currently comprises 22 permanent GNSS receivers (GPS+GLONASS+Galileo+Beidou)
+for geodetic monitoring of crustal deformations in northeastern Italy. It also provides a real-time
+service for high-precision georeferenced navigation according to differential correction modes
+(RTK - Real Time Kinematic, and VRS - Virtual Reference Station). The service is freely
+accessible to public, private, and scientific users (Figure 3). The Network is integrated with the
+Friuli Venezia Giulia Region&#39;s geodetic network (Antonio Marussi network), the National Dynamic
+Network (RDN) of the Military Geographic Institute (IGM), and the European EUREF Permanent
+Network (EPN).</p>
 
 
 
@@ -102,8 +114,8 @@
                 <li>
                   <h3 class="no_toc">Links</h3>
                 </li>
-                <li><a class="list-item medium" href="https://frednet.crs.ogs.it/ItalianSite/XFReDNetHome.htm"
-                    target="_blank"><span>Frednet</span></a></li>
+                <li><a class="list-item medium" href="https://frednet.crs.ogs.it/"
+                    target="_blank"><span>FReDNet</span></a></li>
                 <li><a class="list-item medium" href="https://gnssdata-epos.oca.eu/#/site"
                     target="_blank"><span>Epos</span></a></li>
                 </li>

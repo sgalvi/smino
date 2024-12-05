@@ -162,7 +162,9 @@
                             <li>
                               <a class="list-item" href="./gravimetrica.php"><span>Gravimetric Network</span></a>
                             </li>
-
+                            <li>
+                            <a class="list-item" href="https://www.crs.inogs.it/ipcam/" target="_blank"><span>Webcam</span></a>
+                            </li>
                           </ul>
                         </div>
                       </div>

@@ -85,24 +85,13 @@
           <!-- <p class="lead">
      - possibile sottotitolo -
   </p> -->
-          <p>
-            FReDNet (Friuli Regional Deformation Network) è il sistema di monitoraggio delle deformazioni
-            crostali nel Friuli Venezia Giulia che il Centro di ricerche sismologiche ha iniziato a sviluppare nel
-            2002, con l&#39;installazione della prima stazione. Nella maggior parte dei casi i ricevitori sono stati
-            installati nei siti già ospitanti i sensori della rete sismometrica dell&#39;OGS. FReDNet è inoltre parte di
-            un programma più ampio di rilevamento geodetico della microplacca adriatica che comprende la
-            ripetizione di misure episodiche di punti geodetici.
-          </p>
-          <p>
-            Attualmente FReDNet comprende 22 ricevitori permanenti GNSS (GPS+GLONASS+Galileo) per
-            il monitoraggio geodetico delle deformazioni crostali nell’Italia nord-orientale. Fornisce inoltre un
-            servizio per la navigazione georeferenziata di alta precisione in tempo reale secondo le modalità di
-            correzione differenziale (RTK - Real Time Kinematic, MRS - Multi Reference Station e VRS -
-            Virtual Reference Station). Il servizio è di libero accesso per utenza pubblica, privata e scientifica.
-            La rete è integrata con la rete GPS della Regione Friuli Venezia Giulia, con la Rete Dinamica
-            Nazionale dell’Istituto Geografico Militare e con la rete europea EUREF Permanent Network.
-            FReDNet è inclusa in EPOS RIDE.
-          </p>
+  <p> FReDNet (Friuli Regional Deformation Network) è il sistema di monitoraggio delle deformazioni crostali in Friuli Venezia Giulia, sviluppato dal Centro di Ricerche Sismologiche a partire dal 2002, con l'installazione della prima stazione (Zuliani et al., 2018; Tunini et al., 2024). Nella maggior parte dei casi, i ricevitori sono stati installati in siti che già ospitano i sensori della rete sismica dell'OGS. FReDNet fa parte anche di un programma geodetico più ampio relativo alla microplacca adriatica, che include misurazioni episodiche ripetute di punti geodetici. </p> <p> Attualmente, FReDNet comprende 22 ricevitori GNSS permanenti (GPS+GLONASS+Galileo+Beidou) per il monitoraggio geodetico delle deformazioni crostali nel nord-est Italia. Fornisce anche un servizio in tempo reale per la navigazione georeferenziata ad alta precisione, secondo modalità di correzione differenziale (RTK - Real Time Kinematic, e VRS - Virtual Reference Station). Il servizio è liberamente accessibile a utenti pubblici, privati e scientifici (Figura 3). La rete è integrata con la rete geodetica della Regione Friuli Venezia Giulia (rete Antonio Marussi), con la Rete Dinamica Nazionale (RDN) dell'Istituto Geografico Militare (IGM) e con la rete permanente europea EUREF (EPN). </p>
+
+
+
+
+
+
 
 
         </div>
@@ -116,10 +105,10 @@
                 <li>
                   <h3 class="no_toc">Links</h3>
                 </li>
-                <li><a class="list-item medium" href="https://frednet.crs.ogs.it/ItalianSite/XFReDNetHome.htm"
-                    target="_blank"><span>Frednet</span></a></li>
+                <li><a class="list-item medium" href="https://frednet.crs.ogs.it/"
+                    target="_blank"><span>FReDNet</span></a></li>
                 <li><a class="list-item medium" href="https://gnssdata-epos.oca.eu/#/site"
-                    target="_blank"><span>Epos</span></a></li>
+                    target="_blank"><span>Epos Data Gateway</span></a></li>
                 </li>
               </ul>
             </div>
