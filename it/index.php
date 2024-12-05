@@ -39,40 +39,40 @@
 
 
 
-  <link rel="icon" href="../../icons/favicon.png" type="image/png" />
-  <link rel="shortcut icon" href="../../icons/favicon.png" type="image/png" />
+  <link rel="icon" href="../icons/favicon.png" type="image/png" />
+  <link rel="shortcut icon" href="../icons/favicon.png" type="image/png" />
 
 
   <script type="text/javascript"
-    src="../../wicket/resource/org.apache.wicket.resource.JQueryResourceReference/jquery/jquery-3.6.0-ver-7B432A70897DCD6A8F6D26413CDF1916.js"></script>
+    src="../wicket/resource/org.apache.wicket.resource.JQueryResourceReference/jquery/jquery-3.6.0-ver-7B432A70897DCD6A8F6D26413CDF1916.js"></script>
   <script type="text/javascript" id="gtag" defer="defer"
     src="https://www.googletagmanager.com/gtag/js?id=G-PH2B3YQD4B"></script>
   <script type="text/javascript" id="gtag-enable" defer="defer"
-    src="../../wicket/resource/it.trieste.ogs.nodc.web.GenericSitePage/gtag-enable-ver-B07456713D39584EA8861764143334DF.js"></script>
+    src="../wicket/resource/it.trieste.ogs.nodc.web.GenericSitePage/gtag-enable-ver-B07456713D39584EA8861764143334DF.js"></script>
   <script type="text/javascript" id="matomo" defer="defer"
-    src="../../wicket/resource/it.trieste.ogs.nodc.web.GenericSitePage/matomo-ver-E924071AC33CEC7E5E6A3BEF6A709839.js"></script>
+    src="../wicket/resource/it.trieste.ogs.nodc.web.GenericSitePage/matomo-ver-E924071AC33CEC7E5E6A3BEF6A709839.js"></script>
   <link rel="stylesheet" type="text/css"
-    href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsCssResourceReference/webjars/splide/3.6.12/css/splide-core.min-ver-4D820616285A4896E89828BF5FB8751E.css" />
+    href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsCssResourceReference/webjars/splide/3.6.12/css/splide-core.min-ver-4D820616285A4896E89828BF5FB8751E.css" />
   <link rel="stylesheet" type="text/css"
-    href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsCssResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css"
+    href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsCssResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css"
     id="wb-theme" />
   <link rel="stylesheet" type="text/css"
-    href="../../wicket/resource/it.trieste.ogs.nodc.web.bootstrap.italia.ItaliaCssReference/css/nodc-ver-326870884590A363FC76B4B2857DA0F2.css" />
+    href="../wicket/resource/it.trieste.ogs.nodc.web.bootstrap.italia.ItaliaCssReference/css/nodc-ver-326870884590A363FC76B4B2857DA0F2.css" />
   <link rel="stylesheet" type="text/css"
-    href="../../wicket/resource/it.trieste.ogs.nodc.web.bootstrap.italia.ItaliaCssReference/css/geograph-ver-A301AA547EAAD5A4195520EA4E8C7008.css" />
+    href="../wicket/resource/it.trieste.ogs.nodc.web.bootstrap.italia.ItaliaCssReference/css/geograph-ver-A301AA547EAAD5A4195520EA4E8C7008.css" />
   <script type="text/javascript"
-    src="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/popper.js/1.16.1-lts/umd/popper-ver-16D9CB759C074DBC0C5590EE3CC83CEB.js"></script>
+    src="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/popper.js/1.16.1-lts/umd/popper-ver-16D9CB759C074DBC0C5590EE3CC83CEB.js"></script>
   <script type="text/javascript"
-    src="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/splide/3.6.12/js/splide.min-ver-F00FFEA902A55A1F48473F23B1732880.js"></script>
+    src="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/splide/3.6.12/js/splide.min-ver-F00FFEA902A55A1F48473F23B1732880.js"></script>
   <script type="text/javascript" id="bootstrap-italia-fonts">
     /*<![CDATA[*/
-    window.__PUBLIC_PATH__ = '../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsPackageResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css/../../fonts'
+    window.__PUBLIC_PATH__ = '../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsPackageResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css/../../fonts'
     /*]]>*/
   </script>
   <script type="text/javascript" id="bootstrap-js"
-    src="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/bootstrap-italia/1.6.2/js/bootstrap-italia.min-ver-8F661DF7D320078D02C0358E0DD439D1.js"></script>
+    src="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/bootstrap-italia/1.6.2/js/bootstrap-italia.min-ver-8F661DF7D320078D02C0358E0DD439D1.js"></script>
   <script type="text/javascript"
-    src="../../wicket/resource/de.agilecoders.wicket.core.markup.html.references.JQueryMigrateJavaScriptReference/js/jquery-migrate-1.3.0-ver-322AF89581C7A1AD21A8149F51B8CC16.js"></script>
+    src="../wicket/resource/de.agilecoders.wicket.core.markup.html.references.JQueryMigrateJavaScriptReference/js/jquery-migrate-1.3.0-ver-322AF89581C7A1AD21A8149F51B8CC16.js"></script>
   <meta name="wicket.header.items" />
 </head>
 
@@ -124,7 +124,7 @@
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
               <div class="image-container">
-                <img src="../../images/sismometrica.png" alt="La rete sismometrica" class="img-fluid"/>
+                <img src="../images/sismometrica.png" alt="La rete sismometrica" class="img-fluid"/>
               </div>
               <h3>
                 <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./sismo.php">Rete Sismometrica</a>
@@ -133,7 +133,7 @@
               <a class="read-more" href="./sismo.php">
                 <span class="text">Leggi tutto</span>
                 <svg class="icon">
-                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                  <use href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
                 </svg>
               </a>
             </article>
@@ -142,7 +142,7 @@
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
               <div class="image-container">
-                <img src="../../images/frednet.png" alt="La rete Geodetica" class="img-fluid"/>
+                <img src="../images/frednet.png" alt="La rete Geodetica" class="img-fluid"/>
               </div>
               <h3>
                 <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./frednet.php"> Rete Geodetica </a>
@@ -151,7 +151,7 @@
               <a class="read-more" href="./frednet.php">
                 <span class="text">Leggi tutto</span>
                 <svg class="icon">
-                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                  <use href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
                 </svg>
               </a>
             </article>
@@ -179,7 +179,7 @@
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
               <div class="image-container">
-                <img src="../../images/venetone.png" alt="La rete Accelerometrica Diffusa" class="img-fluid"/>
+                <img src="../images/venetone.png" alt="La rete Accelerometrica Diffusa" class="img-fluid"/>
               </div>
 
               <h3>
@@ -189,7 +189,7 @@
               <a class="read-more" href="./diffusa.php">
                 <span class="text">Leggi tutto</span>
                 <svg class="icon">
-                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                  <use href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
                 </svg>
               </a>
             </article>
@@ -199,7 +199,7 @@
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
               <div class="image-container">
-                <img src="../../images/fibra.png" alt="La rete Fibra" class="img-fluid"/>
+                <img src="../images/fibra.png" alt="La rete Fibra" class="img-fluid"/>
           </div>
               <h3>
                 <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./fibra.php"> Rete Fibra </a>
@@ -208,7 +208,7 @@
               <a class="read-more" href="./fibra.php">
                 <span class="text">Leggi tutto</span>
                 <svg class="icon">
-                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                  <use href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
                 </svg>
               </a>
             </article>
@@ -216,7 +216,7 @@
           <div class="col-12 col-sm-4 bq-box">
           <article class="teaser teaser-news bq-bordered">
             <div class="image-container">
-                <img src="../../images/gravi2.png" alt="La rete Gravimetrica  " class="img-fluid"/>
+                <img src="../images/gravi2.png" alt="La rete Gravimetrica  " class="img-fluid"/>
               </div>
 
               <h3>
@@ -226,7 +226,7 @@
               <a class="read-more" href="./gravimetrica.php">
                 <span class="text">Leggi tutto</span>
                 <svg class="icon">
-                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
+                  <use href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
                 </svg>
               </a>
             </article>
@@ -343,34 +343,34 @@
         <div class="splide__track">
           <ul class="splide__list">
             <li class="splide__slide">
-              <img src="../../images/logos/logo-veneto.jpg" alt="Protezione Civile Veneto" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../images/logos/logo-veneto.jpg" alt="Protezione Civile Veneto" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/logo_units_esteso.png" alt="UniTS" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../images/logos/logo_units_esteso.png" alt="UniTS" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/unilj.png" alt="UniLJ" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../images/logos/unilj.png" alt="UniLJ" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/unizagreb.png" alt="UniZB" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../images/logos/unizagreb.png" alt="UniZB" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/harphasea.png" alt="Harphasea" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../images/logos/harphasea.png" alt="Harphasea" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/austria.png" alt="Austria" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../images/logos/austria.png" alt="Austria" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/arso.jpeg" alt="Arso" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../images/logos/arso.jpeg" alt="Arso" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/eth_zurich.png" alt="ETH" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../images/logos/eth_zurich.png" alt="ETH" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/Logo_INGV.png" alt="INGV" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../images/logos/Logo_INGV.png" alt="INGV" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
             <li class="splide__slide">
-              <img src="../../images/logos/logo-fvg.png" alt="Protezione civile fvg" class="img-fluid" style="max-height: 100px; width: auto;"/>
+              <img src="../images/logos/logo-fvg.png" alt="Protezione civile fvg" class="img-fluid" style="max-height: 100px; width: auto;"/>
             </li>
           </ul>
         </div>

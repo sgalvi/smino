@@ -19,40 +19,40 @@
 
 
 
-  <link rel="icon" href="../../icons/favicon.png" type="image/png" />
-  <link rel="shortcut icon" href="../../icons/favicon.png" type="image/png" />
+  <link rel="icon" href="../icons/favicon.png" type="image/png" />
+  <link rel="shortcut icon" href="../icons/favicon.png" type="image/png" />
 
 
   <script type="text/javascript"
-    src="../../wicket/resource/org.apache.wicket.resource.JQueryResourceReference/jquery/jquery-3.6.0-ver-7B432A70897DCD6A8F6D26413CDF1916.js"></script>
+    src="../wicket/resource/org.apache.wicket.resource.JQueryResourceReference/jquery/jquery-3.6.0-ver-7B432A70897DCD6A8F6D26413CDF1916.js"></script>
   <script type="text/javascript" id="gtag" defer="defer"
     src="https://www.googletagmanager.com/gtag/js?id=G-PH2B3YQD4B"></script>
   <script type="text/javascript" id="gtag-enable" defer="defer"
-    src="../../wicket/resource/it.trieste.ogs.nodc.web.GenericSitePage/gtag-enable-ver-B07456713D39584EA8861764143334DF.js"></script>
+    src="../wicket/resource/it.trieste.ogs.nodc.web.GenericSitePage/gtag-enable-ver-B07456713D39584EA8861764143334DF.js"></script>
   <script type="text/javascript" id="matomo" defer="defer"
-    src="../../wicket/resource/it.trieste.ogs.nodc.web.GenericSitePage/matomo-ver-E924071AC33CEC7E5E6A3BEF6A709839.js"></script>
+    src="../wicket/resource/it.trieste.ogs.nodc.web.GenericSitePage/matomo-ver-E924071AC33CEC7E5E6A3BEF6A709839.js"></script>
   <link rel="stylesheet" type="text/css"
-    href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsCssResourceReference/webjars/splide/3.6.12/css/splide-core.min-ver-4D820616285A4896E89828BF5FB8751E.css" />
+    href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsCssResourceReference/webjars/splide/3.6.12/css/splide-core.min-ver-4D820616285A4896E89828BF5FB8751E.css" />
   <link rel="stylesheet" type="text/css"
-    href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsCssResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css"
+    href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsCssResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css"
     id="wb-theme" />
   <link rel="stylesheet" type="text/css"
-    href="../../wicket/resource/it.trieste.ogs.nodc.web.bootstrap.italia.ItaliaCssReference/css/nodc-ver-326870884590A363FC76B4B2857DA0F2.css" />
+    href="../wicket/resource/it.trieste.ogs.nodc.web.bootstrap.italia.ItaliaCssReference/css/nodc-ver-326870884590A363FC76B4B2857DA0F2.css" />
   <link rel="stylesheet" type="text/css"
-    href="../../wicket/resource/it.trieste.ogs.nodc.web.bootstrap.italia.ItaliaCssReference/css/geograph-ver-A301AA547EAAD5A4195520EA4E8C7008.css" />
+    href="../wicket/resource/it.trieste.ogs.nodc.web.bootstrap.italia.ItaliaCssReference/css/geograph-ver-A301AA547EAAD5A4195520EA4E8C7008.css" />
   <script type="text/javascript"
-    src="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/popper.js/1.16.1-lts/umd/popper-ver-16D9CB759C074DBC0C5590EE3CC83CEB.js"></script>
+    src="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/popper.js/1.16.1-lts/umd/popper-ver-16D9CB759C074DBC0C5590EE3CC83CEB.js"></script>
   <script type="text/javascript"
-    src="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/splide/3.6.12/js/splide.min-ver-F00FFEA902A55A1F48473F23B1732880.js"></script>
+    src="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/splide/3.6.12/js/splide.min-ver-F00FFEA902A55A1F48473F23B1732880.js"></script>
   <script type="text/javascript" id="bootstrap-italia-fonts">
     /*<![CDATA[*/
-    window.__PUBLIC_PATH__ = '../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsPackageResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css/../../fonts'
+    window.__PUBLIC_PATH__ = '../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsPackageResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css/../../fonts'
     /*]]>*/
   </script>
   <script type="text/javascript" id="bootstrap-js"
-    src="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/bootstrap-italia/1.6.2/js/bootstrap-italia.min-ver-8F661DF7D320078D02C0358E0DD439D1.js"></script>
+    src="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/bootstrap-italia/1.6.2/js/bootstrap-italia.min-ver-8F661DF7D320078D02C0358E0DD439D1.js"></script>
   <script type="text/javascript"
-    src="../../wicket/resource/de.agilecoders.wicket.core.markup.html.references.JQueryMigrateJavaScriptReference/js/jquery-migrate-1.3.0-ver-322AF89581C7A1AD21A8149F51B8CC16.js"></script>
+    src="../wicket/resource/de.agilecoders.wicket.core.markup.html.references.JQueryMigrateJavaScriptReference/js/jquery-migrate-1.3.0-ver-322AF89581C7A1AD21A8149F51B8CC16.js"></script>
   <meta name="wicket.header.items" />
 </head>
 
@@ -76,7 +76,7 @@
 
           <ul style="list-style-type: none; padding-left: 0;">
                 <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-            <img src="../../images/pnrr/itineris.png" href="https://www.ogs.it/it/progetti/itineris" alt="Logo Itineris" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
+            <img src="../images/pnrr/itineris.png" href="https://www.ogs.it/it/progetti/itineris" alt="Logo Itineris" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
                    
                 <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
                 <strong>SMINO</strong>, in quanto infrastruttura di ricerca di rilevanza nazionale (PNIR 2021-2027), è parte del progetto del Piano Nazionale di Ripresa e Resilienza (PNRR) <strong>ITINERIS</strong> (Italian Integrated Environmental Research Infrastructures System)
@@ -96,21 +96,21 @@
 
             <ul style="list-style-type: none; padding-left: 0;">
                 <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-                    <img src="../../images/pnrr/Geoscience-RI.jpg" href="https://www.ogs.it/it/progetti/geosciences-ir" alt="Logo GeoSciences IR" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
+                    <img src="../images/pnrr/Geoscience-RI.jpg" href="https://www.ogs.it/it/progetti/geosciences-ir" alt="Logo GeoSciences IR" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
                     <div style="font-family: Arial, sans-serif; color: #333;">
                         <strong>GeoSciences IR</strong> 
                         - Questo progetto mira a creare una nuova infrastruttura di ricerca per la Rete Italiana dei Servizi Geologici Regionali (RISG), una rete di coordinamento tra ISPRA, Servizio Geologico d’Italia e i servizi Geologici Regionali (RGS), ovvero gli uffici tecnici delle Regioni, delle Province Autonome e delle Agenzie Regionali per l’Ambiente con specifica delega in ambito geologico a livello regionale.
                     </div>
                 </li>
                 <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-                    <img src="../../images/pnrr/meet.png" href="https://www.ogs.it/it/progetti/meet" alt="Logo MEET" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
+                    <img src="../images/pnrr/meet.png" href="https://www.ogs.it/it/progetti/meet" alt="Logo MEET" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
                     <div style="font-family: Arial, sans-serif; color: #333;">
                         <strong>MEET (Monitoring Earth Evolution and Tectonics)</strong> 
                         - Questo progetto si propone di innovare il sistema di osservazione multidisciplinare italiano, in particolare delle regioni maggiormente esposte ai rischi naturali, per fornire un’infrastruttura di ricerca completamente aperta alla comunità scientifica, contribuendo alla comprensione dei rischi naturali con l’obiettivo di applicare efficaci azioni di mitigazione, migliorando la nostra resilienza.
                     </div>
                 </li>
                 <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-                    <img src="../../images/pnrr/return.jpg" href="https://www.ogs.it/it/progetti/return" alt="Logo RETURN" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
+                    <img src="../images/pnrr/return.jpg" href="https://www.ogs.it/it/progetti/return" alt="Logo RETURN" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
                     <div style="font-family: Arial, sans-serif; color: #333;">
                         <strong>RETURN multi-Risk sciEnce for resilienT commUnities under a changiNg climate</strong> 
                         - La Partnership Estesa RETURN è stata creata per rafforzare le filiere di ricerca a livello nazionale e promuovere la loro partecipazione a iniziative europee su rischi ambientali, naturali e antropici. In particolare, contribuirà a rafforzare le competenze chiave, il trasferimento tecnologico e di conoscenza e a rafforzare la governance italiana nella gestione del rischio di catastrofi, con il coinvolgimento delle pubbliche amministrazioni, degli stakeholder e delle imprese private.

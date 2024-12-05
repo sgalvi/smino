@@ -19,7 +19,7 @@
                     <span>ENG</span>
                     <svg class="icon d-none d-lg-block">
                       <use
-                        href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
+                        href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
                       </use>
                     </svg>
                   </a>
@@ -57,9 +57,9 @@
                 <div class="it-brand-wrapper col-md-10">
                   <div class="w-flex">
                     <a href="https://www.ogs.it/" target="_blank">
-                      <img class="icon d-block d-sm-block d-md-none" alt="OGS logo" src="../../images/OGS_logoA_W.png" />
+                      <img class="icon d-block d-sm-block d-md-none" alt="OGS logo" src="../images/OGS_logoA_W.png" />
 
-                      <img class="logo-wide icon d-none d-md-block" alt="OGS logo" src="../../images/OGS_logoW_eng.png" />
+                      <img class="logo-wide icon d-none d-md-block" alt="OGS logo" src="../images/OGS_logoW_eng.png" />
                     </a>
                     <div class="it-search-wrapper">
                       <a href="index.php">
@@ -78,7 +78,7 @@
                           <button class="close" type="button" data-dismiss="modal" aria-label="chiudi">
                             <svg class="icon">
                               <use
-                                href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-close">
+                                href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-close">
                               </use>
                             </svg>
                           </button>
@@ -112,7 +112,7 @@
                 aria-label="Toggle navigation" data-target="#nav10">
                 <svg class="icon">
                   <use
-                    href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-burger">
+                    href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-burger">
                   </use>
                 </svg>
               </button>
@@ -137,7 +137,7 @@
                         <span>Networks</span>
                         <svg class="icon">
                           <use
-                            href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
+                            href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
                           </use>
                         </svg>
                       </a>
@@ -174,7 +174,7 @@
                         <span>Projects</span>
                         <svg class="icon">
                           <use
-                            href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
+                            href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
                           </use>
                         </svg>
                       </a>
@@ -199,7 +199,7 @@
                         <span>SMINO Data</span>
                         <svg class="icon">
                           <use
-                            href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
+                            href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-expand">
                           </use>
                         </svg>
                       </a>
