@@ -150,9 +150,9 @@
                             <li>
                               <a class="list-item" href="./frednet.php"><span>Geodetic Network</span></a>
                             </li>
-                            <li>
+                            <!-- <li>
                               <a class="list-item" href="./strongmotion.php"><span>Rete Accelerometrica</span></a>
-                            </li>
+                            </li> -->
                             <li>
                               <a class="list-item" href="./diffused.php"><span>Widespread Accelerometric Network</span></a>
                             </li>
