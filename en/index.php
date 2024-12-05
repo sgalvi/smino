@@ -99,9 +99,9 @@
           <h1 class="pt-4 mb-5">Welcome to the website of the Monitoring System of North-Eastern Italy</h1>
     
         </div>
-        <p>
+        <!-- <p>
     SMINO is a national infrastructure (PNIR 2021-2027).
-</p>
+</p> -->
 <p>
 SMINO, the seismic and geodetic monitoring system of north-eastern Italy, 
 is made up of a seismometric network, a ground motion network and a 
