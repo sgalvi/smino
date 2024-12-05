@@ -83,7 +83,7 @@
      - possibile sottotitolo -
   </p> -->
   <p>
-    The Regional Gravimetric Network is an ongoing project that involves establishing a series of reference points distributed throughout North-Eastern Italy, where precise measurements of the Earth's gravitational acceleration will be conducted. This project continues the historical gravimetric monitoring activity carried out by the National Institute of Oceanography and Experimental Geophysics (OGS).
+    The Regional Gravimetric Network is an ongoing project that involves establishing a series of reference points distributed throughout North-Eastern Italy, where precise measurements of the Earth's gravitational acceleration will be conducted. This project continues the historical gravimetric monitoring activity carried out by the National Institute of Oceanography and Applied Geophysics - OGS.
 </p>
 <p>
     The network will consist of relative measurement points, where the difference in gravity between one point and another will be measured. The relative measurements will be connected to two new absolute benchmarks of the National Gravimetric Network, where absolute gravity values will be recorded. Absolute measurements will be conducted in the OGS laboratories in Udine and Trieste.

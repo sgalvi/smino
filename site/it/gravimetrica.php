@@ -83,7 +83,7 @@
      - possibile sottotitolo -
   </p> -->
           <p>
-            La Rete Gravimetrica Regionale è un progetto in fase di realizzazione che prevede l'istituzione di una serie di punti di riferimento distribuiti nel Nord-Est Italia, dove verranno effettuate misurazioni precise dell'accelerazione di gravità terrestre. Questo progetto continua la storica attività di monitoraggio gravimetrico condotta dall'Istituto Nazionale di Oceanografia e di Geofisica Sperimentale (OGS).
+            La Rete Gravimetrica Regionale è un progetto in fase di realizzazione che prevede l'istituzione di una serie di punti di riferimento distribuiti nel Nord-Est Italia, dove verranno effettuate misurazioni precise dell'accelerazione di gravità terrestre. Questo progetto continua la storica attività di monitoraggio gravimetrico condotta dall'Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS.
           </p>
           <p>
             La rete sarà composta da punti di misura relativi, nei quali si misurerà la differenza di gravità tra un punto e l'altro. Le misure relative saranno collegate a due nuovi capisaldi assoluti della rete Gravimetrica Nazionale, nei quali verranno invece rilevati i valori assoluti di gravità. Le misure assolute saranno effettuate nei laboratori delle sedi OGS di Udine e Trieste.
