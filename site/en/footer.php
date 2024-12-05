@@ -16,7 +16,7 @@
                   <p>
                     National Institute of Oceanography and Applied Geophysics
                     - OGS<br />
-                    <strong> Seismological Research Center </strong><br /> Via Treviso 55 - 34100<br />Udine -
+                    <strong> Center for Seismological Research </strong><br /> Via Treviso 55 - 34100<br />Udine -
                     Italy<br />
                   </p>
                 </div>

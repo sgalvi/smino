@@ -105,18 +105,10 @@
           SMINO è una infrastruttura nazionale (PNIR 2021-2027).
         </p>
         <p>
-          SMINO contribuisce alla realizzazione del compito istituzionale del CRS che come previsto dalla
-          legge 399/1989 ha compiti di sorveglianza e ricerca sull’attività sismica dell’Italia nord-orientale,
-          anche a fini di Protezione Civile
-          SMINO è costituita da una rete sismometrica, una rete accelerometrica e una rete di monitoraggio
-          geodetico (FReDNet).
+        SMINO, il  sistema di monitoraggio sismico e geodetico dell'Italia nord-orientale, si compone di una rete sismometrica, una rete accelerometrica e una rete di monitoraggio geodetico (FReDNet). E' una infrastruttura nazionale (PNIR 2021-2027) e contribuisce alla realizzazione del compito istituzionale del CRS che come previsto dalla legge 399/1989 ha compiti di sorveglianza e ricerca sull’attività sismica dell’Italia nord-orientale, anche a fini di Protezione Civile.
         </p>
         <p>
-          Opera in stretta cooperazione con le reti nazionali e internazionali dei paesi limitrofi, nell&#39;ambito di
-          accordi quadro per lo scambio di dati in tempo reale. Le informazioni relative agli eventi sismici
-          sono diffuse al pubblico attraverso un portale web dedicato. I bollettini sismici  riportanti
-          informazioni relative ai terremoti registrati in Italia Nord-orientale vengono pubblicati
-          regolarmente.
+        SMINO opera in stretta cooperazione con le reti nazionali e internazionali dei paesi limitrofi, nell'ambito di accordi quadro per lo scambio di dati in tempo reale. Le informazioni relative agli eventi sismici sono diffuse al pubblico attraverso un portale web dedicato. I bollettini sismici  riportanti informazioni relative ai terremoti registrati in Italia Nord-orientale vengono pubblicati regolarmente.
 
         </p>
         </br>

@@ -103,17 +103,22 @@
     SMINO is a national infrastructure (PNIR 2021-2027).
 </p>
 <p>
-    SMINO contributes to the fulfillment of the institutional task of the CRS, which, as provided by 
-    law 399/1989, has responsibilities for monitoring and researching seismic activity in North-Eastern 
-    Italy, also for Civil Protection purposes. SMINO consists of a seismometric network, an 
-    accelerometric network, and a geodetic monitoring network (FReDNet).
+SMINO, the seismic and geodetic monitoring system of north-eastern Italy, 
+is made up of a seismometric network, a ground motion network and a 
+geodetic monitoring network (FReDNet). It is a national infrastructure 
+(PNIR 2021-2027) and contributes to the fulfillment of the institutional 
+task of the CRS, which, as provided by law 399/1989, has responsibilities 
+for monitoring and researching seismic activity in North-Eastern Italy, 
+also for Civil Protection purposes. 
 </p>
 <p>
-    It operates in close cooperation with national and international networks of neighboring countries 
-    under framework agreements for real-time data exchange. Information regarding seismic events is 
-    disseminated to the public through a dedicated web portal. Seismic bulletins reporting information 
-    about earthquakes recorded in North-Eastern Italy are published regularly.
+SMINO operates in close cooperation with national and international networks 
+of neighboring countries under framework agreements for real-time data exchange.
+Information regarding seismic events is disseminated to the public through 
+a dedicated web portal. Seismic bulletins reporting information about 
+earthquakes recorded in North-Eastern Italy are published regularly.
 </p>
+
         </br>
       
         <div class="container">
