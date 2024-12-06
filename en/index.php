@@ -31,7 +31,7 @@
     </style> -->
   <meta name="description" content="National Oceanographic Data Centre for Italy" />
   <meta name="keywords" content="oceanography,marine data,data management,data products" />
-  <meta name="author" content="S" />
+  <meta name="author" content="SMINO" />
   <meta name="generator" content="Apache Wicket Application - http://wicket.apache.org" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
