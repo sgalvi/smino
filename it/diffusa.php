@@ -28,18 +28,18 @@
   <script type="text/javascript" id="gtag" defer="defer"
     src="https://www.googletagmanager.com/gtag/js?id=G-PH2B3YQD4B"></script>
   <script type="text/javascript" id="gtag-enable" defer="defer"
-    src="../wicket/resource/it.trieste.ogs.nodc.web.GenericSitePage/gtag-enable-ver-B07456713D39584EA8861764143334DF.js"></script>
+    src="../wicket/resource/it.crs.ogs.smino.web.GenericSitePage/gtag-enable-ver-B07456713D39584EA8861764143334DF.js"></script>
   <script type="text/javascript" id="matomo" defer="defer"
-    src="../wicket/resource/it.trieste.ogs.nodc.web.GenericSitePage/matomo-ver-E924071AC33CEC7E5E6A3BEF6A709839.js"></script>
+    src="../wicket/resource/it.crs.ogs.smino.web.GenericSitePage/matomo-ver-E924071AC33CEC7E5E6A3BEF6A709839.js"></script>
   <link rel="stylesheet" type="text/css"
     href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsCssResourceReference/webjars/splide/3.6.12/css/splide-core.min-ver-4D820616285A4896E89828BF5FB8751E.css" />
   <link rel="stylesheet" type="text/css"
     href="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsCssResourceReference/webjars/bootstrap-italia/1.6.2/css/bootstrap-italia.min-ver-4E989355C075280F95C84F8C9D60577B.css"
     id="wb-theme" />
   <link rel="stylesheet" type="text/css"
-    href="../wicket/resource/it.trieste.ogs.nodc.web.bootstrap.italia.ItaliaCssReference/css/nodc-ver-326870884590A363FC76B4B2857DA0F2.css" />
+    href="../wicket/resource/it.crs.ogs.smino.web.bootstrap.italia.ItaliaCssReference/css/smino-ver-326870884590A363FC76B4B2857DA0F2.css" />
   <link rel="stylesheet" type="text/css"
-    href="../wicket/resource/it.trieste.ogs.nodc.web.bootstrap.italia.ItaliaCssReference/css/geograph-ver-A301AA547EAAD5A4195520EA4E8C7008.css" />
+    href="../wicket/resource/it.crs.ogs.smino.web.bootstrap.italia.ItaliaCssReference/css/geograph-ver-A301AA547EAAD5A4195520EA4E8C7008.css" />
   <script type="text/javascript"
     src="../wicket/resource/de.agilecoders.wicket.webjars.request.resource.WebjarsJavaScriptResourceReference/webjars/popper.js/1.16.1-lts/umd/popper-ver-16D9CB759C074DBC0C5590EE3CC83CEB.js"></script>
   <script type="text/javascript"
