@@ -129,9 +129,6 @@
                       <a class="nav-link" href="index.php"><span>Home</span></a>
                     </li>
                     
-                    <!-- <li class="nav-item">
-                      <a class="nav-link" href="./content/team.php"><span> Progetti </span></a>
-                    </li> -->
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
                         <span>Networks</span>
@@ -150,9 +147,7 @@
                             <li>
                               <a class="list-item" href="./frednet.php"><span>Geodetic Network</span></a>
                             </li>
-                            <!-- <li>
-                              <a class="list-item" href="./strongmotion.php"><span>Rete Accelerometrica</span></a>
-                            </li> -->
+                      
                             <li>
                               <a class="list-item" href="./diffused.php"><span>Widespread Accelerometric Network</span></a>
                             </li>

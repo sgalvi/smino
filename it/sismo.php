@@ -80,9 +80,7 @@
                 alt="Landscape view of Friuli region" 
                 style="max-height: 700px; object-fit: cover;">
           </div>
-          <!-- <p class="lead">
-     - possibile sottotitolo -
-  </p> -->
+     
   <p>
         La Rete sismometrica dell'Italia nord-orientale consta di 43 stazioni ad alta sensibilità, di cui 24 a banda larga, 15 a corto periodo e 4 di periodo intermedio. Inoltre, per garantire una ampia dinamica nella registrazione di eventi sismici di forte intensità, 29 stazioni della rete sismometrica sono state equipaggiate con sensori accelerometrici di alta qualità, capaci di rilevare con precisione le accelerazioni generate durante un sisma. La Rete è gestita da OGS anche per conto delle Regioni Friuli Venezia Giulia e del Veneto. Le stazioni sono perlopiù installate in Friuli Venezia Giulia e Veneto, mentre un numero limitato di strumenti è installato in Emilia Romagna e Lombardia. I dati registrati da tutte le stazioni sono acquisiti in tempo reale presso la sede del Centro di Ricerche Sismologiche di OGS a Udine.
     </p>

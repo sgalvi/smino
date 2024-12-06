@@ -74,9 +74,7 @@
         <div class="inner-content pb-5">
           <h1 class="pt-4 mb-5">Convenzione con la Protezione Civile del Friuli Venezia Giulia</h1>
 
-          <!-- <p class="lead">
-     - possibile sottotitolo -
-  </p> -->
+         
             <p>Due leggi sono alla base dello stretto legame tra l'Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS ed in particolare il suo Centro di Ricerche Sismologiche (CRS) e la Protezione Civile della Regione Autonoma Friuli Venezia Giulia. Per l'OGS la legge istitutiva n. 828 del 1982, completata dalla legge n. 399 del 30 novembre 1989, che istituisce il CRS  e affida il compito di studiare la sismicità nell'Italia Nord-Orientale e di mantenere e sviluppare la sua rete di monitoraggio anche ai fini di protezione civile.</p>
 
             <p>Per la Protezione Civile FVG la legge regionale del 31 dicembre 1986, n. 64, che ha istituito la seconda. Le convenzioni che si sono succedute negli anni hanno contribuito alla stesura di un protocollo che regola le modalità ed i tempi con cui il CRS, in caso di eventi sismici sopra una determinata soglia,  comunica alla Protezione Civile le informazioni necessarie al rapido coordinamento di eventuali interventi.</p>
@@ -88,25 +86,7 @@
 
         </div>
       </main>
-      <!-- <div class="d-none d-md-block col-sm-4 offset-lg-1 col-lg-4 bd-toc">
-
-        <div class="sidebar-wrapper it-line-left-side">
-          <div class="sidebar-linklist-wrapper">
-            <div class="link-list-wrapper">
-              <ul class="link-list">
-                <li>
-                  <h3 class="no_toc">Links</h3>
-                </li>
-                <li><a class="list-item medium" href="https://frednet.crs.ogs.it/ItalianSite/XFReDNetHome.htm"
-                    target="_blank"><span>Frednet</span></a></li>
-                <li><a class="list-item medium" href="https://gnssdata-epos.oca.eu/#/site"
-                    target="_blank"><span>Epos</span></a></li>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div> -->
+    
     </div>
   </div>
 

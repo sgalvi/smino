@@ -79,9 +79,7 @@
                 alt="Landscape view of Friuli region" 
                 style="max-height: 700px; object-fit: cover;">
           </div>
-          <!-- <p class="lead">
-     - possibile sottotitolo -
-  </p> -->
+    
   <p>
   FReDNet (Friuli Regional Deformation Network) is the crustal deformation monitoring system in
 Friuli Venezia Giulia that the Centre for Seismological Research began developing in 2002, with

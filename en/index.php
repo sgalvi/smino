@@ -84,7 +84,6 @@
     <div class="container">
       <h1>
         <span class="homepage-title">SMINO</span>
-        <!-- <span class="homepage-subtitle" style="text-shadow: 3px 3px 3px #000000;">Welcome to the website of the Monitoring System of North-Eastern Italy</span> -->
       </h1>
 
     </div>

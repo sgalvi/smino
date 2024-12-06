@@ -79,9 +79,7 @@
                 alt="Landscape view of Friuli region" 
                 style="max-height: 700px; object-fit: cover;">
           </div>
-          <!-- <p class="lead">
-     - possibile sottotitolo -
-  </p> -->
+       
   <p>
     The Regional Gravimetric Network is an ongoing project that involves establishing a series of reference points distributed throughout North-Eastern Italy, where precise measurements of the Earth's gravitational acceleration will be conducted. This project continues the historical gravimetric monitoring activity carried out by the National Institute of Oceanography and Applied Geophysics - OGS.
 </p>

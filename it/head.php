@@ -128,10 +128,7 @@
                     <li class="nav-item">
                       <a class="nav-link" href="index.php"><span>Home</span></a>
                     </li>
-                    
-                    <!-- <li class="nav-item">
-                      <a class="nav-link" href="./content/team.php"><span> Progetti </span></a>
-                    </li> -->
+                   
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
                         <span>Reti</span>
@@ -150,9 +147,7 @@
                             <li>
                               <a class="list-item" href="./frednet.php"><span>Rete Geodetica</span></a>
                             </li>
-                            <!-- <li>
-                              <a class="list-item" href="./strongmotion.php" ><span>Rete Accelerometrica</span></a>
-                            </li> -->
+                           
                             <li>
                               <a class="list-item" href="./diffusa.php" ><span>Rete Accelerometrica Diffusa</span></a>
                             </li>

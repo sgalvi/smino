@@ -81,9 +81,7 @@
                 alt="Landscape view of Friuli region" 
                 style="max-height: 700px; object-fit: cover;">
           </div>
-<!-- <p class="lead">
-     - possible subtitle -
-</p> -->
+
 <p>
         The Seismic Network of North-Eastern Italy consists of 43 high-sensitivity stations, including 24 broadband, 15 short-period, and 4 intermediate-period stations. Furthermore, to ensure a wide dynamic range in recording high-intensity seismic events, 29 stations of the seismic network have been equipped with high-quality accelerometric sensors, capable of accurately detecting accelerations generated during an earthquake. The Network is managed by OGS also on behalf of the Friuli Venezia Giulia and Veneto Regions. The stations are mostly installed in Friuli Venezia Giulia and Veneto, while a limited number of instruments are installed in Emilia Romagna and Lombardy. Data recorded from all stations are acquired in real-time at the OGS Seismological Research Center headquarters in Udine.
     </p>

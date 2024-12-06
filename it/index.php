@@ -12,24 +12,7 @@
   <meta charset="UTF-8">
 
   <title>Home</title>
-  <!-- <style>
-       .image-container {
-        width: 100%; /* Larghezza dinamica */
-        max-width: 350px; /* Massima larghezza per limitare la dimensione */
-        height: 200px; /* Altezza fissa */
-        overflow: hidden;
-        position: relative;
-        border: 1px solid #000; /* Per visualizzare il contenitore */
-    }
-    .image-container img {
-        width: 100%; /* Larghezza dell'immagine */
-        height: auto; /* Mantiene le proporzioni */
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
-  </style> -->
+
   <meta name="description" content="National Oceanographic Data Centre for Italy" />
   <meta name="keywords" content="oceanography,marine data,data management,data products" />
   <meta name="author" content="SMINO" />
@@ -85,7 +68,6 @@
     <div class="container">
       <h1>
         <span class="homepage-title">SMINO</span>
-        <!-- <span class="homepage-subtitle" style="text-shadow: 3px 3px 3px #000000;">Benvenuti nel sito del Sistema di Monitoraggio dell'Italia Nord-Orientale</span> -->
       </h1>
 
     </div>
@@ -100,9 +82,7 @@
           <h1 class="pt-4 mb-5">Benvenuti nel sito del Sistema di Monitoraggio dell'Italia Nord-Orientale</h1>
     
         </div>
-        <!-- <p>
-          SMINO è una infrastruttura nazionale (PNIR 2021-2027).
-        </p> -->
+       
         <p>
         SMINO, il  sistema di monitoraggio sismico e geodetico dell'Italia nord-orientale, si compone di una rete sismometrica, una rete accelerometrica e una rete di monitoraggio geodetico (FReDNet). E' una infrastruttura nazionale (PNIR 2021-2027) e contribuisce alla realizzazione del compito istituzionale del CRS che come previsto dalla legge 399/1989 ha compiti di sorveglianza e ricerca sull’attività sismica dell’Italia nord-orientale, anche a fini di Protezione Civile.
         </p>
@@ -156,24 +136,7 @@
             </article>
           </div>
           
-          <!-- <div class="col-12 col-sm-4 bq-box">
-            <article class="teaser teaser-news bq-bordered">
-              <div class="image-container">
-                <img src="../../images/accel.png" alt="La rete Accelerometrica" class="img-fluid"/>
-              </div>
-
-              <h3>
-                <a class="bqicon bq-processed" data-classes="icon-primary" data-bqicon="it-arrow-right-circle" href="./strongmotion.php"> Rete Accelerometrica </a>
-              </h3>
-              <p>Per migliorare la registrazione di eventi sismici, 29 stazioni della rete sismometrica sono state dotate di sensori accelerometrici di alta qualità. Nell’ambito dei progetti "Edifici Sentinella", Interreg Armonia e Venet-one, sono stati installati oltre 100 sensori accelerometrici a medio costo. I dati sono acquisiti in tempo reale per una rapida stima dell’impatto sismico.</p>
-              <a class="read-more" href="./strongmotion.php">
-                <span class="text">Leggi tutto</span>
-                <svg class="icon">
-                  <use href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
-                </svg>
-              </a>
-            </article>
-          </div> -->
+     
           
           <div class="col-12 col-sm-4 bq-box">
             <article class="teaser teaser-news bq-bordered">
@@ -318,12 +281,7 @@
               </div>
             </div>
           </div>
-          <!-- <div class="more-link">
-            <a href="activities/projects.html" class="bqicon btn btn-primary btn-sm bq-processed">Vedi tutti i progetti<svg class="icon">
-                <use href="wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-arrow-right-circle"></use>
-              </svg>
-            </a>
-          </div> -->
+        
         </div>
       </div>
     </div>
@@ -336,7 +294,6 @@
         I Nostri Partners:
       </h2>
       
-      <!-- <div class="splide partners-slider mb-5" role="group" aria-label="Partner logos slider"> -->
       <div class="splide partners-slider mb-5" role="group" aria-label="Slideshow of partner organization logos">
 
         <div class="splide__track">

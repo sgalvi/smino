@@ -20,34 +20,7 @@
                     Italy<br />
                   </p>
                 </div>
-                <!-- <div class="col-lg-4 col-md-4 pb-2">
-                  <div class="pb-2">
-                    <h4>
-                      <a>
-                        Seguiteci su
-                      </a>
-                    </h4>
-                    <ul class="list-inline text-left social">
-                      <li class="list-inline-item">
-                        <a class="p-2 text-white" href="https://www.facebook.com/ogscrs/" target="_blank"><svg
-                            class="icon icon-sm icon-white align-top">
-                            <use
-                              href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-facebook">
-                            </use>
-                          </svg><span class="sr-only">Facebook</span></a>
-                      </li>
-                      <li class="list-inline-item">
-                        <a class="p-2 text-white" href="https://twitter.com/crs_rts" target="_blank"><svg
-                            class="icon icon-sm icon-white align-top">
-                            <use
-                              href="../../wicket/resource/de.agilecoders.wicket.webjars.request.resource.IWebjarsResourceReference/webjars/bootstrap-italia/current/svg/sprite.svg#it-twitter">
-                            </use>
-                          </svg><span class="sr-only">Twitter</span></a>
-                      </li>
 
-                    </ul>
-                  </div>
-                </div> -->
                 <div class="col-lg-4 col-md-4 pb-2">
                   <div class="pb-2">
                     <h4>

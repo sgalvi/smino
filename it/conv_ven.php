@@ -74,9 +74,7 @@
         <div class="inner-content pb-5">
           <h1 class="pt-4 mb-5">Convenzione con la  Protezione Civile del Veneto          </h1>
 
-          <!-- <p class="lead">
-     - possibile sottotitolo -
-  </p> -->
+       
             <p>Le convenzioni con la Protezione civile del Veneto nascono negli anni Novanta del secolo scorso. Nel loro succedersi, hanno portato all’implementazione della rete sismometrica regionale e alla stesura di un protocollo che regola le modalità ed i tempi con cui il CRS, in caso di eventi sismici sopra una determinata soglia, comunica alla Protezione Civile le informazioni necessarie al rapido coordinamento di eventuali interventi.</p>
 
             <p>Grazie alle convenzioni sono garantiti non soltanto il buon funzionamento ed il costante aggiornamento della rete sismometrica ed accelerometrica, ma anche la ricerca che porta a una sempre miglior comprensione delle modalità di accadimento degli eventi sismici e del loro risentimento sul territorio.</p>
@@ -89,25 +87,7 @@
 
         </div>
       </main>
-      <!-- <div class="d-none d-md-block col-sm-4 offset-lg-1 col-lg-4 bd-toc">
 
-        <div class="sidebar-wrapper it-line-left-side">
-          <div class="sidebar-linklist-wrapper">
-            <div class="link-list-wrapper">
-              <ul class="link-list">
-                <li>
-                  <h3 class="no_toc">Links</h3>
-                </li>
-                <li><a class="list-item medium" href="https://frednet.crs.ogs.it/ItalianSite/XFReDNetHome.htm"
-                    target="_blank"><span>Frednet</span></a></li>
-                <li><a class="list-item medium" href="https://gnssdata-epos.oca.eu/#/site"
-                    target="_blank"><span>Epos</span></a></li>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div> -->
     </div>
   </div>
 

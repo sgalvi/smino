@@ -74,9 +74,7 @@
         <div class="inner-content pb-5">
           <h1 class="pt-4 mb-5">Agreement with the Friuli Venezia Giulia Civil Protection Agency</h1>
 
-          <!-- <p class="lead">
-     - possibile sottotitolo -
-  </p> -->
+       
   <p>Two key laws form the basis of the close relationship between the National Institute of Oceanography and Experimental Geophysics (OGS), particularly its Seismological Research Center (CRS), and the Civil Protection Agency of the Autonomous Region of Friuli Venezia Giulia.</p>
 
 <p>For OGS, Law no. 828 of 1982, complemented by Law no. 399 of November 30, 1989, established the CRS, assigning it the task of studying seismic activity in Northeastern Italy and managing and developing a monitoring network for civil protection purposes. For the Friuli Venezia Giulia Civil Protection, Regional Law no. 64 of December 31, 1986, established the agency’s structure.</p>
@@ -91,25 +89,6 @@
 
         </div>
       </main>
-      <!-- <div class="d-none d-md-block col-sm-4 offset-lg-1 col-lg-4 bd-toc">
-
-        <div class="sidebar-wrapper it-line-left-side">
-          <div class="sidebar-linklist-wrapper">
-            <div class="link-list-wrapper">
-              <ul class="link-list">
-                <li>
-                  <h3 class="no_toc">Links</h3>
-                </li>
-                <li><a class="list-item medium" href="https://frednet.crs.ogs.it/ItalianSite/XFReDNetHome.htm"
-                    target="_blank"><span>Frednet</span></a></li>
-                <li><a class="list-item medium" href="https://gnssdata-epos.oca.eu/#/site"
-                    target="_blank"><span>Epos</span></a></li>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div> -->
     </div>
   </div>
 

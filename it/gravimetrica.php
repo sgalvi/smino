@@ -79,9 +79,7 @@
                 alt="Landscape view of Friuli region" 
                 style="max-height: 700px; object-fit: cover;">
           </div>
-          <!-- <p class="lead">
-     - possibile sottotitolo -
-  </p> -->
+          
           <p>
             La Rete Gravimetrica Regionale è un progetto in fase di realizzazione che prevede l'istituzione di una serie di punti di riferimento distribuiti nel Nord-Est Italia, dove verranno effettuate misurazioni precise dell'accelerazione di gravità terrestre. Questo progetto continua la storica attività di monitoraggio gravimetrico condotta dall'Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS.
           </p>

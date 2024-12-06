@@ -74,9 +74,7 @@
         <div class="inner-content pb-5">
         <h1 class="pt-4 mb-5">Seismic and Geodetic Monitoring Network on Optical Fibers</h1>
 
-          <!-- <p class="lead">
-     - possibile sottotitolo -
-  </p> -->
+        
   <p>
     Distributed Acoustic Sensing (DAS) is an innovative technology that utilizes existing optical fiber lines to perform dynamic soil deformation measurements (relative displacement or strain), using specific interrogation instruments. This technique allows for the collection of dynamic data (continuous time series) with sensitivity comparable to traditional seismic sensors, but over wider distances, up to 50 km per interrogator, with high spatial resolution at the meter level.
 </p>

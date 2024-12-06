@@ -86,11 +86,7 @@
 
                 </li>
           </ul>
-            <!-- <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-                <strong>SMINO</strong>, in quanto infrastruttura di ricerca di rilevanza nazionale (PNIR 2021-2027), è parte del progetto del Piano Nazionale di Ripresa e Resilienza (PNRR) <strong>ITINERIS</strong> (Italian Integrated Environmental Research Infrastructures System)
-                <a href="https://www.ogs.it/it/progetti/itineris" target="_blank" style="color: #0056b3; text-decoration: none;">[link]</a>, il cui obiettivo principale è sviluppare la ricerca interdisciplinare nelle scienze ambientali, coordinando una rete di nodi nazionali di 22 Infrastrutture di ricerca, attraverso l’uso e il riutilizzo di dati e servizi esistenti (o pre-operativi) e nuove osservazioni, per affrontare questioni rilevanti dal punto di vista scientifico e sociale.
-                Il progetto contribuisce allo sviluppo della rete di fibre ottiche di SMINO, nonché all’ammodernamento del centro di taratura degli strumenti ed all’estensione a mare della rete con un sismografo da fondo.
-            </p> -->
+         
 
             <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">Inoltre altri progetti nell’ambito del PNRR stanno contribuendo all’ammodernamento dell’infrastruttura:</p> 
 

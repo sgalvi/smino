@@ -74,9 +74,7 @@
         <div class="inner-content pb-5">
           <h1 class="pt-4 mb-5">Agreement with the Veneto Civil Protection Agency</h1>
 
-          <!-- <p class="lead">
-     - possibile sottotitolo -
-  </p> -->
+    
   <p>The agreements with Veneto’s Civil Protection Agency originated in the 1990s. Over time, these agreements have led to the development of a protocol that regulates the timing and methods by which CRS communicates essential information to the Civil Protection in the event of seismic activity above a certain threshold, ensuring swift intervention coordination.</p>
 
 <p>These agreements guarantee not only the proper functioning and continuous improvement of the seismometric and accelerometric network but also research aimed at deepening the understanding of seismic events and their impact on the territory.</p>
@@ -85,25 +83,6 @@
 
         </div>
       </main>
-      <!-- <div class="d-none d-md-block col-sm-4 offset-lg-1 col-lg-4 bd-toc">
-
-        <div class="sidebar-wrapper it-line-left-side">
-          <div class="sidebar-linklist-wrapper">
-            <div class="link-list-wrapper">
-              <ul class="link-list">
-                <li>
-                  <h3 class="no_toc">Links</h3>
-                </li>
-                <li><a class="list-item medium" href="https://frednet.crs.ogs.it/ItalianSite/XFReDNetHome.htm"
-                    target="_blank"><span>Frednet</span></a></li>
-                <li><a class="list-item medium" href="https://gnssdata-epos.oca.eu/#/site"
-                    target="_blank"><span>Epos</span></a></li>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div> -->
     </div>
   </div>
 

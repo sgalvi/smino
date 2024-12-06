@@ -79,9 +79,7 @@
                 alt="Landscape view of Friuli region" 
                 style="max-height: 700px; object-fit: cover;">
           </div>
-          <!-- <p class="lead">
-     - possibile sottotitolo -
-  </p> -->
+
   <p>
        In aggiunta agli accelerometri della rete sismometrica, nell'ambito di diversi progetti strategici, tra cui il progetto "Edifici Sentinella", finanziato dalla Protezione Civile Regionale della Regione autonoma del Friuli Venezia Giulia, il progetto Interreg V-A Italia-Austria Armonia, è stata installata una densa rete di sensori accelerometrici tra Friuli Venezia Giulia e Veneto. I sensori della rete accelerometrica urbana sono stati sviluppati nell'ambito dei suddetti progetti dalla sinergia tra OGS e ADEL (direi qualcosa qua prendendo spunto dal lavoro sottomesso sul fatto che gli strumenti combinano le alte prestazioni nella registrazione delle accelerazioni del suolo per eventi moderati e forti ma hanno un costo ridotto). La disponibilità di tali sensori ha permesso di realizzare un'importante integrazione al monitoraggio sismico su larga scala, migliorando la capacità di raccolta dati nelle aree sensibili.
    </p>
