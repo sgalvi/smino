@@ -58,10 +58,10 @@
 
 
 <body>
-<?php
+  <?php
   include 'cookiebar.php';
   include 'head.php';
-?>
+  ?>
 
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -72,24 +72,40 @@
     <div class="row">
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
-        <h1 class="pt-4 mb-5">Widespread Accelerometric Network</h1>
-        <div class="landscape-image mb-4">
-            <img src="../images/venetone.png" 
-                class="img-fluid w-100" 
-                alt="Landscape view of Friuli region" 
-                style="max-height: 700px; object-fit: cover;">
+          <h1 class="pt-4 mb-5">Widespread Accelerometric Network</h1>
+          <div class="landscape-image mb-4">
+            <img src="../images/venetone.png" class="img-fluid w-100" alt="Landscape view of Friuli region"
+              style="max-height: 700px; object-fit: cover;">
           </div>
           <p>
-       In addition to the seismic network's accelerometers, within various strategic projects, including the "Sentinel Buildings" project, funded by the Regional Civil Protection of the Autonomous Region of Friuli Venezia Giulia, and the Interreg V-A Italy-Austria Armonia project, a dense network of accelerometric sensors has been installed between Friuli Venezia Giulia and Veneto. The urban accelerometric network sensors were developed within these projects through the synergy between OGS and ADEL (would say something here drawing from the submitted work about how the instruments combine high performance in recording ground accelerations for moderate and strong events while having a reduced cost). The availability of these sensors has enabled an important integration to large-scale seismic monitoring, improving data collection capabilities in sensitive areas.
-   </p>
+            In addition to the seismic network's accelerometers, within various strategic projects, including the
+            "Sentinel Buildings" project, funded by the Regional Civil Protection of the Autonomous Region of Friuli
+            Venezia Giulia, and the Interreg V-A Italy-Austria Armonia project, a dense network of accelerometric
+            sensors has been installed between Friuli Venezia Giulia and Veneto. The urban accelerometric network
+            sensors were developed within these projects through the synergy between OGS and ADEL (would say something
+            here drawing from the submitted work about how the instruments combine high performance in recording ground
+            accelerations for moderate and strong events while having a reduced cost). The availability of these sensors
+            has enabled an important integration to large-scale seismic monitoring, improving data collection
+            capabilities in sensitive areas.
+          </p>
 
-   <p>
-       Furthermore, the Veneto Region has commissioned OGS to implement Action 5.1 of the POR-FESR 2014-2020 "Integration and development of multi-risk prevention systems, including through interoperable digital networks for early operational coordination". The main objective has been to create a capillary network of approximately 300 additional medium-cost accelerometric sensors installed at the base of 317 buildings in 306 municipalities of Veneto.
-   </p>
+          <p>
+            Furthermore, the Veneto Region has commissioned OGS to implement Action 5.1 of the POR-FESR 2014-2020
+            "Integration and development of multi-risk prevention systems, including through interoperable digital
+            networks for early operational coordination". The main objective has been to create a capillary network of
+            approximately 300 additional medium-cost accelerometric sensors installed at the base of 317 buildings in
+            306 municipalities of Veneto.
+          </p>
 
-   <p>
-       The data collected from this sensor network is acquired in real-time thanks to sophisticated transmission and communication systems. The immediate processing of this information significantly contributes to the rapid assessment of seismic events' impact, providing useful tools for authorities in emergency management. This advanced monitoring system allows for a timely response in case of earthquakes, improving the safety and protection of people and buildings in at-risk areas. Additionally, as part of the project, site effects and building characteristics studies were acquired by the Department of Geosciences of the University of Padua.
-   </p>
+          <p>
+            The data collected from this sensor network is acquired in real-time thanks to sophisticated transmission
+            and communication systems. The immediate processing of this information significantly contributes to the
+            rapid assessment of seismic events' impact, providing useful tools for authorities in emergency management.
+            This advanced monitoring system allows for a timely response in case of earthquakes, improving the safety
+            and protection of people and buildings in at-risk areas. Additionally, as part of the project, site effects
+            and building characteristics studies were acquired by the Department of Geosciences of the University of
+            Padua.
+          </p>
 
 
         </div>
@@ -103,9 +119,9 @@
                 <li>
                   <h3 class="no_toc">Links</h3>
                 </li>
-                <li><a class="list-item medium" href="https://v1.ogs.it/"
-                    target="_blank"><span>Distributed Accelerometric Network for Monitoring the Veneto.</span></a></li>
-                
+                <li><a class="list-item medium" href="https://v1.ogs.it/" target="_blank"><span>Distributed
+                      Accelerometric Network for Monitoring the Veneto.</span></a></li>
+
               </ul>
             </div>
           </div>

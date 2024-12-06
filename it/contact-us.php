@@ -58,54 +58,56 @@
 
 
 <body>
-<body>
-<?php
-  include 'cookiebar.php';
-  include 'head.php';
-?>
 
-  <div class="container my-4">
+  <body>
+    <?php
+    include 'cookiebar.php';
+    include 'head.php';
+    ?>
 
-    <nav class="breadcrumb-container" aria-label="breadcrumb">
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item">
-        </li>
-      </ol>
-    </nav>
+    <div class="container my-4">
 
-  </div>
-  <div class="container">
-    <div class="row">
-      <main class="col-12 col-sm-8 col-lg-7">
-        <div class="inner-content pb-5">
-          <h1 class="pt-4 mb-5">Contattaci</h1>
+      <nav class="breadcrumb-container" aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+          </li>
+        </ol>
+      </nav>
 
-          <div class="it-list-wrapper">
-            <ul class="it-list">
-              <li>
-                <a href="mailto:smino@ogs.it" targhet="_blank">
-                  <div class="it-right-zone">
-                    <span class="text">Email (smino@ogs.it)</span>
-                  </div>
-                </a>
-              </li>
-            </ul>
-                    </br></br></br>
-                  </br></br></br>
-                </br></br></br>
+    </div>
+    <div class="container">
+      <div class="row">
+        <main class="col-12 col-sm-8 col-lg-7">
+          <div class="inner-content pb-5">
+            <h1 class="pt-4 mb-5">Contattaci</h1>
+
+            <div class="it-list-wrapper">
+              <ul class="it-list">
+                <li>
+                  <a href="mailto:smino@ogs.it" targhet="_blank">
+                    <div class="it-right-zone">
+                      <span class="text">Email (smino@ogs.it)</span>
+                    </div>
+                  </a>
+                </li>
+              </ul>
               </br></br></br>
-            </br></br></br>
+              </br></br></br>
+              </br></br></br>
+              </br></br></br>
+              </br></br></br>
+
+            </div>
 
           </div>
+        </main>
 
-        </div>
-      </main>
- 
+      </div>
     </div>
-  </div>
 
-  <?php
-  include 'footer.php';
-?>
-</body>
+    <?php
+    include 'footer.php';
+    ?>
+  </body>
+
 </html>

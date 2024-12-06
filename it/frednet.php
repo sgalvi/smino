@@ -58,12 +58,12 @@
 
 
 <body>
-<?php
+  <?php
   include 'cookiebar.php';
   include 'head.php';
-?>
+  ?>
 
-  
+
 
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -74,16 +74,26 @@
     <div class="row">
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
-          
+
           <h1 class="pt-4 mb-5">Friuli Regional Deformation Network (FReDNet)</h1>
           <div class="landscape-image mb-4">
-            <img src="../images/frednet.png" 
-                class="img-fluid w-100" 
-                alt="Landscape view of Friuli region" 
-                style="max-height: 700px; object-fit: cover;">
+            <img src="../images/frednet.png" class="img-fluid w-100" alt="Landscape view of Friuli region"
+              style="max-height: 700px; object-fit: cover;">
           </div>
-       
-  <p> FReDNet (Friuli Regional Deformation Network) è il sistema di monitoraggio delle deformazioni crostali in Friuli Venezia Giulia, sviluppato dal Centro di Ricerche Sismologiche a partire dal 2002, con l'installazione della prima stazione (Zuliani et al., 2018; Tunini et al., 2024). Nella maggior parte dei casi, i ricevitori sono stati installati in siti che già ospitano i sensori della rete sismica dell'OGS. FReDNet fa parte anche di un programma geodetico più ampio relativo alla microplacca adriatica, che include misurazioni episodiche ripetute di punti geodetici. </p> <p> Attualmente, FReDNet comprende 22 ricevitori GNSS permanenti (GPS+GLONASS+Galileo+Beidou) per il monitoraggio geodetico delle deformazioni crostali nel nord-est Italia. Fornisce anche un servizio in tempo reale per la navigazione georeferenziata ad alta precisione, secondo modalità di correzione differenziale (RTK - Real Time Kinematic, e VRS - Virtual Reference Station). Il servizio è liberamente accessibile a utenti pubblici, privati e scientifici (Figura 3). La rete è integrata con la rete geodetica della Regione Friuli Venezia Giulia (rete Antonio Marussi), con la Rete Dinamica Nazionale (RDN) dell'Istituto Geografico Militare (IGM) e con la rete permanente europea EUREF (EPN). </p>
+
+          <p> FReDNet (Friuli Regional Deformation Network) è il sistema di monitoraggio delle deformazioni crostali in
+            Friuli Venezia Giulia, sviluppato dal Centro di Ricerche Sismologiche a partire dal 2002, con
+            l'installazione della prima stazione (Zuliani et al., 2018; Tunini et al., 2024). Nella maggior parte dei
+            casi, i ricevitori sono stati installati in siti che già ospitano i sensori della rete sismica dell'OGS.
+            FReDNet fa parte anche di un programma geodetico più ampio relativo alla microplacca adriatica, che include
+            misurazioni episodiche ripetute di punti geodetici. </p>
+          <p> Attualmente, FReDNet comprende 22 ricevitori GNSS permanenti (GPS+GLONASS+Galileo+Beidou) per il
+            monitoraggio geodetico delle deformazioni crostali nel nord-est Italia. Fornisce anche un servizio in tempo
+            reale per la navigazione georeferenziata ad alta precisione, secondo modalità di correzione differenziale
+            (RTK - Real Time Kinematic, e VRS - Virtual Reference Station). Il servizio è liberamente accessibile a
+            utenti pubblici, privati e scientifici (Figura 3). La rete è integrata con la rete geodetica della Regione
+            Friuli Venezia Giulia (rete Antonio Marussi), con la Rete Dinamica Nazionale (RDN) dell'Istituto Geografico
+            Militare (IGM) e con la rete permanente europea EUREF (EPN). </p>
 
 
 
@@ -105,8 +115,8 @@
                 </li>
                 <li><a class="list-item medium" href="https://frednet.crs.ogs.it/"
                     target="_blank"><span>FReDNet</span></a></li>
-                <li><a class="list-item medium" href="https://gnssdata-epos.oca.eu/#/site"
-                    target="_blank"><span>Epos Data Gateway</span></a></li>
+                <li><a class="list-item medium" href="https://gnssdata-epos.oca.eu/#/site" target="_blank"><span>Epos
+                      Data Gateway</span></a></li>
                 </li>
               </ul>
             </div>

@@ -58,10 +58,10 @@
 
 
 <body>
-<?php
+  <?php
   include 'cookiebar.php';
   include 'head.php';
-?>
+  ?>
 
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -74,28 +74,41 @@
         <div class="inner-content pb-5">
           <h1 class="pt-4 mb-5">La Rete Gravimetrica</h1>
           <div class="landscape-image mb-4">
-            <img src="../images/gravi2.png" 
-                class="img-fluid w-100" 
-                alt="Landscape view of Friuli region" 
-                style="max-height: 700px; object-fit: cover;">
+            <img src="../images/gravi2.png" class="img-fluid w-100" alt="Landscape view of Friuli region"
+              style="max-height: 700px; object-fit: cover;">
           </div>
-          
+
           <p>
-            La Rete Gravimetrica Regionale è un progetto in fase di realizzazione che prevede l'istituzione di una serie di punti di riferimento distribuiti nel Nord-Est Italia, dove verranno effettuate misurazioni precise dell'accelerazione di gravità terrestre. Questo progetto continua la storica attività di monitoraggio gravimetrico condotta dall'Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS.
+            La Rete Gravimetrica Regionale è un progetto in fase di realizzazione che prevede l'istituzione di una serie
+            di punti di riferimento distribuiti nel Nord-Est Italia, dove verranno effettuate misurazioni precise
+            dell'accelerazione di gravità terrestre. Questo progetto continua la storica attività di monitoraggio
+            gravimetrico condotta dall'Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS.
           </p>
           <p>
-            La rete sarà composta da punti di misura relativi, nei quali si misurerà la differenza di gravità tra un punto e l'altro. Le misure relative saranno collegate a due nuovi capisaldi assoluti della rete Gravimetrica Nazionale, nei quali verranno invece rilevati i valori assoluti di gravità. Le misure assolute saranno effettuate nei laboratori delle sedi OGS di Udine e Trieste.
+            La rete sarà composta da punti di misura relativi, nei quali si misurerà la differenza di gravità tra un
+            punto e l'altro. Le misure relative saranno collegate a due nuovi capisaldi assoluti della rete Gravimetrica
+            Nazionale, nei quali verranno invece rilevati i valori assoluti di gravità. Le misure assolute saranno
+            effettuate nei laboratori delle sedi OGS di Udine e Trieste.
           </p>
           <p>
-            Questa nuova rete permetterà di ottenere una mappatura dettagliata delle variazioni di gravità terrestre nella regione. Dal punto di vista geodetico, sarà utile per determinare con alta precisione la forma del geoide locale, la superficie fisica di riferimento per le altitudini. In ambito geofisico, invece, la rete verrà impiegata per l'esplorazione del sottosuolo, costituendo un riferimento primario per nuovi rilievi di dettaglio. Queste misurazioni aiuteranno soprattutto nell'individuazione e modellazione di strutture tettoniche attive (come faglie) e di strutture idrogeologiche legate al deflusso delle acque sotterranee (falde acquifere).          
+            Questa nuova rete permetterà di ottenere una mappatura dettagliata delle variazioni di gravità terrestre
+            nella regione. Dal punto di vista geodetico, sarà utile per determinare con alta precisione la forma del
+            geoide locale, la superficie fisica di riferimento per le altitudini. In ambito geofisico, invece, la rete
+            verrà impiegata per l'esplorazione del sottosuolo, costituendo un riferimento primario per nuovi rilievi di
+            dettaglio. Queste misurazioni aiuteranno soprattutto nell'individuazione e modellazione di strutture
+            tettoniche attive (come faglie) e di strutture idrogeologiche legate al deflusso delle acque sotterranee
+            (falde acquifere).
           </p>
           <p>
-          Inoltre, il mantenimento costante della rete consentirà di monitorare nel tempo eventuali variazioni dell'accelerazione di gravità. L'integrazione di questi dati con quelli provenienti dalla rete sismometrica, accelerometrica e geodetica SMINO permetterà una ricostruzione più precisa dell'evoluzione tettonica e idrogeologica del Nord-Est Italia.
+            Inoltre, il mantenimento costante della rete consentirà di monitorare nel tempo eventuali variazioni
+            dell'accelerazione di gravità. L'integrazione di questi dati con quelli provenienti dalla rete sismometrica,
+            accelerometrica e geodetica SMINO permetterà una ricostruzione più precisa dell'evoluzione tettonica e
+            idrogeologica del Nord-Est Italia.
           </p>
 
         </div>
       </main>
-      
+
     </div>
   </div>
 

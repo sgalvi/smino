@@ -58,10 +58,10 @@
 
 
 <body>
-<?php
+  <?php
   include 'cookiebar.php';
   include 'head.php';
-?>
+  ?>
 
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -75,49 +75,72 @@
           <h1 class="pt-4 mb-5"> I progetti PNRR e SMINO</h1>
 
           <ul style="list-style-type: none; padding-left: 0;">
-                <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-            <img src="../images/pnrr/itineris.png" href="https://www.ogs.it/it/progetti/itineris" alt="Logo Itineris" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
-                   
-                <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-                <strong>SMINO</strong>, in quanto infrastruttura di ricerca di rilevanza nazionale (PNIR 2021-2027), è parte del progetto del Piano Nazionale di Ripresa e Resilienza (PNRR) <strong>ITINERIS</strong> (Italian Integrated Environmental Research Infrastructures System)
-                <a href="https://www.ogs.it/it/progetti/itineris" target="_blank" style="color: #0056b3; text-decoration: none;">[link]</a>, il cui obiettivo principale è sviluppare la ricerca interdisciplinare nelle scienze ambientali, coordinando una rete di nodi nazionali di 22 Infrastrutture di ricerca, attraverso l’uso e il riutilizzo di dati e servizi esistenti (o pre-operativi) e nuove osservazioni, per affrontare questioni rilevanti dal punto di vista scientifico e sociale.
-                Il progetto contribuisce allo sviluppo della rete di fibre ottiche di SMINO, nonché all’ammodernamento del centro di taratura degli strumenti ed all’estensione a mare della rete con un sismografo da fondo.
+            <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+              <img src="../images/pnrr/itineris.png" href="https://www.ogs.it/it/progetti/itineris" alt="Logo Itineris"
+                style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
+
+              <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+                <strong>SMINO</strong>, in quanto infrastruttura di ricerca di rilevanza nazionale (PNIR 2021-2027), è
+                parte del progetto del Piano Nazionale di Ripresa e Resilienza (PNRR) <strong>ITINERIS</strong> (Italian
+                Integrated Environmental Research Infrastructures System)
+                <a href="https://www.ogs.it/it/progetti/itineris" target="_blank"
+                  style="color: #0056b3; text-decoration: none;">[link]</a>, il cui obiettivo principale è sviluppare la
+                ricerca interdisciplinare nelle scienze ambientali, coordinando una rete di nodi nazionali di 22
+                Infrastrutture di ricerca, attraverso l’uso e il riutilizzo di dati e servizi esistenti (o
+                pre-operativi) e nuove osservazioni, per affrontare questioni rilevanti dal punto di vista scientifico e
+                sociale.
+                Il progetto contribuisce allo sviluppo della rete di fibre ottiche di SMINO, nonché all’ammodernamento
+                del centro di taratura degli strumenti ed all’estensione a mare della rete con un sismografo da fondo.
               </p>
 
-                </li>
+            </li>
           </ul>
-         
 
-            <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">Inoltre altri progetti nell’ambito del PNRR stanno contribuendo all’ammodernamento dell’infrastruttura:</p> 
 
-            <ul style="list-style-type: none; padding-left: 0;">
-                <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-                    <img src="../images/pnrr/Geoscience-RI.jpg" href="https://www.ogs.it/it/progetti/geosciences-ir" alt="Logo GeoSciences IR" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
-                    <div style="font-family: Arial, sans-serif; color: #333;">
-                        <strong>GeoSciences IR</strong> 
-                        - Questo progetto mira a creare una nuova infrastruttura di ricerca per la Rete Italiana dei Servizi Geologici Regionali (RISG), una rete di coordinamento tra ISPRA, Servizio Geologico d’Italia e i servizi Geologici Regionali (RGS), ovvero gli uffici tecnici delle Regioni, delle Province Autonome e delle Agenzie Regionali per l’Ambiente con specifica delega in ambito geologico a livello regionale.
-                    </div>
-                </li>
-                <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-                    <img src="../images/pnrr/meet.png" href="https://www.ogs.it/it/progetti/meet" alt="Logo MEET" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
-                    <div style="font-family: Arial, sans-serif; color: #333;">
-                        <strong>MEET (Monitoring Earth Evolution and Tectonics)</strong> 
-                        - Questo progetto si propone di innovare il sistema di osservazione multidisciplinare italiano, in particolare delle regioni maggiormente esposte ai rischi naturali, per fornire un’infrastruttura di ricerca completamente aperta alla comunità scientifica, contribuendo alla comprensione dei rischi naturali con l’obiettivo di applicare efficaci azioni di mitigazione, migliorando la nostra resilienza.
-                    </div>
-                </li>
-                <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-                    <img src="../images/pnrr/return.jpg" href="https://www.ogs.it/it/progetti/return" alt="Logo RETURN" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
-                    <div style="font-family: Arial, sans-serif; color: #333;">
-                        <strong>RETURN multi-Risk sciEnce for resilienT commUnities under a changiNg climate</strong> 
-                        - La Partnership Estesa RETURN è stata creata per rafforzare le filiere di ricerca a livello nazionale e promuovere la loro partecipazione a iniziative europee su rischi ambientali, naturali e antropici. In particolare, contribuirà a rafforzare le competenze chiave, il trasferimento tecnologico e di conoscenza e a rafforzare la governance italiana nella gestione del rischio di catastrofi, con il coinvolgimento delle pubbliche amministrazioni, degli stakeholder e delle imprese private.
-                    </div>
-                </li>
-            </ul>
+          <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">Inoltre altri progetti nell’ambito
+            del PNRR stanno contribuendo all’ammodernamento dell’infrastruttura:</p>
+
+          <ul style="list-style-type: none; padding-left: 0;">
+            <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+              <img src="../images/pnrr/Geoscience-RI.jpg" href="https://www.ogs.it/it/progetti/geosciences-ir"
+                alt="Logo GeoSciences IR" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
+              <div style="font-family: Arial, sans-serif; color: #333;">
+                <strong>GeoSciences IR</strong>
+                - Questo progetto mira a creare una nuova infrastruttura di ricerca per la Rete Italiana dei Servizi
+                Geologici Regionali (RISG), una rete di coordinamento tra ISPRA, Servizio Geologico d’Italia e i servizi
+                Geologici Regionali (RGS), ovvero gli uffici tecnici delle Regioni, delle Province Autonome e delle
+                Agenzie Regionali per l’Ambiente con specifica delega in ambito geologico a livello regionale.
+              </div>
+            </li>
+            <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+              <img src="../images/pnrr/meet.png" href="https://www.ogs.it/it/progetti/meet" alt="Logo MEET"
+                style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
+              <div style="font-family: Arial, sans-serif; color: #333;">
+                <strong>MEET (Monitoring Earth Evolution and Tectonics)</strong>
+                - Questo progetto si propone di innovare il sistema di osservazione multidisciplinare italiano, in
+                particolare delle regioni maggiormente esposte ai rischi naturali, per fornire un’infrastruttura di
+                ricerca completamente aperta alla comunità scientifica, contribuendo alla comprensione dei rischi
+                naturali con l’obiettivo di applicare efficaci azioni di mitigazione, migliorando la nostra resilienza.
+              </div>
+            </li>
+            <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+              <img src="../images/pnrr/return.jpg" href="https://www.ogs.it/it/progetti/return" alt="Logo RETURN"
+                style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
+              <div style="font-family: Arial, sans-serif; color: #333;">
+                <strong>RETURN multi-Risk sciEnce for resilienT commUnities under a changiNg climate</strong>
+                - La Partnership Estesa RETURN è stata creata per rafforzare le filiere di ricerca a livello nazionale e
+                promuovere la loro partecipazione a iniziative europee su rischi ambientali, naturali e antropici. In
+                particolare, contribuirà a rafforzare le competenze chiave, il trasferimento tecnologico e di conoscenza
+                e a rafforzare la governance italiana nella gestione del rischio di catastrofi, con il coinvolgimento
+                delle pubbliche amministrazioni, degli stakeholder e delle imprese private.
+              </div>
+            </li>
+          </ul>
 
 
         </div>
       </main>
-       <div class="d-none d-md-block col-sm-4 offset-lg-1 col-lg-4 bd-toc">
+      <div class="d-none d-md-block col-sm-4 offset-lg-1 col-lg-4 bd-toc">
 
         <div class="sidebar-wrapper it-line-left-side">
           <div class="sidebar-linklist-wrapper">
@@ -127,18 +150,22 @@
                   <h3 class="no_toc">Links</h3>
                 </li>
                 <li>
-                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/itineris" target="_blank"><span>ITINERIS</span></a>
+                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/itineris"
+                    target="_blank"><span>ITINERIS</span></a>
                 </li>
 
                 <li>
-                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/geosciences-ir" target="_blank"><span>GeoSciences IR</span></a>
+                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/geosciences-ir"
+                    target="_blank"><span>GeoSciences IR</span></a>
                 </li>
 
                 <li>
-                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/meet" target="_blank"><span>MEET</span></a>
+                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/meet"
+                    target="_blank"><span>MEET</span></a>
                 </li>
                 <li>
-                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/return" target="_blank"><span>RETURN</span></a>
+                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/return"
+                    target="_blank"><span>RETURN</span></a>
                 </li>
 
                 </li>
@@ -146,7 +173,7 @@
             </div>
           </div>
         </div>
-      </div> 
+      </div>
     </div>
   </div>
 

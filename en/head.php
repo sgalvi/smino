@@ -107,7 +107,7 @@
         <div class="row">
           <div class="col-12">
 
-             <nav id="navbar" class="navbar navbar-expand-lg has-megamenu">
+            <nav id="navbar" class="navbar navbar-expand-lg has-megamenu">
               <button class="custom-navbar-toggler" type="button" aria-controls="nav10" aria-expanded="false"
                 aria-label="Toggle navigation" data-target="#nav10">
                 <svg class="icon">
@@ -128,7 +128,7 @@
                     <li class="nav-item">
                       <a class="nav-link" href="index.php"><span>Home</span></a>
                     </li>
-                    
+
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
                         <span>Networks</span>
@@ -147,9 +147,10 @@
                             <li>
                               <a class="list-item" href="./frednet.php"><span>Geodetic Network</span></a>
                             </li>
-                      
+
                             <li>
-                              <a class="list-item" href="./diffused.php"><span>Widespread Accelerometric Network</span></a>
+                              <a class="list-item" href="./diffused.php"><span>Widespread Accelerometric
+                                  Network</span></a>
                             </li>
                             <li>
                               <a class="list-item" href="./fibra.php"><span>Fiber Network</span></a>
@@ -158,7 +159,8 @@
                               <a class="list-item" href="./gravimetrica.php"><span>Gravimetric Network</span></a>
                             </li>
                             <li>
-                            <a class="list-item" href="https://www.crs.inogs.it/ipcam/" target="_blank"><span>Webcam</span></a>
+                              <a class="list-item" href="https://www.crs.inogs.it/ipcam/"
+                                target="_blank"><span>Webcam</span></a>
                             </li>
                           </ul>
                         </div>
@@ -177,10 +179,12 @@
                         <div class="link-list-wrapper">
                           <ul class="link-list">
                             <li>
-                              <a class="list-item" href="./conv_fvg.php"><span>FVG Civil Protection Agency Agreement</span></a>
+                              <a class="list-item" href="./conv_fvg.php"><span>FVG Civil Protection Agency
+                                  Agreement</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="./conv_ven.php" ><span>Veneto Civil Protection Agency Agreement</span></a>
+                              <a class="list-item" href="./conv_ven.php"><span>Veneto Civil Protection Agency
+                                  Agreement</span></a>
                             </li>
                             <li>
                               <a class="list-item" href="./pnrr.php"><span>PNRR and SMINO</span></a>
@@ -202,13 +206,16 @@
                         <div class="link-list-wrapper">
                           <ul class="link-list">
                             <li>
-                              <a class="list-item" href="https://terremoti.ogs.it" target="_blank"><span>RealTime Seismology - RTS</span></a>
+                              <a class="list-item" href="https://terremoti.ogs.it" target="_blank"><span>RealTime
+                                  Seismology - RTS</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://frednet.crs.ogs.it/" target="_blank"><span>GNSS Data - FREDNET</span></a>
+                              <a class="list-item" href="https://frednet.crs.ogs.it/" target="_blank"><span>GNSS Data -
+                                  FREDNET</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://gnssdata-epos.oca.eu/" target="_blank"><span>GNSS Data - EPOS</span></a>
+                              <a class="list-item" href="https://gnssdata-epos.oca.eu/" target="_blank"><span>GNSS Data
+                                  - EPOS</span></a>
                             </li>
                           </ul>
                         </div>
@@ -231,4 +238,4 @@
   </div>
 
 
-<body>
+  <body>

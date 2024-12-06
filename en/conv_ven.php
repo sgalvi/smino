@@ -58,10 +58,10 @@
 
 
 <body>
-<?php
+  <?php
   include 'cookiebar.php';
   include 'head.php';
-?>
+  ?>
 
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -74,12 +74,20 @@
         <div class="inner-content pb-5">
           <h1 class="pt-4 mb-5">Agreement with the Veneto Civil Protection Agency</h1>
 
-    
-  <p>The agreements with Veneto’s Civil Protection Agency originated in the 1990s. Over time, these agreements have led to the development of a protocol that regulates the timing and methods by which CRS communicates essential information to the Civil Protection in the event of seismic activity above a certain threshold, ensuring swift intervention coordination.</p>
 
-<p>These agreements guarantee not only the proper functioning and continuous improvement of the seismometric and accelerometric network but also research aimed at deepening the understanding of seismic events and their impact on the territory.</p>
+          <p>The agreements with Veneto’s Civil Protection Agency originated in the 1990s. Over time, these agreements
+            have led to the development of a protocol that regulates the timing and methods by which CRS communicates
+            essential information to the Civil Protection in the event of seismic activity above a certain threshold,
+            ensuring swift intervention coordination.</p>
 
-<p>In addition to regular activities, OGS and the Regional Civil Protection Agency have participated in European projects such as Armonia, which led to the installation of accelerometers in “sentinel” buildings in various municipalities to measure the effects of earthquakes on structures. This was followed by the Venet-ONE project.</p>
+          <p>These agreements guarantee not only the proper functioning and continuous improvement of the seismometric
+            and accelerometric network but also research aimed at deepening the understanding of seismic events and
+            their impact on the territory.</p>
+
+          <p>In addition to regular activities, OGS and the Regional Civil Protection Agency have participated in
+            European projects such as Armonia, which led to the installation of accelerometers in “sentinel” buildings
+            in various municipalities to measure the effects of earthquakes on structures. This was followed by the
+            Venet-ONE project.</p>
 
         </div>
       </main>

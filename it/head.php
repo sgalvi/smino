@@ -107,7 +107,7 @@
         <div class="row">
           <div class="col-12">
 
-             <nav id="navbar" class="navbar navbar-expand-lg has-megamenu">
+            <nav id="navbar" class="navbar navbar-expand-lg has-megamenu">
               <button class="custom-navbar-toggler" type="button" aria-controls="nav10" aria-expanded="false"
                 aria-label="Toggle navigation" data-target="#nav10">
                 <svg class="icon">
@@ -128,7 +128,7 @@
                     <li class="nav-item">
                       <a class="nav-link" href="index.php"><span>Home</span></a>
                     </li>
-                   
+
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
                         <span>Reti</span>
@@ -142,25 +142,26 @@
                         <div class="link-list-wrapper">
                           <ul class="link-list">
                             <li>
-                              <a class="list-item" href="./sismo.php" ><span>Rete Sismometrica</span></a>
+                              <a class="list-item" href="./sismo.php"><span>Rete Sismometrica</span></a>
                             </li>
                             <li>
                               <a class="list-item" href="./frednet.php"><span>Rete Geodetica</span></a>
                             </li>
-                           
+
                             <li>
-                              <a class="list-item" href="./diffusa.php" ><span>Rete Accelerometrica Diffusa</span></a>
+                              <a class="list-item" href="./diffusa.php"><span>Rete Accelerometrica Diffusa</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="./fibra.php" ><span>Rete Fibra</span></a>
+                              <a class="list-item" href="./fibra.php"><span>Rete Fibra</span></a>
                             </li>
                             <li>
                               <a class="list-item" href="./gravimetrica.php"><span>Rete Gravimetrica</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://www.crs.inogs.it/ipcam/" target="_blank"><span>Webcam</span></a>
+                              <a class="list-item" href="https://www.crs.inogs.it/ipcam/"
+                                target="_blank"><span>Webcam</span></a>
                             </li>
-                            
+
                           </ul>
                         </div>
                       </div>
@@ -178,13 +179,16 @@
                         <div class="link-list-wrapper">
                           <ul class="link-list">
                             <li>
-                              <a class="list-item" href="./conv_fvg.php" target="_blank"><span>Convenzione FVG - Prot. Civile</span></a>
+                              <a class="list-item" href="./conv_fvg.php" target="_blank"><span>Convenzione FVG - Prot.
+                                  Civile</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="./conv_ven.php" target="_blank"><span>Convenzione Veneto - Prot. Civile</span></a>
+                              <a class="list-item" href="./conv_ven.php" target="_blank"><span>Convenzione Veneto -
+                                  Prot. Civile</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="./pnrr.php" target="_blank"><span>Progetti PNRR e SMINO</span></a>
+                              <a class="list-item" href="./pnrr.php" target="_blank"><span>Progetti PNRR e
+                                  SMINO</span></a>
                             </li>
                           </ul>
                         </div>
@@ -203,13 +207,16 @@
                         <div class="link-list-wrapper">
                           <ul class="link-list">
                             <li>
-                              <a class="list-item" href="https://terremoti.ogs.it" target="_blank"><span>Terremoti in Tempo Reale - RTS</span></a>
+                              <a class="list-item" href="https://terremoti.ogs.it" target="_blank"><span>Terremoti in
+                                  Tempo Reale - RTS</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://gnssdata-epos.oca.eu/" target="_blank"><span>Dati GNSS - EPOS</span></a>
+                              <a class="list-item" href="https://gnssdata-epos.oca.eu/" target="_blank"><span>Dati GNSS
+                                  - EPOS</span></a>
                             </li>
                             <li>
-                              <a class="list-item" href="https://frednet.crs.ogs.it/" target="_blank"><span>Dati GNSS - FREDNET</span></a>
+                              <a class="list-item" href="https://frednet.crs.ogs.it/" target="_blank"><span>Dati GNSS -
+                                  FREDNET</span></a>
                             </li>
                           </ul>
                         </div>
@@ -233,4 +240,4 @@
   </div>
 
 
-<body>
+  <body>

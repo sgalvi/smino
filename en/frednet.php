@@ -58,10 +58,10 @@
 
 
 <body>
-<?php
+  <?php
   include 'cookiebar.php';
   include 'head.php';
-?>
+  ?>
 
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -74,30 +74,28 @@
         <div class="inner-content pb-5">
           <h1 class="pt-4 mb-5">Friuli Regional Deformation Network (FReDNet)</h1>
           <div class="landscape-image mb-4">
-            <img src="../images/frednet.png" 
-                class="img-fluid w-100" 
-                alt="Landscape view of Friuli region" 
-                style="max-height: 700px; object-fit: cover;">
+            <img src="../images/frednet.png" class="img-fluid w-100" alt="Landscape view of Friuli region"
+              style="max-height: 700px; object-fit: cover;">
           </div>
-    
-  <p>
-  FReDNet (Friuli Regional Deformation Network) is the crustal deformation monitoring system in
-Friuli Venezia Giulia that the Centre for Seismological Research began developing in 2002, with
-the installation of the first station (Zuliani et al., 2018; Tunini et al., 2024). In most cases, the
 
-Deliverable title here Pag. 7
-receivers have been installed in sites that already host the sensors of the OGS seismic network.
-FReDNet is also part of a broader geodetic survey program of the Adriatic microplate that includes
-repeating episodic measurements of geodetic points.</p>
-<p>
-FReDNet currently comprises 22 permanent GNSS receivers (GPS+GLONASS+Galileo+Beidou)
-for geodetic monitoring of crustal deformations in northeastern Italy. It also provides a real-time
-service for high-precision georeferenced navigation according to differential correction modes
-(RTK - Real Time Kinematic, and VRS - Virtual Reference Station). The service is freely
-accessible to public, private, and scientific users (Figure 3). The Network is integrated with the
-Friuli Venezia Giulia Region&#39;s geodetic network (Antonio Marussi network), the National Dynamic
-Network (RDN) of the Military Geographic Institute (IGM), and the European EUREF Permanent
-Network (EPN).</p>
+          <p>
+            FReDNet (Friuli Regional Deformation Network) is the crustal deformation monitoring system in
+            Friuli Venezia Giulia that the Centre for Seismological Research began developing in 2002, with
+            the installation of the first station (Zuliani et al., 2018; Tunini et al., 2024). In most cases, the
+
+            Deliverable title here Pag. 7
+            receivers have been installed in sites that already host the sensors of the OGS seismic network.
+            FReDNet is also part of a broader geodetic survey program of the Adriatic microplate that includes
+            repeating episodic measurements of geodetic points.</p>
+          <p>
+            FReDNet currently comprises 22 permanent GNSS receivers (GPS+GLONASS+Galileo+Beidou)
+            for geodetic monitoring of crustal deformations in northeastern Italy. It also provides a real-time
+            service for high-precision georeferenced navigation according to differential correction modes
+            (RTK - Real Time Kinematic, and VRS - Virtual Reference Station). The service is freely
+            accessible to public, private, and scientific users (Figure 3). The Network is integrated with the
+            Friuli Venezia Giulia Region&#39;s geodetic network (Antonio Marussi network), the National Dynamic
+            Network (RDN) of the Military Geographic Institute (IGM), and the European EUREF Permanent
+            Network (EPN).</p>
 
 
 

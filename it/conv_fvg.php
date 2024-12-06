@@ -58,10 +58,10 @@
 
 
 <body>
-<?php
+  <?php
   include 'cookiebar.php';
   include 'head.php';
-?>
+  ?>
 
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -74,19 +74,35 @@
         <div class="inner-content pb-5">
           <h1 class="pt-4 mb-5">Convenzione con la Protezione Civile del Friuli Venezia Giulia</h1>
 
-         
-            <p>Due leggi sono alla base dello stretto legame tra l'Istituto Nazionale di Oceanografia e di Geofisica Sperimentale - OGS ed in particolare il suo Centro di Ricerche Sismologiche (CRS) e la Protezione Civile della Regione Autonoma Friuli Venezia Giulia. Per l'OGS la legge istitutiva n. 828 del 1982, completata dalla legge n. 399 del 30 novembre 1989, che istituisce il CRS  e affida il compito di studiare la sismicità nell'Italia Nord-Orientale e di mantenere e sviluppare la sua rete di monitoraggio anche ai fini di protezione civile.</p>
 
-            <p>Per la Protezione Civile FVG la legge regionale del 31 dicembre 1986, n. 64, che ha istituito la seconda. Le convenzioni che si sono succedute negli anni hanno contribuito alla stesura di un protocollo che regola le modalità ed i tempi con cui il CRS, in caso di eventi sismici sopra una determinata soglia,  comunica alla Protezione Civile le informazioni necessarie al rapido coordinamento di eventuali interventi.</p>
+          <p>Due leggi sono alla base dello stretto legame tra l'Istituto Nazionale di Oceanografia e di Geofisica
+            Sperimentale - OGS ed in particolare il suo Centro di Ricerche Sismologiche (CRS) e la Protezione Civile
+            della Regione Autonoma Friuli Venezia Giulia. Per l'OGS la legge istitutiva n. 828 del 1982, completata
+            dalla legge n. 399 del 30 novembre 1989, che istituisce il CRS e affida il compito di studiare la sismicità
+            nell'Italia Nord-Orientale e di mantenere e sviluppare la sua rete di monitoraggio anche ai fini di
+            protezione civile.</p>
 
-            <p>Grazie alle convenzioni sono garantiti non soltanto il buon funzionamento ed il costante aggiornamento della rete sismometrica ed accelerometrica, ma anche la ricerca che porta a una sempre miglior comprensione delle modalità di accadimento degli eventi sismici e del loro risentimento sul territorio. Sempre in quest'ambito viene anche effettuata da parte del CRS l'istruzione e l'aggiornamento degli operatori volontari della protezione civile alla detezione e rapida stima dei danni in caso di terremoto.</p>
+          <p>Per la Protezione Civile FVG la legge regionale del 31 dicembre 1986, n. 64, che ha istituito la seconda.
+            Le convenzioni che si sono succedute negli anni hanno contribuito alla stesura di un protocollo che regola
+            le modalità ed i tempi con cui il CRS, in caso di eventi sismici sopra una determinata soglia, comunica alla
+            Protezione Civile le informazioni necessarie al rapido coordinamento di eventuali interventi.</p>
 
-            <p>Oltre alle normali attività, OGS e Protezione Civile Regionale hanno partecipato insieme a progetti europei come il progetto INTERREG IV Italia-Austria Hareia, mirato alla costuzione di una rete accelerometrica transfrontaliera e alla redazione di un catalogo comune, ed il progetto INTERREG V-A Italia-Austria ARMONIA, che ha portato all'installazione di accelerometri in edifici "sentinella" in diversi comuni, per misurare l'effetto dei terremoti sui fabbricati.</p>
+          <p>Grazie alle convenzioni sono garantiti non soltanto il buon funzionamento ed il costante aggiornamento
+            della rete sismometrica ed accelerometrica, ma anche la ricerca che porta a una sempre miglior comprensione
+            delle modalità di accadimento degli eventi sismici e del loro risentimento sul territorio. Sempre in
+            quest'ambito viene anche effettuata da parte del CRS l'istruzione e l'aggiornamento degli operatori
+            volontari della protezione civile alla detezione e rapida stima dei danni in caso di terremoto.</p>
+
+          <p>Oltre alle normali attività, OGS e Protezione Civile Regionale hanno partecipato insieme a progetti europei
+            come il progetto INTERREG IV Italia-Austria Hareia, mirato alla costuzione di una rete accelerometrica
+            transfrontaliera e alla redazione di un catalogo comune, ed il progetto INTERREG V-A Italia-Austria ARMONIA,
+            che ha portato all'installazione di accelerometri in edifici "sentinella" in diversi comuni, per misurare
+            l'effetto dei terremoti sui fabbricati.</p>
 
 
         </div>
       </main>
-    
+
     </div>
   </div>
 

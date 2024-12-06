@@ -58,10 +58,10 @@
 
 
 <body>
-<?php
+  <?php
   include 'cookiebar.php';
   include 'head.php';
-?>
+  ?>
 
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -74,23 +74,40 @@
         <div class="inner-content pb-5">
           <h1 class="pt-4 mb-5">La Rete accelerometica Diffusa</h1>
           <div class="landscape-image mb-4">
-            <img src="../images/venetone.png" 
-                class="img-fluid w-100" 
-                alt="Landscape view of Friuli region" 
-                style="max-height: 700px; object-fit: cover;">
+            <img src="../images/venetone.png" class="img-fluid w-100" alt="Landscape view of Friuli region"
+              style="max-height: 700px; object-fit: cover;">
           </div>
 
-  <p>
-       In aggiunta agli accelerometri della rete sismometrica, nell'ambito di diversi progetti strategici, tra cui il progetto "Edifici Sentinella", finanziato dalla Protezione Civile Regionale della Regione autonoma del Friuli Venezia Giulia, il progetto Interreg V-A Italia-Austria Armonia, è stata installata una densa rete di sensori accelerometrici tra Friuli Venezia Giulia e Veneto. I sensori della rete accelerometrica urbana sono stati sviluppati nell'ambito dei suddetti progetti dalla sinergia tra OGS e ADEL (direi qualcosa qua prendendo spunto dal lavoro sottomesso sul fatto che gli strumenti combinano le alte prestazioni nella registrazione delle accelerazioni del suolo per eventi moderati e forti ma hanno un costo ridotto). La disponibilità di tali sensori ha permesso di realizzare un'importante integrazione al monitoraggio sismico su larga scala, migliorando la capacità di raccolta dati nelle aree sensibili.
-   </p>
+          <p>
+            In aggiunta agli accelerometri della rete sismometrica, nell'ambito di diversi progetti strategici, tra cui
+            il progetto "Edifici Sentinella", finanziato dalla Protezione Civile Regionale della Regione autonoma del
+            Friuli Venezia Giulia, il progetto Interreg V-A Italia-Austria Armonia, è stata installata una densa rete di
+            sensori accelerometrici tra Friuli Venezia Giulia e Veneto. I sensori della rete accelerometrica urbana sono
+            stati sviluppati nell'ambito dei suddetti progetti dalla sinergia tra OGS e ADEL (direi qualcosa qua
+            prendendo spunto dal lavoro sottomesso sul fatto che gli strumenti combinano le alte prestazioni nella
+            registrazione delle accelerazioni del suolo per eventi moderati e forti ma hanno un costo ridotto). La
+            disponibilità di tali sensori ha permesso di realizzare un'importante integrazione al monitoraggio sismico
+            su larga scala, migliorando la capacità di raccolta dati nelle aree sensibili.
+          </p>
 
-   <p>
-       Inoltre la Regione del Veneto ha incaricato l'OGS di attuare l'Azione 5.1 del POR-FESR 2014-2020 "Integrazione e sviluppo di sistemi di prevenzione multirischio, anche attraverso reti digitali interoperabili di coordinamento operativo precoce". L'obiettivo principale è stato quello di realizzare una rete capillare di ulteriori circa 300 sensori accelerometrici a medio costo installati alla base di 317 edifici in 306 comuni del Veneto.
-   </p>
+          <p>
+            Inoltre la Regione del Veneto ha incaricato l'OGS di attuare l'Azione 5.1 del POR-FESR 2014-2020
+            "Integrazione e sviluppo di sistemi di prevenzione multirischio, anche attraverso reti digitali
+            interoperabili di coordinamento operativo precoce". L'obiettivo principale è stato quello di realizzare una
+            rete capillare di ulteriori circa 300 sensori accelerometrici a medio costo installati alla base di 317
+            edifici in 306 comuni del Veneto.
+          </p>
 
-   <p>
-       I dati raccolti da questa rete di sensori vengono acquisiti in tempo reale grazie a sofisticati sistemi di trasmissione e comunicazione. L'elaborazione immediata di queste informazioni contribuisce significativamente alla stima rapida dell'impatto degli eventi sismici, offrendo strumenti utili per le autorità competenti nella gestione delle emergenze. Questo sistema avanzato di monitoraggio permette una reazione tempestiva in caso di terremoti, migliorando la sicurezza e la protezione delle persone e degli edifici nelle aree a rischio. Nell'ambito del progetto inoltre, sono state acquisiti dal Dipartimento di Geoscienze dell'Università degli Studi di Padova sugli effetti di sito e sulle caratteristiche degli edifici.
-   </p>
+          <p>
+            I dati raccolti da questa rete di sensori vengono acquisiti in tempo reale grazie a sofisticati sistemi di
+            trasmissione e comunicazione. L'elaborazione immediata di queste informazioni contribuisce
+            significativamente alla stima rapida dell'impatto degli eventi sismici, offrendo strumenti utili per le
+            autorità competenti nella gestione delle emergenze. Questo sistema avanzato di monitoraggio permette una
+            reazione tempestiva in caso di terremoti, migliorando la sicurezza e la protezione delle persone e degli
+            edifici nelle aree a rischio. Nell'ambito del progetto inoltre, sono state acquisiti dal Dipartimento di
+            Geoscienze dell'Università degli Studi di Padova sugli effetti di sito e sulle caratteristiche degli
+            edifici.
+          </p>
 
         </div>
       </main>
@@ -103,9 +120,9 @@
                 <li>
                   <h3 class="no_toc">Links</h3>
                 </li>
-                <li><a class="list-item medium" href="https://v1.ogs.it/"
-                    target="_blank"><span>Rete accelerometrica diffusa per il monitoraggio del Veneto</span></a></li>
-                
+                <li><a class="list-item medium" href="https://v1.ogs.it/" target="_blank"><span>Rete accelerometrica
+                      diffusa per il monitoraggio del Veneto</span></a></li>
+
               </ul>
             </div>
           </div>

@@ -58,10 +58,10 @@
 
 
 <body>
-<?php
+  <?php
   include 'cookiebar.php';
   include 'head.php';
-?>
+  ?>
 
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -74,16 +74,29 @@
         <div class="inner-content pb-5">
           <h1 class="pt-4 mb-5">Agreement with the Friuli Venezia Giulia Civil Protection Agency</h1>
 
-       
-  <p>Two key laws form the basis of the close relationship between the National Institute of Oceanography and Experimental Geophysics (OGS), particularly its Seismological Research Center (CRS), and the Civil Protection Agency of the Autonomous Region of Friuli Venezia Giulia.</p>
 
-<p>For OGS, Law no. 828 of 1982, complemented by Law no. 399 of November 30, 1989, established the CRS, assigning it the task of studying seismic activity in Northeastern Italy and managing and developing a monitoring network for civil protection purposes. For the Friuli Venezia Giulia Civil Protection, Regional Law no. 64 of December 31, 1986, established the agency’s structure.</p>
+          <p>Two key laws form the basis of the close relationship between the National Institute of Oceanography and
+            Experimental Geophysics (OGS), particularly its Seismological Research Center (CRS), and the Civil
+            Protection Agency of the Autonomous Region of Friuli Venezia Giulia.</p>
 
-<p>Over the years, various agreements have helped establish a protocol that regulates the timing and methods by which CRS communicates essential information to Civil Protection in the event of seismic activity above a certain threshold, facilitating swift intervention coordination.</p>
+          <p>For OGS, Law no. 828 of 1982, complemented by Law no. 399 of November 30, 1989, established the CRS,
+            assigning it the task of studying seismic activity in Northeastern Italy and managing and developing a
+            monitoring network for civil protection purposes. For the Friuli Venezia Giulia Civil Protection, Regional
+            Law no. 64 of December 31, 1986, established the agency’s structure.</p>
 
-<p>These agreements ensure not only the proper functioning and continuous improvement of the seismometric and accelerometric network but also ongoing research aimed at better understanding seismic events and their impacts on the region. Within this framework, CRS also conducts training and updates for civil protection volunteers on detecting and rapidly assessing earthquake-related damage.</p>
+          <p>Over the years, various agreements have helped establish a protocol that regulates the timing and methods
+            by which CRS communicates essential information to Civil Protection in the event of seismic activity above a
+            certain threshold, facilitating swift intervention coordination.</p>
 
-<p>Beyond routine activities, OGS and the Regional Civil Protection Agency have collaborated on European projects like Hareia, which promoted the creation of a cross-border accelerometric network and a joint seismic catalog, and Armonia, which led to the installation of accelerometers in “sentinel” buildings across various municipalities to measure earthquake impacts on structures.</p>
+          <p>These agreements ensure not only the proper functioning and continuous improvement of the seismometric and
+            accelerometric network but also ongoing research aimed at better understanding seismic events and their
+            impacts on the region. Within this framework, CRS also conducts training and updates for civil protection
+            volunteers on detecting and rapidly assessing earthquake-related damage.</p>
+
+          <p>Beyond routine activities, OGS and the Regional Civil Protection Agency have collaborated on European
+            projects like Hareia, which promoted the creation of a cross-border accelerometric network and a joint
+            seismic catalog, and Armonia, which led to the installation of accelerometers in “sentinel” buildings across
+            various municipalities to measure earthquake impacts on structures.</p>
 
 
 

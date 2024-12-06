@@ -58,10 +58,10 @@
 
 
 <body>
-<?php
+  <?php
   include 'cookiebar.php';
   include 'head.php';
-?>
+  ?>
 
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -72,45 +72,68 @@
     <div class="row">
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
-        <h1 class="pt-4 mb-5">PNRR and SMINO Projects</h1>
+          <h1 class="pt-4 mb-5">PNRR and SMINO Projects</h1>
 
-        <ul style="list-style-type: none; padding-left: 0;">
-    <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-        <img src="../images/pnrr/itineris.png" href="https://www.ogs.it/it/progetti/itineris" alt="Itineris Logo" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
-        
-        <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-            <strong>SMINO</strong>, as a research infrastructure of national relevance (PNIR 2021-2027), is part of the National Recovery and Resilience Plan (PNRR) project <strong>ITINERIS</strong> (Italian Integrated Environmental Research Infrastructures System)
-            <a href="https://www.ogs.it/it/progetti/itineris" target="_blank" style="color: #0056b3; text-decoration: none;">[link]</a>, whose main objective is to develop interdisciplinary research in environmental sciences by coordinating a network of national nodes of 22 research infrastructures. This involves the use and reuse of existing (or pre-operational) data and services as well as new observations to address scientifically and socially relevant issues.
-            The project contributes to the development of the SMINO fiber optic network, the modernization of the instrument calibration center, and the extension of the network to the sea with a seafloor seismograph.
-        </p>
-    </li>
-</ul>
+          <ul style="list-style-type: none; padding-left: 0;">
+            <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+              <img src="../images/pnrr/itineris.png" href="https://www.ogs.it/it/progetti/itineris" alt="Itineris Logo"
+                style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
 
-<p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">Additionally, other projects within the PNRR are contributing to the modernization of the infrastructure:</p>
+              <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+                <strong>SMINO</strong>, as a research infrastructure of national relevance (PNIR 2021-2027), is part of
+                the National Recovery and Resilience Plan (PNRR) project <strong>ITINERIS</strong> (Italian Integrated
+                Environmental Research Infrastructures System)
+                <a href="https://www.ogs.it/it/progetti/itineris" target="_blank"
+                  style="color: #0056b3; text-decoration: none;">[link]</a>, whose main objective is to develop
+                interdisciplinary research in environmental sciences by coordinating a network of national nodes of 22
+                research infrastructures. This involves the use and reuse of existing (or pre-operational) data and
+                services as well as new observations to address scientifically and socially relevant issues.
+                The project contributes to the development of the SMINO fiber optic network, the modernization of the
+                instrument calibration center, and the extension of the network to the sea with a seafloor seismograph.
+              </p>
+            </li>
+          </ul>
 
-<ul style="list-style-type: none; padding-left: 0;">
-    <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-        <img src="../images/pnrr/Geoscience-RI.jpg" href="https://www.ogs.it/it/progetti/geosciences-ir" alt="GeoSciences IR Logo" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
-        <div style="font-family: Arial, sans-serif; color: #333;">
-            <strong>GeoSciences IR</strong>
-            - This project aims to create a new research infrastructure for the Italian Network of Regional Geological Services (RISG), a coordination network between ISPRA, the Geological Survey of Italy, and the Regional Geological Services (RGS), that is, the technical offices of the Regions, Autonomous Provinces, and Regional Environmental Agencies with specific delegation in the geological field at the regional level.
-        </div>
-    </li>
-    <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-        <img src="../images/pnrr/meet.png" href="https://www.ogs.it/it/progetti/meet" alt="MEET Logo" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
-        <div style="font-family: Arial, sans-serif; color: #333;">
-            <strong>MEET (Monitoring Earth Evolution and Tectonics)</strong>
-            - This project aims to innovate the Italian multidisciplinary observation system, particularly in regions most exposed to natural hazards, to provide a research infrastructure fully open to the scientific community, contributing to the understanding of natural hazards with the goal of applying effective mitigation actions, improving our resilience.
-        </div>
-    </li>
-    <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-        <img src="../images/pnrr/return.jpg" href="https://www.ogs.it/it/progetti/return" alt="RETURN Logo" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
-        <div style="font-family: Arial, sans-serif; color: #333;">
-            <strong>RETURN multi-Risk sciEnce for resilienT commUnities under a changiNg climate</strong>
-            - The Extended Partnership RETURN has been created to strengthen research chains at the national level and promote their participation in European initiatives on environmental, natural, and anthropogenic risks. In particular, it will contribute to strengthening key competencies, technology transfer, and knowledge and to enhance Italian governance in disaster risk management, involving public administrations, stakeholders, and private enterprises.
-        </div>
-    </li>
-</ul>
+          <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">Additionally, other projects within
+            the PNRR are contributing to the modernization of the infrastructure:</p>
+
+          <ul style="list-style-type: none; padding-left: 0;">
+            <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+              <img src="../images/pnrr/Geoscience-RI.jpg" href="https://www.ogs.it/it/progetti/geosciences-ir"
+                alt="GeoSciences IR Logo" style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
+              <div style="font-family: Arial, sans-serif; color: #333;">
+                <strong>GeoSciences IR</strong>
+                - This project aims to create a new research infrastructure for the Italian Network of Regional
+                Geological Services (RISG), a coordination network between ISPRA, the Geological Survey of Italy, and
+                the Regional Geological Services (RGS), that is, the technical offices of the Regions, Autonomous
+                Provinces, and Regional Environmental Agencies with specific delegation in the geological field at the
+                regional level.
+              </div>
+            </li>
+            <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+              <img src="../images/pnrr/meet.png" href="https://www.ogs.it/it/progetti/meet" alt="MEET Logo"
+                style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
+              <div style="font-family: Arial, sans-serif; color: #333;">
+                <strong>MEET (Monitoring Earth Evolution and Tectonics)</strong>
+                - This project aims to innovate the Italian multidisciplinary observation system, particularly in
+                regions most exposed to natural hazards, to provide a research infrastructure fully open to the
+                scientific community, contributing to the understanding of natural hazards with the goal of applying
+                effective mitigation actions, improving our resilience.
+              </div>
+            </li>
+            <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
+              <img src="../images/pnrr/return.jpg" href="https://www.ogs.it/it/progetti/return" alt="RETURN Logo"
+                style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
+              <div style="font-family: Arial, sans-serif; color: #333;">
+                <strong>RETURN multi-Risk sciEnce for resilienT commUnities under a changiNg climate</strong>
+                - The Extended Partnership RETURN has been created to strengthen research chains at the national level
+                and promote their participation in European initiatives on environmental, natural, and anthropogenic
+                risks. In particular, it will contribute to strengthening key competencies, technology transfer, and
+                knowledge and to enhance Italian governance in disaster risk management, involving public
+                administrations, stakeholders, and private enterprises.
+              </div>
+            </li>
+          </ul>
 
 
 
@@ -122,28 +145,32 @@
           <div class="sidebar-linklist-wrapper">
             <div class="link-list-wrapper">
               <ul class="link-list">
-              <li>
+                <li>
                   <h3 class="no_toc">Links</h3>
                 </li>
                 <li>
-                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/itineris" target="_blank"><span>ITINERIS</span></a>
+                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/itineris"
+                    target="_blank"><span>ITINERIS</span></a>
                 </li>
 
                 <li>
-                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/geosciences-ir" target="_blank"><span>GeoSciences IR</span></a>
+                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/geosciences-ir"
+                    target="_blank"><span>GeoSciences IR</span></a>
                 </li>
 
                 <li>
-                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/meet" target="_blank"><span>MEET</span></a>
+                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/meet"
+                    target="_blank"><span>MEET</span></a>
                 </li>
                 <li>
-                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/return" target="_blank"><span>RETURN</span></a>
+                  <a class="list-item medium" href="https://www.ogs.it/it/progetti/return"
+                    target="_blank"><span>RETURN</span></a>
                 </li>
               </ul>
             </div>
           </div>
         </div>
-      </div> 
+      </div>
     </div>
   </div>
 

@@ -58,10 +58,10 @@
 
 
 <body>
-<?php
+  <?php
   include 'cookiebar.php';
   include 'head.php';
-?>
+  ?>
 
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -72,16 +72,27 @@
     <div class="row">
       <main class="col-12 col-sm-8 col-lg-7">
         <div class="inner-content pb-5">
-          <h1 class="pt-4 mb-5">Convenzione con la  Protezione Civile del Veneto          </h1>
+          <h1 class="pt-4 mb-5">Convenzione con la Protezione Civile del Veneto </h1>
 
-       
-            <p>Le convenzioni con la Protezione civile del Veneto nascono negli anni Novanta del secolo scorso. Nel loro succedersi, hanno portato all’implementazione della rete sismometrica regionale e alla stesura di un protocollo che regola le modalità ed i tempi con cui il CRS, in caso di eventi sismici sopra una determinata soglia, comunica alla Protezione Civile le informazioni necessarie al rapido coordinamento di eventuali interventi.</p>
 
-            <p>Grazie alle convenzioni sono garantiti non soltanto il buon funzionamento ed il costante aggiornamento della rete sismometrica ed accelerometrica, ma anche la ricerca che porta a una sempre miglior comprensione delle modalità di accadimento degli eventi sismici e del loro risentimento sul territorio.</p>
+          <p>Le convenzioni con la Protezione civile del Veneto nascono negli anni Novanta del secolo scorso. Nel loro
+            succedersi, hanno portato all’implementazione della rete sismometrica regionale e alla stesura di un
+            protocollo che regola le modalità ed i tempi con cui il CRS, in caso di eventi sismici sopra una determinata
+            soglia, comunica alla Protezione Civile le informazioni necessarie al rapido coordinamento di eventuali
+            interventi.</p>
 
-            <p>Oltre alle normali attività, OGS e Protezione Civile Regionale hanno partecipato insieme a progetti europei per il potenziamento del monitoraggio sismico in ambito urbano, utile per la stima rapida degli effetti di un terremoto.</p>
+          <p>Grazie alle convenzioni sono garantiti non soltanto il buon funzionamento ed il costante aggiornamento
+            della rete sismometrica ed accelerometrica, ma anche la ricerca che porta a una sempre miglior comprensione
+            delle modalità di accadimento degli eventi sismici e del loro risentimento sul territorio.</p>
 
-            <p>Con un progetto pilota avviato nel 2018 (progetto INTERREG V-A Italia-Austria denominato ARMONIA) ed uno su più ampia scala completato nel 2022 (finanziato con fondi del programma POR-FESR Regione del Veneto 2014-2020) la Regione si è dotata di una rete capillare di sensori sismici installati alla base di 317 edifici in 306 comuni del Veneto (54% del totale).</p>
+          <p>Oltre alle normali attività, OGS e Protezione Civile Regionale hanno partecipato insieme a progetti europei
+            per il potenziamento del monitoraggio sismico in ambito urbano, utile per la stima rapida degli effetti di
+            un terremoto.</p>
+
+          <p>Con un progetto pilota avviato nel 2018 (progetto INTERREG V-A Italia-Austria denominato ARMONIA) ed uno su
+            più ampia scala completato nel 2022 (finanziato con fondi del programma POR-FESR Regione del Veneto
+            2014-2020) la Regione si è dotata di una rete capillare di sensori sismici installati alla base di 317
+            edifici in 306 comuni del Veneto (54% del totale).</p>
 
 
 

@@ -58,10 +58,10 @@
 
 
 <body>
-<?php
+  <?php
   include 'cookiebar.php';
   include 'head.php';
-?>
+  ?>
 
   <nav class="breadcrumb-container" aria-label="breadcrumb">
     <ol class="breadcrumb">
@@ -74,22 +74,44 @@
         <div class="inner-content pb-5">
           <h1 class="pt-4 mb-5">Rete di monitoraggio sismico e geodetico su fibre ottiche</h1>
 
-        
-            <p>
-                Il Distributed Acoustic Sensing (DAS) è una tecnologia innovativa che sfrutta le linee di fibra ottica esistenti per eseguire misure di deformazione dinamica del suolo (spostamento relativo o strain), utilizzando strumenti di interrogazione specifici. Questa tecnica consente la raccolta di dati dinamici (serie temporali continue) con una sensibilità paragonabile ai sensori sismici tradizionali, ma su distanze più ampie, fino a 50 km per interrogatore, con un'elevata risoluzione spaziale a livello metrico.          
-            </p>
-            <p>
-            Nell'ambito del Piano Nazionale di Ripresa e Resilienza (PNRR), Missione 4 "Istruzione e Ricerca" - Componente 2 "Dalla ricerca all'impresa", l'Unione Europea ha finanziato la proposta progettuale ITINERIS (Italian Integrated Environmental Research Infrastructures System), che mettendo a sistema le principali Infrastrutture di Ricerca di rilevanza nazionale a tema ambientale (tra cui SMINO),mira a sviluppare un'infrastruttura integrata per la ricerca ambientale in Italia, promuovendo l'eccellenza scientifica e la cooperazione internazionale.
-            </p>
-            <p>
-                Per raggiungere gli obiettivi di ITINERIS, il Centro di Ricerche Sismologiche (CRS) dell'OGS ha acquistato sei unità di interrogazione ottica modello iDAS (intelligent Distributed Acoustic Sensor). Questi dispositivi saranno integrati alle infrastrutture di comunicazione esistenti a scala regionale. L’uso di fibre ottiche lineari standard pre-esistenti  di vari chilometri di lunghezza permetterà sia una riduzione dei costi, sia la possibilità di monitorare in moto continuo e dettagliato il moto del suolo associato ai fenomeni sismici.
-            </p>
-            <p>
-                L'integrazione dei sistemi DAS nel Sistema di Monitoraggio dell'Italia Nord-Orientale (SMINO), gestito dal CRS, potenzierà l'infrastruttura di monitoraggio. Ciò migliorerà significativamente le capacità di rilevazione e allerta precoce dei fenomeni sismici, oltre a garantire un monitoraggio più efficace di deformazioni a medio e lungo termine, come la subsidenza. Questo rappresenta un progresso fondamentale per la Protezione Civile, aumentando la capacità di risposta e mitigazione dei rischi naturali 
-            </p>
-            <p>
-                L'applicazione su vasta scala della tecnologia DAS su aree urbane e regionali rappresenta il primo esperimento di questo genere in Italia e uno dei primi in Europa, con un impatto positivo sulla gestione del rischio sismico e sulla sicurezza del territorio. È in fase di definizione un accordo di collaborazione tra OGS e altri enti locali e regionali per supportare la Protezione Civile nelle attività di prevenzione e risposta alle emergenze, promuovendo una maggiore sicurezza per la popolazione.
-            </p>
+
+          <p>
+            Il Distributed Acoustic Sensing (DAS) è una tecnologia innovativa che sfrutta le linee di fibra ottica
+            esistenti per eseguire misure di deformazione dinamica del suolo (spostamento relativo o strain),
+            utilizzando strumenti di interrogazione specifici. Questa tecnica consente la raccolta di dati dinamici
+            (serie temporali continue) con una sensibilità paragonabile ai sensori sismici tradizionali, ma su distanze
+            più ampie, fino a 50 km per interrogatore, con un'elevata risoluzione spaziale a livello metrico.
+          </p>
+          <p>
+            Nell'ambito del Piano Nazionale di Ripresa e Resilienza (PNRR), Missione 4 "Istruzione e Ricerca" -
+            Componente 2 "Dalla ricerca all'impresa", l'Unione Europea ha finanziato la proposta progettuale ITINERIS
+            (Italian Integrated Environmental Research Infrastructures System), che mettendo a sistema le principali
+            Infrastrutture di Ricerca di rilevanza nazionale a tema ambientale (tra cui SMINO),mira a sviluppare
+            un'infrastruttura integrata per la ricerca ambientale in Italia, promuovendo l'eccellenza scientifica e la
+            cooperazione internazionale.
+          </p>
+          <p>
+            Per raggiungere gli obiettivi di ITINERIS, il Centro di Ricerche Sismologiche (CRS) dell'OGS ha acquistato
+            sei unità di interrogazione ottica modello iDAS (intelligent Distributed Acoustic Sensor). Questi
+            dispositivi saranno integrati alle infrastrutture di comunicazione esistenti a scala regionale. L’uso di
+            fibre ottiche lineari standard pre-esistenti di vari chilometri di lunghezza permetterà sia una riduzione
+            dei costi, sia la possibilità di monitorare in moto continuo e dettagliato il moto del suolo associato ai
+            fenomeni sismici.
+          </p>
+          <p>
+            L'integrazione dei sistemi DAS nel Sistema di Monitoraggio dell'Italia Nord-Orientale (SMINO), gestito dal
+            CRS, potenzierà l'infrastruttura di monitoraggio. Ciò migliorerà significativamente le capacità di
+            rilevazione e allerta precoce dei fenomeni sismici, oltre a garantire un monitoraggio più efficace di
+            deformazioni a medio e lungo termine, come la subsidenza. Questo rappresenta un progresso fondamentale per
+            la Protezione Civile, aumentando la capacità di risposta e mitigazione dei rischi naturali
+          </p>
+          <p>
+            L'applicazione su vasta scala della tecnologia DAS su aree urbane e regionali rappresenta il primo
+            esperimento di questo genere in Italia e uno dei primi in Europa, con un impatto positivo sulla gestione del
+            rischio sismico e sulla sicurezza del territorio. È in fase di definizione un accordo di collaborazione tra
+            OGS e altri enti locali e regionali per supportare la Protezione Civile nelle attività di prevenzione e
+            risposta alle emergenze, promuovendo una maggiore sicurezza per la popolazione.
+          </p>
         </div>
       </main>
     </div>
