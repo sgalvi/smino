@@ -80,22 +80,18 @@
                 style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
 
               <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-                <strong>SMINO</strong>, as a research infrastructure of national relevance (PNIR 2021-2027), is part of
-                the National Recovery and Resilience Plan (PNRR) project <strong>ITINERIS</strong> (Italian Integrated
-                Environmental Research Infrastructures System)
-                <a href="https://www.ogs.it/it/progetti/itineris" target="_blank"
-                  style="color: #0056b3; text-decoration: none;">[link]</a>, whose main objective is to develop
-                interdisciplinary research in environmental sciences by coordinating a network of national nodes of 22
-                research infrastructures. This involves the use and reuse of existing (or pre-operational) data and
-                services as well as new observations to address scientifically and socially relevant issues.
-                The project contributes to the development of the SMINO fiber optic network, the modernization of the
-                instrument calibration center, and the extension of the network to the sea with a seafloor seismograph.
+                <strong>SMINO</strong> one of the 22 research infrastructures of the ITINERIS National Recovery and
+                Resilience Plan (PNRR) project, which aims to develop interdisciplinary research in the environmental
+                sciences using existing data and new observations. ITINERIS also contributes to the development of the
+                SMINO optical fiber network, the extension of the network to the sea, and the modernization of the
+                calibration center. Other PNRR projects, such as GeoSciences IR, MEET, and RETURN, help improve
+                geological research, natural hazard monitoring, and community resilience.
               </p>
             </li>
           </ul>
 
-          <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">Additionally, other projects within
-            the PNRR are contributing to the modernization of the infrastructure:</p>
+          <!-- <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">Additionally, other projects within
+            the PNRR are contributing to the modernization of the infrastructure:</p> -->
 
           <ul style="list-style-type: none; padding-left: 0;">
             <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">

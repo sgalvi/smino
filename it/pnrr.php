@@ -80,25 +80,20 @@
                 style="max-width: 150px; margin-right: 15px; vertical-align: middle;">
 
               <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-                <strong>SMINO</strong>, in quanto infrastruttura di ricerca di rilevanza nazionale (PNIR 2021-2027), è
-                parte del progetto del Piano Nazionale di Ripresa e Resilienza (PNRR) <strong>ITINERIS</strong> (Italian
-                Integrated Environmental Research Infrastructures System)
-                <a href="https://www.ogs.it/it/progetti/itineris" target="_blank"
-                  style="color: #0056b3; text-decoration: none;">[link]</a>, il cui obiettivo principale è sviluppare la
-                ricerca interdisciplinare nelle scienze ambientali, coordinando una rete di nodi nazionali di 22
-                Infrastrutture di ricerca, attraverso l’uso e il riutilizzo di dati e servizi esistenti (o
-                pre-operativi) e nuove osservazioni, per affrontare questioni rilevanti dal punto di vista scientifico e
-                sociale.
-                Il progetto contribuisce allo sviluppo della rete di fibre ottiche di SMINO, nonché all’ammodernamento
-                del centro di taratura degli strumenti ed all’estensione a mare della rete con un sismografo da fondo.
+                <strong>SMINO</strong> è una delle 22 infrastrutture di ricerca del progetto ITINERIS del Piano
+                Nazionale di Ripresa e Resilienza (PNRR), che mira a sviluppare la ricerca interdisciplinare nelle
+                scienze ambientali, utilizzando dati esistenti e nuove osservazioni. Inoltre, ITINERIS contribuisce allo
+                sviluppo della rete di fibre ottiche di SMINO, l’estensione a mare della rete, e l’ammodernamento del
+                centro di taratura. Altri progetti del PNRR, come GeoSciences IR, MEET e RETURN, contribuiscono a
+                migliorare la ricerca geologica, il monitoraggio dei rischi naturali e la resilienza delle comunità.
               </p>
 
             </li>
           </ul>
 
 
-          <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">Inoltre altri progetti nell’ambito
-            del PNRR stanno contribuendo all’ammodernamento dell’infrastruttura:</p>
+          <!-- <p style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">Inoltre altri progetti nell’ambito
+            del PNRR stanno contribuendo all’ammodernamento dell’infrastruttura:</p> -->
 
           <ul style="list-style-type: none; padding-left: 0;">
             <li style="display: flex; align-items: flex-start; margin-bottom: 1em;">
